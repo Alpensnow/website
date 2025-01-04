@@ -1,0 +1,30 @@
+site_name: Aircraft Database
+site_url: https://mydomain.org/mysite
+
+markdown_extensions:
+  - attr_list
+  - md_in_html
+  - pymdownx.blocks.caption
+  - def_list
+  - pymdownx.tasklist:
+      custom_checkbox: true
+
+extra_css:
+  - stylesheets/extra.css
+
+theme:
+  name: lux
+  features:
+    - navigation.instant
+    - navigation.instant.progress
+    - navigation.instant.preview
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.tabs.sticky
+
+nav:
+  - Home: index.md
+  - World War I: wwi/introduction.md
+  - World War II: world_war_ii.md
+  - Cold War: cold_war.md
+  - Modern Day: modern_day.md
