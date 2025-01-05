@@ -1,4 +1,4 @@
-site_name: Aircraft Database
+site_name: Aircraft Guide
 site_url: https://mydomain.org/mysite
 
 markdown_extensions:
@@ -6,8 +6,7 @@ markdown_extensions:
   - md_in_html
   - pymdownx.blocks.caption
   - def_list
-  - pymdownx.tasklist:
-      custom_checkbox: true
+  - tables
 
 extra_css:
   - stylesheets/extra.css
@@ -17,14 +16,12 @@ theme:
   features:
     - navigation.instant
     - navigation.instant.progress
-    - navigation.instant.preview
     - navigation.tracking
     - navigation.tabs
     - navigation.tabs.sticky
 
 nav:
-  - Home: index.md
   - World War I: wwi/introduction.md
-  - World War II: world_war_ii.md
+  - World War II: wwii/introduction.md
   - Cold War: cold_war.md
   - Modern Day: modern_day.md
