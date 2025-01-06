@@ -1,4 +1,4 @@
-site_name: Aircraft Guide
+site_name: a
 site_url: https://mydomain.org/mysite
 
 markdown_extensions:
@@ -23,5 +23,5 @@ theme:
 nav:
   - World War I: wwi/introduction.md
   - World War II: wwii/introduction.md
-  - Cold War: cold_war.md
-  - Modern Day: modern_day.md
+  - Cold War: coldwar/introduction.md
+  - Modern Day: modernday/introduction.md

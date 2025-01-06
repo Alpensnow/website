@@ -9,32 +9,12 @@ fhsldfkjhsdalfksadfgl
 <br>
 
 <p align="center">
-  <img src="https://media.defense.gov/2014/Mar/11/2000783826/-1/-1/0/140310-F-NG006-007.JPG" width="70%">
+  <img src="https://media.defense.gov/2014/Mar/11/2000783826/-1/-1/0/140310-F-NG006-007.JPG" alt="F-35" width="70%">
 </p>
 
 <br>
 
 # List of Aircraft
-
-[Boeing B-17 Flying Fortress](wwii/boeing-b-17-flying-fortress.md)
-
-[Fokker Dr.I](wwi/fokker-dri.md)
-
-[Fokker Eindecker](wwi/fokker-eindecker.md)
-
-[Nieuport 17](wwi/nieuport-17.md)
-
-[North American P-51 Mustang](wwii/north-american-p-51-mustang.md)
-
-[Republic P-47 Thunderbolt](wwii/republic-p-47-thunderbolt.md)
-
-[Royal Aircraft Factor S.E.5](wwi/royal-aircraft-factory-se5.md)
-
-[Sopwith Camel](wwi/sopwith-camel.md)
-
-[SPAD S.XIII](wwi/spad-sxiii.md)
-
-[Vought F4U Corsair](wwii/vought-f4u-corsair.md)
 
 # Commands
 

@@ -2,7 +2,7 @@
 
 World War I marked the dawn of aerial warfare, a pivotal moment in military history that transformed the skies into a new battlefield. At the start of the war, airplanes were a novel invention, primarily used for reconnaissance missions to gather intelligence on enemy movements. However, as the conflict progressed, innovation surged, and warplanes evolved into critical tools for combat. Dogfights between rival pilots, bombing raids, and strafing runs became defining features of the air war, adding a dramatic new dimension to the battlefield.
 
-The war saw the emergence of legendary aircraft like the Sopwith Camel and the Fokker Dr.I, flown by iconic aces such as Manfred von Richthofen, more well known as the Red Baron. These early planes were marvels of ingenuity, crafted from wood and fabric but equipped with cutting-edge technologies of their time, such as synchronized machine guns that could fire through the propeller arc. Despite their simplicity by today’s standards, these aircraft set the foundation for the high performance warplanes that followed.
+The war saw the emergence of legendary aircraft like the Sopwith Camel and the Fokker Dr.I, flown by iconic aces such as Manfred von Richthofen, more well known as the Red Baron. These early planes were marvels of ingenuity, crafted from wood and fabric but equipped with cutting-edge technologies of their time, such as synchronized machine guns that could fire through the propeller arc. Despite their simplicity by today’s standards, these aircraft set the foundation for the high performance warplanes that followed. 
 
 <br>
 
@@ -14,26 +14,150 @@ The war saw the emergence of legendary aircraft like the Sopwith Camel and the F
 
 # United Kingdom
 
-British aircraft in World War I were at the forefront of developing new aerial tactics and technologies that would shape the future of military aviation. The British aircraft industry, although initially behind Germany and France in design and production, rapidly caught up and produced some of the most iconic planes of the war. Notable examples include the Sopwith Camel, renowned for its agility and effectiveness in dogfights, and the Vickers F.B.5 "Gunbus," one of the first true fighter planes. The Royal Flying Corps (RFC), later transformed into the Royal Air Force (RAF), became the first independent air force in the world, marking a significant evolution in military strategy. British planes were crucial not only for fighting in the skies but also for strategic reconnaissance, bombing missions, and close air support—paving the way for the expansion of air power in the decades to come.
+<div class="image-text">
+  <p>British aircraft in World War I were at the forefront of developing new aerial tactics and technologies that would shape the future of military aviation. The British aircraft industry, although initially behind Germany and France in design and production, rapidly caught up and produced some of the most iconic planes of the war.</p>
+  <img src="https://cdn2.picryl.com/photo/1918/04/01/the-royal-flying-corps-on-the-western-front-1914-1918-q11993-44586f-640.jpg" style="width: 50%; height: auto; margin-left: 50px;">
+</div>
+
+Notable examples include the Sopwith Camel, renowned for its agility and effectiveness in dogfights, and the Vickers F.B.5 "Gunbus," one of the first true fighter planes. The Royal Flying Corps (RFC), later transformed into the Royal Air Force (RAF), became the first independent air force in the world, marking a significant evolution in military strategy. British planes were crucial for strategic reconnaissance and close air support, paving the way for the expansion of air power in the decades to come.
 
 <br>
 
-[Sopwith Camel](sopwith-camel.md)
+<h3 class="center-header">Biplanes</h3>
 
-[Royal Aircraft Factory S.E.5](royal-aircraft-factory-se5.md)
+<div class="plane-grid-container">
+  <a href="/mysite/wwi/vickers-fb5/" class="plane-box">
+    <div class="plane-image-section">
+      <img src="https://www.baesystems.com/en-media/webImageWebp/20210403160827/1434657471448.webp" alt="Vickers F.B.5" class="plane-image" />
+    </div>
+    <div class="plane-caption">
+      <strong>Vickers F.B.5</strong>
+    </div>
+  </a>
+  <a href="/mysite/wwi/sopwith-camel/" class="plane-box">
+    <div class="plane-image-section">
+      <img src="https://cdn2.picryl.com/photo/1916/12/31/raf-sopwith-camel-2f1ed2-1024.jpg" alt="Sopwith Camel" class="plane-image"/>
+    </div>
+    <div class="plane-caption">
+      <strong>Sopwith Camel</strong>
+    </div>
+  </a>
+  <a href="/mysite/wwi/royal-aircraft-factory-se5/" class="plane-box">
+    <div class="plane-image-section">
+      <img src="https://cdn2.picryl.com/photo/1918/12/31/c02803phillippsse5a1918-56af70-640.jpg" alt="Royal Aircraft Factory S.E.5" class="plane-image"/>
+    </div>
+    <div class="plane-caption">
+      <strong>Royal Aircraft Factory S.E.5</strong>
+    </div>
+  </a>
+</div>
 
 <br>
 
 <br>
 
 # Germany
-Germany’s aviation efforts during World War I were defined by innovation, engineering excellence, and a strategic emphasis on creating highly effective fighters and bombers. The German Air Service, or Luftstreitkräfte, quickly became one of the most formidable air forces of the war, producing legendary aircraft that dominated the skies. German planes such as the Fokker Dr.I triplane, made famous by ace pilot Manfred von Richthofen, showcased unmatched maneuverability and firepower. Germany also led the development of synchronized machine guns, allowing pilots to fire through the spinning propeller without hitting the blades. While initially facing setbacks, German engineers perfected their designs and tactics, significantly impacting the role of air power in warfare and setting the stage for future advancements in military aviation.
+
+<div class="image-text">
+    <p>Germany’s aviation efforts during World War I were defined by innovation and an emphasis on creating highly effective planes. The German Air Service, Luftstreitkräfte, quickly became one of the most formidable air forces of the war, producing legendary aircraft that dominated the skies.</p>
+    <img src="https://airforcemuseum.co.nz/wp-content/uploads/2018/12/ALB920382b088-web.jpg" style="width: 50%; height: auto; margin-left: 50px;">
+</div>
+
+Fokker, a Dutch company founded by Anthony Fokker, became closely aligned with the German military, contributing iconic aircraft like the Fokker E.III and Fokker Dr.I. 
+One notable example is the Fokker Dr.I triplane, made famous by ace pilot Manfred von Richthofen, showcasing unmatched maneuverability and firepower. These planes featured innovations such as synchronized machine guns that allowed pilots to fire through the spinning propeller. While initially facing setbacks, German engineers perfected their designs and tactics, significantly impacting the role of air power in warfare and setting the stage for future advancements in military aviation.
 
 <br>
 
-[Fokker Eindecker](fokker-eindecker.md)
+<h3 class="center-header">Monoplanes</h3>
 
-[Fokker Dr.I](fokker-dri.md)
+<div class="plane-grid-container">
+  <a href="/mysite/wwi/fokker-eindecker/" class="plane-box">
+    <div class="plane-image-section">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Fokker_Eindecker_I.jpg/640px-Fokker_Eindecker_I.jpg" alt="Fokker Eindecker" class="plane-image" />
+    </div>
+    <div class="plane-caption">
+      <strong>Fokker Eindecker</strong>
+    </div>
+  </a>
+  <a href="/mysite/wwi/fokker-dvii/" class="plane-box">
+    <div class="plane-image-section">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Fokker_D_VII_2.jpg/220px-Fokker_D_VII_2.jpg" alt="Fokker D.VII" class="plane-image" />
+    </div>
+    <div class="plane-caption">
+      <strong>Fokker D.VII</strong>
+    </div>
+  </a>
+  <a href="/mysite/wwi/fokker-dviii/" class="plane-box">
+    <div class="plane-image-section">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/f/f2/Fokker_D.VIII_jachtvliegtuig_1918_2161_026294.jpg" alt="Fokker D.VIII" class="plane-image" />
+    </div>
+    <div class="plane-caption">
+      <strong>Fokker D.VIII</strong>
+    </div>
+  </a>
+</div>
+
+<br>
+
+<h3 class="center-header">Biplanes</h3>
+
+<div class="plane-grid-container">
+  <a href="/mysite/wwi/halberstadt-dii/" class="plane-box">
+    <div class="plane-image-section">
+      <img src="https://www.thatoneplease.co/buildlogs/Halb-D.II/seethrough.jpg" alt="Halberstadt D.II" class="plane-image" />
+    </div>
+    <div class="plane-caption">
+      <strong>Halberstadt D.II</strong>
+    </div>
+  </a>
+  <a href="/mysite/wwi/albatros-di/" class="plane-box">
+    <div class="plane-image-section">
+      <img src="https://www.aircraftinvestigation.info/airplanes/images/Albatros_D.I/image0.png" alt="Albatros D.I" class="plane-image" />
+    </div>
+    <div class="plane-caption">
+      <strong>Albatros D.I</strong>
+    </div>
+  </a>
+  <a href="/mysite/wwi/albatros-dv/" class="plane-box">
+    <div class="plane-image-section">
+      <img src="https://airforcemuseum.co.nz/wp-content/uploads/2018/12/ALB920382b035-web.jpg" alt="Albatros D.V" class="plane-image" />
+    </div>
+    <div class="plane-caption">
+      <strong>Albatros D.V</strong>
+    </div>
+  </a>
+</div>
+
+<br>
+
+<h3 class="center-header">Triplanes</h3>
+
+<div class="plane-grid-container">
+  <a href="/mysite/wwi/fokker-dri/" class="plane-box">
+    <div class="plane-image-section">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/c/c4/Fok.Dr.I.jpg" alt="Fokker Dr.I" class="plane-image" />
+    </div>
+    <div class="plane-caption">
+      <strong>Fokker Dr.I</strong>
+    </div>
+  </a>
+  <a href="/mysite/wwi/albatros-dri/" class="plane-box">
+    <div class="plane-image-section">
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1eaFgha2gIoqs6IPiZbBlmS6GTAGUYKcRWQ&s" alt="Albatros Dr.I" class="plane-image" />
+    </div>
+    <div class="plane-caption">
+      <strong>Albatros Dr.I</strong>
+    </div>
+  </a>
+  <a href="/mysite/wwi/siemens-schuckert-ddri/" class="plane-box">
+    <div class="plane-image-section">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Siemens_D_Dr_I.jpg/800px-Siemens_D_Dr_I.jpg" alt="Siemens-Schuckert DDr.I" class="plane-image" />
+    </div>
+    <div class="plane-caption">
+      <strong>Siemens-Schuckert DDr.I</strong>
+    </div>
+  </a>
+</div>
 
 <br>
 
@@ -41,9 +165,16 @@ Germany’s aviation efforts during World War I were defined by innovation, engi
 
 # France
 
-France played a pivotal role in the development of aerial combat during World War I, with French aircraft often at the cutting edge of innovation and design. The French Air Service, or Aéronautique Militaire, was the first to recognize the importance of air superiority, leading to the production of some of the war’s most influential planes. Aircraft like the Nieuport 11, known for its agility, and the SPAD S.XIII, renowned for its speed and firepower, became icons of the French air effort. France was also instrumental in pioneering aerial reconnaissance and bombing strategies. The country's commitment to aviation development led to the creation of a strong and well-coordinated air force that not only provided vital support to ground troops but also engaged in fierce aerial dogfights that helped shape the future of air combat.
+<div class="image-text">
+  <p>France played a pivotal role in the development of aerial combat during World War I, with French aircraft often at the cutting edge of innovation and design. The French Air Service, the Aéronautique Militaire, was the first to recognize the importance of air superiority, leading to the production of some of the war’s most influential planes.</p>
+  <img src="https://cdn2.picryl.com/photo/1917/12/16/the-french-air-force-on-the-western-front-1914-1918-q69229-2f8668-640.jpg" style="width: 50%; height: auto; margin-left: 50px;">
+</div>
+
+Aircraft like the Nieuport 11, known for its agility, and the SPAD S.XIII, renowned for its speed and firepower, became icons of the French air effort. France was also instrumental in pioneering aerial reconnaissance and bombing strategies. The country's commitment to aviation development led to the creation of a strong and well-coordinated air force that not only provided vital support to ground troops but also engaged in fierce aerial dogfights that helped shape the future of air combat.
 
 <br>
+
+#### Aircraft
 
 [Nieuport 17](nieuport-17.md)
 

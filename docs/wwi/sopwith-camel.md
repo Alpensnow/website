@@ -74,6 +74,13 @@ Developed by the British company Sopwith Aviation Company, the Camel was a singl
 
 <br>
 
+<figure class="centered-figure">
+  <img src="https://cdn2.picryl.com/photo/1918/12/31/800th-aero-squadron-5th-aaos-sopwith-camels-584827-1024.jpg" alt="Sopwith Camels of the 800th Aero Squadron" class="centered-image">
+  <figcaption class="caption">Sopwith Camels of the 800th Aero Squadron</figcaption>
+</figure>
+
+<br>
+
 ## History
 
 Lorem ipsum odor amet, consectetuer adipiscing elit. Tempus hendrerit platea sed dignissim rutrum. Gravida feugiat tempus justo sit velit penatibus. Finibus taciti risus duis fames cras quam velit netus bibendum. Rutrum risus nunc sociosqu adipiscing consequat. In quis aenean libero justo et. Nascetur odio convallis purus phasellus urna ante. Ex condimentum primis bibendum lobortis penatibus senectus litora phasellus.

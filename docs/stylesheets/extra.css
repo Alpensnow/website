@@ -1,26 +1,37 @@
-/* Remove Next and Previous Arrows */
+/* Edit Navigation Bar */
 
-.nav-link[rel="next"] {display: none;}
+.nav-link[rel="next"] {display: none;} /* Remove Arrows */
 .nav-link[rel="prev"] {display: none;}
 
+.navbar-collapse {
+    display: flex;
+    flex-direction: column; /* Stacks items vertically */
+}
+
+.navbar-nav.ms-md-auto {
+    margin-left: auto; /* Pushes the search icon to the far right on larger screens */
+}
+
+/* Font Size */
+
 p {
-    font-size: 18px;
-  }
+    font-size: 143%;
+}
 
 a {
-    font-size: 16px;
-    }
+    font-size: 144%;
+}
 
 a:not(.nav a) {
     color: #107896;
-    font-size: 18px;
-  }
+    font-size: 100%;
+}
 
 /* Table */
 
 .center-header {
     text-align: center;
-  }
+}
 
 .table_component {
     overflow: auto;
@@ -28,12 +39,11 @@ a:not(.nav a) {
 }
 
 .table_component table {
-    border: 1px solid #dededf;
     height: 100%;
     width: 100%;
     table-layout: fixed;
     border-collapse: separate;
-    border-spacing: 1px;
+    border-spacing: 1%;
     text-align: left;
 }
 
@@ -42,12 +52,92 @@ a:not(.nav a) {
     border: 1px solid #dededf;
     background-color: #eceff1;
     color: #000000;
-    padding: 10px;
+    padding: 1%;
 }
 
 .table_component td {
     border: 1px solid #dededf;
     background-color: #ffffff;
     color: #000000;
-    padding: 5px;
+    padding: 0.5%;
 }
+
+/* Image Next to Text */
+
+.image-text {
+    display: flex;
+    align-items: center; /* Aligns the image and text vertically */
+    margin-bottom: 2%; /* Adds a margin under */
+}
+
+.image-text img {
+    max-width: 40%;
+    height: auto; 
+    width: auto; 
+}
+
+.image-text p {
+    flex: 1; /* Ensures the paragraph takes up the remaining space */
+    margin: 0; /* Removes any default margin around the text */
+}
+
+/* Captioned Images */
+
+.centered-figure {
+    text-align: center; /* Center the text (caption) inside the figure */
+    margin: auto;  /* Auto margin to center the figure itself */
+    width: fit-content; /* Ensure the figure width fits the content (image + caption) */
+  }
+  
+.centered-image {
+    width: 70%;
+    height: auto;    /* Maintain the aspect ratio */
+}
+
+.caption {
+    font-size: 130%; /* Adjust the font size */
+    margin-top: 0.5%; /* Space between the image and the caption */
+    margin-bottom: 0.5%;
+}
+
+/* Planes Boxes */
+
+.plane-grid-container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr); /* Create 3 equal-width columns */
+    gap: 2%; /* Space between the boxes */
+}
+
+.plane-box {
+    display: flex;
+    flex-direction: column;
+    width: 100%; /* Set the width of the entire box */
+    aspect-ratio: 1; /* Height matches width */
+    background-color: #fff; /* White background */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Shadow underneath */
+    text-align: center;
+    cursor: pointer;
+    transition: box-shadow 0.3s; /* Optional: Smooth transition for shadow */
+}
+  
+.plane-image-section {
+    width: 100%;
+    height: 75%; /* Fixed height for the image section */
+    overflow: hidden; /* Hide any image overflow */
+}
+  
+.plane-image {
+    width: 100%; /* Image width fills the section */
+    height: 100%; /* Image height fills the section */
+    object-fit: cover; /* Ensures the image covers the area without distortion */
+}
+  
+.plane-caption {
+    font-size: 143%;
+    display: flex; /* Use Flexbox for alignment */
+    justify-content: center; /* Center horizontally */
+    align-items: center; /* Center vertically */
+    height: 25%; /* Match the remaining height of the box */
+    text-align: center; /* Center text alignment */
+}
+
