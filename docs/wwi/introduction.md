@@ -26,6 +26,14 @@ Notable examples include the Sopwith Camel, renowned for its agility and effecti
 <h3 class="center-header">Biplanes</h3>
 
 <div class="plane-grid-container">
+  <a href="/mysite/wwi/royal-aircraft-factory-be2/" class="plane-box">
+    <div class="plane-image-section">
+      <img src="https://ww1aviationheritagetrust.co.uk/wp-content/uploads/2021/12/GDH-and-Sykes-in-B.E.2-extended-prop-boss-scaled.jpg" alt="Royal Aircraft Factory B.E.2" class="plane-image"/>
+    </div>
+    <div class="plane-caption">
+      <strong>Royal Aircraft Factory B.E.2 &rarr;</strong>
+    </div>
+  </a>
   <a href="/mysite/wwi/vickers-fb5/" class="plane-box">
     <div class="plane-image-section">
       <img src="https://www.baesystems.com/en-media/webImageWebp/20210403160827/1434657471448.webp" alt="Vickers F.B.5" class="plane-image" />
