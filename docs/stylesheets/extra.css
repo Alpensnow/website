@@ -3,13 +3,19 @@
 .nav-link[rel="next"] {display: none;} /* Remove Arrows */
 .nav-link[rel="prev"] {display: none;}
 
-.navbar-collapse {
+.navbar .container {
     display: flex;
-    flex-direction: column; /* Stacks items vertically */
+    flex-direction: column;
+    align-items: center;
 }
 
-.navbar-nav.ms-md-auto {
-    margin-left: auto; /* Pushes the search icon to the far right on larger screens */
+.navbar-brand {
+    font-size: 300% !important;
+    margin: 0;
+}
+
+.navbar .navbar-nav.ms-md-auto .nav-item {
+    margin: 0 !important;
 }
 
 /* Font Size */
@@ -22,8 +28,7 @@ a {
     font-size: 144%;
 }
 
-a:not(.nav a) {
-    color: #107896;
+.col-md-12 a {
     font-size: 100%;
 }
 
@@ -133,11 +138,10 @@ a:not(.nav a) {
 }
   
 .plane-caption {
-    font-size: 143%;
+    font-size: calc(20% + 1vw);
     display: flex; /* Use Flexbox for alignment */
     justify-content: center; /* Center horizontally */
     align-items: center; /* Center vertically */
     height: 25%; /* Match the remaining height of the box */
     text-align: center; /* Center text alignment */
 }
-

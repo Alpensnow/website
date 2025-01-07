@@ -7,7 +7,7 @@ The war saw the emergence of legendary aircraft like the Sopwith Camel and the F
 <br>
 
 <p align="center">
-  <img src="https://historyguild.org/wp-content/uploads/2022/01/Planes_of_WW1-1.jpeg" width="80%">
+  <img src="https://hips.hearstapps.com/hmg-prod/images/gettyimages-614254802-1525813097.jpg" width="80%">
 </p>
 
 <br>
@@ -31,7 +31,15 @@ Notable examples include the Sopwith Camel, renowned for its agility and effecti
       <img src="https://www.baesystems.com/en-media/webImageWebp/20210403160827/1434657471448.webp" alt="Vickers F.B.5" class="plane-image" />
     </div>
     <div class="plane-caption">
-      <strong>Vickers F.B.5</strong>
+      <strong>Vickers F.B.5 &rarr;</strong>
+    </div>
+  </a>
+  <a href="/mysite/wwi/bristol-f2/" class="plane-box">
+    <div class="plane-image-section">
+      <img src="https://i.postimg.cc/wjQ2DkZD/Wg-F84-1.jpg" alt="Bristol F.2" class="plane-image"/>
+    </div>
+    <div class="plane-caption">
+      <strong>Bristol F.2 &rarr;</strong>
     </div>
   </a>
   <a href="/mysite/wwi/sopwith-camel/" class="plane-box">
@@ -39,7 +47,7 @@ Notable examples include the Sopwith Camel, renowned for its agility and effecti
       <img src="https://cdn2.picryl.com/photo/1916/12/31/raf-sopwith-camel-2f1ed2-1024.jpg" alt="Sopwith Camel" class="plane-image"/>
     </div>
     <div class="plane-caption">
-      <strong>Sopwith Camel</strong>
+      <strong>Sopwith Camel &rarr;</strong>
     </div>
   </a>
   <a href="/mysite/wwi/royal-aircraft-factory-se5/" class="plane-box">
@@ -47,7 +55,7 @@ Notable examples include the Sopwith Camel, renowned for its agility and effecti
       <img src="https://cdn2.picryl.com/photo/1918/12/31/c02803phillippsse5a1918-56af70-640.jpg" alt="Royal Aircraft Factory S.E.5" class="plane-image"/>
     </div>
     <div class="plane-caption">
-      <strong>Royal Aircraft Factory S.E.5</strong>
+      <strong>Royal Aircraft Factory S.E.5 &rarr;</strong>
     </div>
   </a>
 </div>
@@ -76,7 +84,7 @@ One notable example is the Fokker Dr.I triplane, made famous by ace pilot Manfre
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Fokker_Eindecker_I.jpg/640px-Fokker_Eindecker_I.jpg" alt="Fokker Eindecker" class="plane-image" />
     </div>
     <div class="plane-caption">
-      <strong>Fokker Eindecker</strong>
+      <strong>Fokker Eindecker &rarr;</strong>
     </div>
   </a>
   <a href="/mysite/wwi/fokker-dvii/" class="plane-box">
@@ -84,7 +92,7 @@ One notable example is the Fokker Dr.I triplane, made famous by ace pilot Manfre
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Fokker_D_VII_2.jpg/220px-Fokker_D_VII_2.jpg" alt="Fokker D.VII" class="plane-image" />
     </div>
     <div class="plane-caption">
-      <strong>Fokker D.VII</strong>
+      <strong>Fokker D.VII &rarr;</strong>
     </div>
   </a>
   <a href="/mysite/wwi/fokker-dviii/" class="plane-box">
@@ -92,7 +100,7 @@ One notable example is the Fokker Dr.I triplane, made famous by ace pilot Manfre
       <img src="https://upload.wikimedia.org/wikipedia/commons/f/f2/Fokker_D.VIII_jachtvliegtuig_1918_2161_026294.jpg" alt="Fokker D.VIII" class="plane-image" />
     </div>
     <div class="plane-caption">
-      <strong>Fokker D.VIII</strong>
+      <strong>Fokker D.VIII &rarr;</strong>
     </div>
   </a>
 </div>
@@ -107,7 +115,7 @@ One notable example is the Fokker Dr.I triplane, made famous by ace pilot Manfre
       <img src="https://www.thatoneplease.co/buildlogs/Halb-D.II/seethrough.jpg" alt="Halberstadt D.II" class="plane-image" />
     </div>
     <div class="plane-caption">
-      <strong>Halberstadt D.II</strong>
+      <strong>Halberstadt D.II &rarr;</strong>
     </div>
   </a>
   <a href="/mysite/wwi/albatros-di/" class="plane-box">
@@ -115,7 +123,7 @@ One notable example is the Fokker Dr.I triplane, made famous by ace pilot Manfre
       <img src="https://www.aircraftinvestigation.info/airplanes/images/Albatros_D.I/image0.png" alt="Albatros D.I" class="plane-image" />
     </div>
     <div class="plane-caption">
-      <strong>Albatros D.I</strong>
+      <strong>Albatros D.I &rarr;</strong>
     </div>
   </a>
   <a href="/mysite/wwi/albatros-dv/" class="plane-box">
@@ -123,7 +131,7 @@ One notable example is the Fokker Dr.I triplane, made famous by ace pilot Manfre
       <img src="https://airforcemuseum.co.nz/wp-content/uploads/2018/12/ALB920382b035-web.jpg" alt="Albatros D.V" class="plane-image" />
     </div>
     <div class="plane-caption">
-      <strong>Albatros D.V</strong>
+      <strong>Albatros D.V &rarr;</strong>
     </div>
   </a>
 </div>
@@ -138,15 +146,15 @@ One notable example is the Fokker Dr.I triplane, made famous by ace pilot Manfre
       <img src="https://upload.wikimedia.org/wikipedia/commons/c/c4/Fok.Dr.I.jpg" alt="Fokker Dr.I" class="plane-image" />
     </div>
     <div class="plane-caption">
-      <strong>Fokker Dr.I</strong>
+      <strong>Fokker Dr.I &rarr;</strong>
     </div>
   </a>
   <a href="/mysite/wwi/albatros-dri/" class="plane-box">
     <div class="plane-image-section">
-      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1eaFgha2gIoqs6IPiZbBlmS6GTAGUYKcRWQ&s" alt="Albatros Dr.I" class="plane-image" />
+      <img src="https://flyingmachines.ru/Images7/Centennial/27%20Albatros%204/169-1.jpg" alt="Albatros Dr.I" class="plane-image" />
     </div>
     <div class="plane-caption">
-      <strong>Albatros Dr.I</strong>
+      <strong>Albatros Dr.I &rarr;</strong>
     </div>
   </a>
   <a href="/mysite/wwi/siemens-schuckert-ddri/" class="plane-box">
@@ -154,7 +162,7 @@ One notable example is the Fokker Dr.I triplane, made famous by ace pilot Manfre
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Siemens_D_Dr_I.jpg/800px-Siemens_D_Dr_I.jpg" alt="Siemens-Schuckert DDr.I" class="plane-image" />
     </div>
     <div class="plane-caption">
-      <strong>Siemens-Schuckert DDr.I</strong>
+      <strong>Siemens-Schuckert DDr.I &rarr;</strong>
     </div>
   </a>
 </div>
@@ -174,11 +182,34 @@ Aircraft like the Nieuport 11, known for its agility, and the SPAD S.XIII, renow
 
 <br>
 
-#### Aircraft
+<h3 class="center-header">Biplanes</h3>
 
-[Nieuport 17](nieuport-17.md)
-
-[SPAD S.XIII](spad-sxiii.md)
+<div class="plane-grid-container">
+  <a href="/mysite/wwi/nieuport-17/" class="plane-box">
+    <div class="plane-image-section">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/d/d8/Nieuport_17bis_in_French_markings%2C_front_quarter.jpg" alt="Nieuport 17" class="plane-image" />
+    </div>
+    <div class="plane-caption">
+      <strong>Nieuport 17 &rarr;</strong>
+    </div>
+  </a>
+  <a href="/mysite/wwi/spad-svii/" class="plane-box">
+    <div class="plane-image-section">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/c/c4/RFC_SPAD_VII_on_ground.jpg" alt="SPAD S.VII" class="plane-image" />
+    </div>
+    <div class="plane-caption">
+      <strong>SPAD S.VII &rarr;</strong>
+    </div>
+  </a>
+  <a href="/mysite/wwi/spad-sxiii/" class="plane-box">
+    <div class="plane-image-section">
+      <img src="https://cdn2.picryl.com/photo/1918/12/31/spad-sxiii-front-b585d8-1024.jpg" alt="SPAD S.XIII" class="plane-image" />
+    </div>
+    <div class="plane-caption">
+      <strong>SPAD S.XIII &rarr;</strong>
+    </div>
+  </a>
+</div>
 
 <br>
 

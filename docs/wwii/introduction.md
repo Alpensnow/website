@@ -28,7 +28,7 @@ Accumsan non nam faucibus praesent urna imperdiet interdum. Id duis porta dui pl
 <div class="plane-grid-container">
   <a href="/mysite/wwii/republic-p-47-thunderbolt/" class="plane-box">
     <div class="plane-image-section">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/0/07/P47_Thunderbolt_-_Chino_2014_%28cropped%29.jpg" alt="Republic P-47 Thunderbolt" class="plane-image" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Republic_P-47N_Thunderbolt_in_flight.jpg" alt="Republic P-47 Thunderbolt" class="plane-image" />
     </div>
     <div class="plane-caption">
       <strong>Republic P-47 Thunderbolt</strong>
@@ -36,7 +36,7 @@ Accumsan non nam faucibus praesent urna imperdiet interdum. Id duis porta dui pl
   </a>
   <a href="/mysite/wwii/north-american-p-51-mustang/" class="plane-box">
     <div class="plane-image-section">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/5/55/North_American_P-51D-5-NA_Mustang_%E2%80%98413521_-_5Q-B%E2%80%99_%E2%80%9CMarinell%E2%80%9D_%28G-MRLL%29_%2814868134780%29.jpg" alt="North American P-51 Mustang" class="plane-image" />
+      <img src="https://www.mustangsmustangs.com/p-51/p51history/XP-51D-500x333.jpg" alt="North American P-51 Mustang" class="plane-image" />
     </div>
     <div class="plane-caption">
       <strong>North American P-51 Mustang</strong>
@@ -51,7 +51,7 @@ Accumsan non nam faucibus praesent urna imperdiet interdum. Id duis porta dui pl
 <div class="plane-grid-container">
   <a href="/mysite/wwii/vought-f4u-corsair/" class="plane-box">
     <div class="plane-image-section">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/6/66/Vought_F4U_Corsair_%28USMC%29.jpg" alt="Vought F4U Corsair" class="plane-image" />
+      <img src="https://preview.redd.it/nwylaymoybs11.jpg?width=1080&crop=smart&auto=webp&s=e93d381fa127dc4df241ab638e5e5a20d47998a7" alt="Vought F4U Corsair" class="plane-image" />
     </div>
     <div class="plane-caption">
       <strong>Vought F4U Corsair</strong>
