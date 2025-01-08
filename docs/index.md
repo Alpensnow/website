@@ -1,8 +1,6 @@
 # Introduction
 
-Lorem ipsum odor amet, consectetuer adipiscing elit. Tempus hendrerit platea sed dignissim rutrum. Gravida feugiat tempus justo sit velit penatibus. Finibus taciti risus duis fames cras quam velit netus bibendum. Rutrum risus nunc sociosqu adipiscing consequat. In quis aenean libero justo et. Nascetur odio convallis purus phasellus urna ante. Ex condimentum primis bibendum lobortis penatibus senectus litora phasellus.
-
-Proin fames lobortis dolor lacus et hac porta laoreet? Ante habitant lorem mattis; ridiculus bibendum odio habitasse id facilisis. Consectetur felis odio ultricies tellus facilisis netus faucibus massa. Id elementum turpis cursus; ante tellus aenean. Risus vehicula tincidunt, adipiscing nostra auctor et mauris. Hendrerit quisque torquent accumsan ex dictum. Tempus auctor porta ipsum ultricies sapien platea mattis elementum porttitor.
+This website serves as a comprehensive guide to various aircraft throughout history, including detailed information and specifications of each aircraft.
 
 <br>
 
