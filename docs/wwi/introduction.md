@@ -23,7 +23,7 @@ Notable examples include the Sopwith Camel, renowned for its agility and effecti
 
 <br>
 
-<h3 class="center-header">Biplanes</h3>
+<h3 class="center-header">Reconnaissance</h3>
 
 <div class="plane-grid-container">
   <a href="/mysite/wwi/royal-aircraft-factory-be2/" class="plane-box">
@@ -34,6 +34,29 @@ Notable examples include the Sopwith Camel, renowned for its agility and effecti
       <strong>Royal Aircraft Factory B.E.2 &rarr;</strong>
     </div>
   </a>
+  <a href="/mysite/wwi/royal-aircraft-factory-re1/" class="plane-box">
+    <div class="plane-image-section">
+      <img src="https://flyingmachines.ru/Images7/Putnam/Brit_Bruce/426-1.jpg" alt="Royal Aircraft Factory R.E.1" class="plane-image"/>
+    </div>
+    <div class="plane-caption">
+      <strong>Royal Aircraft Factory R.E.1 &rarr;</strong>
+    </div>
+  </a>
+  <a href="/mysite/wwi/armstrong-whitworth-fk8/" class="plane-box">
+    <div class="plane-image-section">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/A.W._F.K.8_%28Late_production_1%29.jpg/1200px-A.W._F.K.8_%28Late_production_1%29.jpg" alt="Armstrong Whitworth F.K.8" class="plane-image"/>
+    </div>
+    <div class="plane-caption">
+      <strong>Armstrong Whitworth F.K.8 &rarr;</strong>
+    </div>
+  </a>
+</div>
+
+<br>
+
+<h3 class="center-header">Fighter</h3>
+
+<div class="plane-grid-container">
   <a href="/mysite/wwi/vickers-fb5/" class="plane-box">
     <div class="plane-image-section">
       <img src="https://www.baesystems.com/en-media/webImageWebp/20210403160827/1434657471448.webp" alt="Vickers F.B.5" class="plane-image" />
@@ -50,7 +73,7 @@ Notable examples include the Sopwith Camel, renowned for its agility and effecti
       <strong>Bristol F.2 &rarr;</strong>
     </div>
   </a>
-  <a href="/mysite/wwi/sopwith-camel/" class="plane-box">
+  <a href="/mysite/wwi/Sopwith-Camel/" class="plane-box">
     <div class="plane-image-section">
       <img src="https://cdn2.picryl.com/photo/1916/12/31/raf-sopwith-camel-2f1ed2-1024.jpg" alt="Sopwith Camel" class="plane-image"/>
     </div>
@@ -84,7 +107,7 @@ One notable example is the Fokker Dr.I triplane, made famous by ace pilot Manfre
 
 <br>
 
-<h3 class="center-header">Monoplanes</h3>
+<h3 class="center-header">Fighter</h3>
 
 <div class="plane-grid-container">
   <a href="/mysite/wwi/fokker-eindecker/" class="plane-box">
@@ -111,13 +134,6 @@ One notable example is the Fokker Dr.I triplane, made famous by ace pilot Manfre
       <strong>Fokker D.VIII &rarr;</strong>
     </div>
   </a>
-</div>
-
-<br>
-
-<h3 class="center-header">Biplanes</h3>
-
-<div class="plane-grid-container">
   <a href="/mysite/wwi/halberstadt-dii/" class="plane-box">
     <div class="plane-image-section">
       <img src="https://www.thatoneplease.co/buildlogs/Halb-D.II/seethrough.jpg" alt="Halberstadt D.II" class="plane-image" />
@@ -142,35 +158,12 @@ One notable example is the Fokker Dr.I triplane, made famous by ace pilot Manfre
       <strong>Albatros D.V &rarr;</strong>
     </div>
   </a>
-</div>
-
-<br>
-
-<h3 class="center-header">Triplanes</h3>
-
-<div class="plane-grid-container">
   <a href="/mysite/wwi/fokker-dri/" class="plane-box">
     <div class="plane-image-section">
       <img src="https://upload.wikimedia.org/wikipedia/commons/c/c4/Fok.Dr.I.jpg" alt="Fokker Dr.I" class="plane-image" />
     </div>
     <div class="plane-caption">
       <strong>Fokker Dr.I &rarr;</strong>
-    </div>
-  </a>
-  <a href="/mysite/wwi/albatros-dri/" class="plane-box">
-    <div class="plane-image-section">
-      <img src="https://flyingmachines.ru/Images7/Centennial/27%20Albatros%204/169-1.jpg" alt="Albatros Dr.I" class="plane-image" />
-    </div>
-    <div class="plane-caption">
-      <strong>Albatros Dr.I &rarr;</strong>
-    </div>
-  </a>
-  <a href="/mysite/wwi/siemens-schuckert-ddri/" class="plane-box">
-    <div class="plane-image-section">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Siemens_D_Dr_I.jpg/800px-Siemens_D_Dr_I.jpg" alt="Siemens-Schuckert DDr.I" class="plane-image" />
-    </div>
-    <div class="plane-caption">
-      <strong>Siemens-Schuckert DDr.I &rarr;</strong>
     </div>
   </a>
 </div>
@@ -190,7 +183,7 @@ Aircraft like the Nieuport 11, known for its agility, and the SPAD S.XIII, renow
 
 <br>
 
-<h3 class="center-header">Biplanes</h3>
+<h3 class="center-header">Fighter</h3>
 
 <div class="plane-grid-container">
   <a href="/mysite/wwi/nieuport-17/" class="plane-box">

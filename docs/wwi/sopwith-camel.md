@@ -17,7 +17,7 @@
   <tbody>
     <tr>
       <td>Crew</td>
-      <td>1 (pilot)</td>
+      <td>2</td>
     </tr>
     <tr>
       <td>Engine</td>
@@ -37,7 +37,7 @@
     </tr>
     <tr>
       <td>Wing Area</td>
-      <td>21.5 m² / 231.42 ft²</td>
+      <td>21.5 m² / 231.4 ft²</td>
     </tr>
     <tr>
       <td>Take-off Weight</td>
