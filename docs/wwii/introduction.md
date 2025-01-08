@@ -26,7 +26,7 @@ Accumsan non nam faucibus praesent urna imperdiet interdum. Id duis porta dui pl
 <h4 class="center-header">Fighters</h4>
 
 <div class="plane-grid-container">
-<a href="/mysite/wwii/Lockheed-P-38-Lightning/" class="plane-box">
+<a href="/website/wwii/Lockheed-P-38-Lightning/" class="plane-box">
     <div class="plane-image-section">
       <img src="https://www.thoughtco.com/thmb/PY3527xXfk5kw3IGwRTs_gcLSlg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/P-38-Lightning-56a61a9c5f9b58b7d0dfebfb.jpg" alt="Lockheed P-38 Lightning" class="plane-image" />
     </div>
@@ -34,7 +34,7 @@ Accumsan non nam faucibus praesent urna imperdiet interdum. Id duis porta dui pl
       <strong>Lockheed P-38 Lightning &rarr;</strong>
     </div>
   </a>
-  <a href="/mysite/wwii/north-american-p-51-mustang/" class="plane-box">
+  <a href="/website/wwii/north-american-p-51-mustang/" class="plane-box">
     <div class="plane-image-section">
       <img src="https://www.mustangsmustangs.com/p-51/p51history/XP-51D-500x333.jpg" alt="North American P-51 Mustang" class="plane-image" />
     </div>
@@ -42,7 +42,7 @@ Accumsan non nam faucibus praesent urna imperdiet interdum. Id duis porta dui pl
       <strong>North American P-51 Mustang &rarr;</strong>
     </div>
   </a>
-  <a href="/mysite/wwii/republic-p-47-thunderbolt/" class="plane-box">
+  <a href="/website/wwii/republic-p-47-thunderbolt/" class="plane-box">
     <div class="plane-image-section">
       <img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Republic_P-47N_Thunderbolt_in_flight.jpg" alt="Republic P-47 Thunderbolt" class="plane-image" />
     </div>
@@ -50,7 +50,7 @@ Accumsan non nam faucibus praesent urna imperdiet interdum. Id duis porta dui pl
       <strong>Republic P-47 Thunderbolt &rarr;</strong>
     </div>
   </a>
-  <a href="/mysite/wwii/northrop-p-61-black-widow/" class="plane-box">
+  <a href="/website/wwii/northrop-p-61-black-widow/" class="plane-box">
     <div class="plane-image-section">
       <img src="https://i0.wp.com/plane-encyclopedia.com/wp-content/uploads/2021/11/p61_44_42-5544-assigned-to-the-422nd-Night-Fighter-Squadron.-SAN-DIEGO-AIR-AND-SPACE.jpg?ssl=1" alt="Northrop P-61 Black Widow" class="plane-image" />
     </div>
@@ -65,7 +65,7 @@ Accumsan non nam faucibus praesent urna imperdiet interdum. Id duis porta dui pl
 <h4 class="center-header">Carrier Fighters</h4>
 
 <div class="plane-grid-container">
-  <a href="/mysite/wwii/grumman-f4f-wildcat/" class="plane-box">
+  <a href="/website/wwii/grumman-f4f-wildcat/" class="plane-box">
     <div class="plane-image-section">
       <img src="https://lh4.googleusercontent.com/proxy/EZQ-IBPKbkyaMVfCwvqnR44oyeczgVa6qY236l0ubrlI6ss5PU7qZMeflNgqAvIdRNbIvwl_Mr07eIH947OsMX94xFX8CVA" alt="Grumman F4F Wildcat" class="plane-image" />
     </div>
@@ -73,7 +73,7 @@ Accumsan non nam faucibus praesent urna imperdiet interdum. Id duis porta dui pl
       <strong>Grumman F4F Wildcat &rarr;</strong>
     </div>
   </a>
-  <a href="/mysite/wwii/vought-f4u-corsair/" class="plane-box">
+  <a href="/website/wwii/vought-f4u-corsair/" class="plane-box">
     <div class="plane-image-section">
       <img src="https://preview.redd.it/nwylaymoybs11.jpg?width=1080&crop=smart&auto=webp&s=e93d381fa127dc4df241ab638e5e5a20d47998a7" alt="Vought F4U Corsair" class="plane-image" />
     </div>
@@ -81,7 +81,7 @@ Accumsan non nam faucibus praesent urna imperdiet interdum. Id duis porta dui pl
       <strong>Vought F4U Corsair &rarr;</strong>
     </div>
   </a>
-  <a href="/mysite/wwii/grumman-f6f-hellcat/" class="plane-box">
+  <a href="/website/wwii/grumman-f6f-hellcat/" class="plane-box">
     <div class="plane-image-section">
       <img src="https://i0.wp.com/www.defensemedianetwork.com/wp-content/uploads/2014/01/F6F-Hellcats-bw.jpg?ssl=1" alt="Grumman F6F Hellcat" class="plane-image" />
     </div>
@@ -96,7 +96,7 @@ Accumsan non nam faucibus praesent urna imperdiet interdum. Id duis porta dui pl
 <h4 class="center-header">Bombers</h4>
 
 <div class="plane-grid-container">
-  <a href="/mysite/wwii/boeing-b-17-flying-fortress/" class="plane-box">
+  <a href="/website/wwii/boeing-b-17-flying-fortress/" class="plane-box">
     <div class="plane-image-section">
       <img src="https://cdn.britannica.com/61/100961-050-E7960C03/B-17-Flying-Fortress.jpg" alt="Boeing B-17" class="plane-image" />
     </div>
@@ -104,7 +104,7 @@ Accumsan non nam faucibus praesent urna imperdiet interdum. Id duis porta dui pl
       <strong>Boeing B-17 &rarr;</strong>
     </div>
   </a>
-  <a href="/mysite/wwii/north-american-b-25-mitchell/" class="plane-box">
+  <a href="/website/wwii/north-american-b-25-mitchell/" class="plane-box">
     <div class="plane-image-section">
       <img src="https://cdn.britannica.com/30/133830-050-2715ECB1/US-Army-Air-Forces-B-25-Mitchell-World.jpg" alt="North American B-25 Mitchell" class="plane-image" />
     </div>
@@ -112,7 +112,7 @@ Accumsan non nam faucibus praesent urna imperdiet interdum. Id duis porta dui pl
       <strong>North American B-25 Mitchell &rarr;</strong>
     </div>
   </a>
-  <a href="/mysite/wwii/consolidated-b-24-liberator/" class="plane-box">
+  <a href="/website/wwii/consolidated-b-24-liberator/" class="plane-box">
     <div class="plane-image-section">
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Maxwell_B-24_%28cropped%29.jpg/1200px-Maxwell_B-24_%28cropped%29.jpg" alt="Consolidated B-24 Liberator" class="plane-image" />
     </div>
@@ -120,7 +120,7 @@ Accumsan non nam faucibus praesent urna imperdiet interdum. Id duis porta dui pl
       <strong>Consolidated B-24 Liberator &rarr;</strong>
     </div>
   </a>
-  <a href="/mysite/wwii/boeing-b-29-superfortress/" class="plane-box">
+  <a href="/website/wwii/boeing-b-29-superfortress/" class="plane-box">
     <div class="plane-image-section">
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/B-29_in_flight.jpg/800px-B-29_in_flight.jpg" alt="Boeing B-29 Superfortress" class="plane-image" />
     </div>
