@@ -1,5 +1,5 @@
 site_name: Aircraft Guide
-site_url: https://mydomain.org/mysite
+site_url: https://mydomain.org/website
 
 markdown_extensions:
   - attr_list
