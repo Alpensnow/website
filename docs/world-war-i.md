@@ -13,11 +13,11 @@ World War I marked the dawn of aerial warfare, a pivotal moment in history that 
 # United Kingdom
 
 <div class="image-text">
-  <p>British aircraft in World War I were at the forefront of developing new aerial tactics and technologies that would shape the future of military aviation. The British aircraft industry, although initially behind Germany and France in design and production, rapidly caught up and produced some of the most iconic planes of the war.</p>
+  <p>In 1912, the Royal Flying Corps (RFC) was founded with a military and naval wing, along with a central flying school. The RFC's early years were spent testing aircraft for artillery spotting and aerial photography. At the outbreak of the First World War in 1914, the RFC comprised of only three squadrons with about 30 serviceable aircraft, but quickly expanded.</p>
   <img src="https://cdn2.picryl.com/photo/1918/04/01/the-royal-flying-corps-on-the-western-front-1914-1918-q11993-44586f-640.jpg" style="width: 50%; height: auto; margin-left: 50px;">
 </div>
 
-Notable examples include the Sopwith Camel, renowned for its agility and effectiveness in dogfights, and the Vickers F.B.5 "Gunbus," one of the first true fighter planes. The Royal Flying Corps (RFC), later transformed into the Royal Air Force (RAF), became the first independent air force in the world, marking a significant evolution in military strategy. British planes were crucial for strategic reconnaissance and close air support, paving the way for the expansion of air power in the decades to come.
+The British aircraft industry, initially behind Germany and France in design and production, rapidly caught up and produced some of the most iconic planes of the conflict. At end of the end, the Royal Flying Corps evolved into the Royal Air Force, the world's first independant air force.
 
 <br>
 
