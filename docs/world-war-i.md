@@ -96,12 +96,11 @@ The British aircraft industry, initially behind Germany and France in design and
 # Germany
 
 <div class="image-text">
-    <p>Germany’s aviation efforts during World War I were defined by innovation and an emphasis on creating highly effective planes. The German Air Service, Luftstreitkräfte, quickly became one of the most formidable air forces of the war, producing legendary aircraft that dominated the skies.</p>
-    <img src="https://airforcemuseum.co.nz/wp-content/uploads/2018/12/ALB920382b088-web.jpg" style="width: 50%; height: auto; margin-left: 50px;">
+    <p>The Luftstreitkräfte (Imperial German Army Air Service) founded in 1910, quickly became one of the most formidable air forces of World War I. Germany employed a range of highly technological aircraft, along with Zeppelin airships which participated in bombing campaigns.  The most succesful ace pilot of the conflict, Manfred "The Red Baron" von Richthofen, who flew the iconic Fokker Dr.I and became a symbol of German aerial prowess.</p>
+    <img src="https://assets.editorial.aetnd.com/uploads/2016/09/baron-von-richthofen-with-one.jpg" style="width: 50%; height: auto; margin-left: 50px;">
 </div>
 
-Fokker, a Dutch company founded by Anthony Fokker, became closely aligned with the German military, contributing iconic aircraft like the Fokker E.III and Fokker Dr.I. 
-One notable example is the Fokker Dr.I triplane, made famous by ace pilot Manfred von Richthofen, showcasing unmatched maneuverability and firepower. These planes featured innovations such as synchronized machine guns that allowed pilots to fire through the spinning propeller. While initially facing setbacks, German engineers perfected their designs and tactics, significantly impacting the role of air power in warfare and setting the stage for future advancements in military aviation.
+ Despite facing increasing challenges from Allied forces, German aviation technology, including synchronized machine guns and advanced aerodynamics, set important precedents for future air combat.
 
 <br>
 
