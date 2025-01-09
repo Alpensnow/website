@@ -5,8 +5,14 @@ This website serves as a comprehensive guide to various aircraft throughout hist
 <br>
 
 <p align="center">
-  <img src="https://media.defense.gov/2014/Mar/11/2000783826/-1/-1/0/140310-F-NG006-007.JPG" alt="F-35" width="70%">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Aviation_Military_aircraft_flock_aircraft_012524_.jpg/1200px-Aviation_Military_aircraft_flock_aircraft_012524_.jpg" alt="Squadron of C-17 Globemasters" width="70%">
 </p>
+
+<br>
+
+# Author
+
+Lorem ipsum odor amet, consectetuer adipiscing elit. Nullam praesent porttitor praesent luctus metus vel facilisis mus. Nisi lectus neque lacinia neque rhoncus vulputate. Semper laoreet ultricies malesuada torquent viverra condimentum eros praesent. Suscipit ultricies erat vehicula curabitur lacus finibus. Conubia molestie litora, ipsum proin amet tellus aliquam. Lobortis mattis lacus primis adipiscing phasellus lacinia ridiculus consectetur. Mi phasellus nullam est justo quis, vel mollis leo. Nisl quam tempor lectus lobortis facilisi blandit.
 
 <br>
 
