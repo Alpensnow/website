@@ -1,6 +1,6 @@
 # Introduction
 
-After the First World War, the potential of aircraft in warfare was fully realized. Many nations began prioritising the research and development of new state-of-the-art aircraft, and the world saw a leap in aviation technology and strategy, firmly establishing aircraft as decisive tools of warfare. During World War II, airplanes became integral to every aspect of the war effort, ranging from large air superiority battles to devastating close air support to massive bombing campaigns. Combatants began mass-producing aircraft with remarkable advances in speed, maneuverability, range, and firepower. The war also saw the introduction of revolutionary technologies, including radar and jet propulsion, setting the stage for the modern era of aviation.
+After the First World War, the potential of aircraft in warfare was fully realized. Many nations began prioritising the research and development of new state-of-the-art aircraft, and the world saw a leap in aviation technology and strategy, firmly establishing aircraft as decisive tools of warfare. During World War II, airplanes became integral to every aspect of the war effort, ranging from large air superiority battles to devastating close air support to massive bombing campaigns. Combatants began mass-producing aircraft with remarkable advances in speed, maneuverability, range, and firepower. The war also saw the introduction of revolutionary technologies, including radar and jet propulsion, setting the stage for a new era of aviation.
 
 <br>
 
