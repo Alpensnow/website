@@ -1,3 +1,7 @@
+---
+title: Lockheed P-38 Lightning
+---
+
 <h1 class="center-header">Lockheed P-38 Lightning</h1>
 
 <br>

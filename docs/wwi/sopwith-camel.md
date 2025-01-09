@@ -1,3 +1,7 @@
+---
+title: Sopwith Camel
+---
+
 <h1 class="center-header">Sopwith Camel</h1>
 
 <br>

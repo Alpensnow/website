@@ -26,7 +26,7 @@ Accumsan non nam faucibus praesent urna imperdiet interdum. Id duis porta dui pl
 <h4 class="center-header">Fighters</h4>
 
 <div class="plane-grid-container">
-<a href="/website/wwii/Lockheed-P-38-Lightning/" class="plane-box">
+<a href="/website/wwii/lockheed-p-38-lightning/" class="plane-box">
     <div class="plane-image-section">
       <img src="https://www.thoughtco.com/thmb/PY3527xXfk5kw3IGwRTs_gcLSlg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/P-38-Lightning-56a61a9c5f9b58b7d0dfebfb.jpg" alt="Lockheed P-38 Lightning" class="plane-image" />
     </div>
