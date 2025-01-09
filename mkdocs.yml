@@ -20,7 +20,7 @@ theme:
     - navigation.tabs
 
 nav:
-  - World War I: wwi/introduction.md
-  - World War II: wwii/introduction.md
-  - Cold War: coldwar/introduction.md
-  - Modern Day: modernday/introduction.md
+  - World War I: world-war-i.md
+  - World War II: world-war-ii.md
+  - Cold War: cold-war.md
+  - Modern Day: modern-day.md
