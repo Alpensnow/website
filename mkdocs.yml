@@ -24,3 +24,8 @@ nav:
   - World War II: world-war-ii.md
   - Cold War: cold-war.md
   - Modern Day: modern-day.md
+
+extra:
+  analytics:
+    provider: google
+    property: G-WWK6YP3W8L
