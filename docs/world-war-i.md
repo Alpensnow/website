@@ -5,7 +5,7 @@ World War I marked the dawn of aerial warfare, a pivotal moment in history that 
 <br>
 
 <p align="center">
-  <img src="https://hips.hearstapps.com/hmg-prod/images/gettyimages-614254802-1525813097.jpg" width="80%">
+  <img src="../images/royal_flying_corps_pilots.jpg" alt="Royal Flying Corps Pilots" width="80%">
 </p>
 
 <br>
@@ -14,7 +14,7 @@ World War I marked the dawn of aerial warfare, a pivotal moment in history that 
 
 <div class="image-text">
   <p>In 1912, the Royal Flying Corps (RFC) was founded with a military and naval wing, along with a central flying school. The RFC's early years were spent testing aircraft for artillery spotting and aerial photography. At the outbreak of the First World War in 1914, the RFC comprised of only three squadrons with about 30 serviceable aircraft, but quickly expanded.</p>
-  <img src="https://cdn2.picryl.com/photo/1918/04/01/the-royal-flying-corps-on-the-western-front-1914-1918-q11993-44586f-640.jpg" style="width: 50%; height: auto; margin-left: 50px;">
+  <img src="../images/royal_flying_corps.jpg" alt="Royal Flying Corps" style="width: 50%; height: auto; margin-left: 50px;">
 </div>
 
 The British aircraft industry, initially behind Germany and France in design and production, rapidly caught up and produced some of the most iconic planes of the conflict. At end of the end, the Royal Flying Corps evolved into the Royal Air Force, the world's first independant air force.
@@ -96,11 +96,11 @@ The British aircraft industry, initially behind Germany and France in design and
 # Germany
 
 <div class="image-text">
-    <p>The Luftstreitkräfte (Imperial German Army Air Service) founded in 1910, quickly became one of the most formidable air forces of World War I. Germany employed a range of highly technological aircraft, along with Zeppelin airships which participated in bombing campaigns.  The most succesful ace pilot of the conflict, Manfred "The Red Baron" von Richthofen, who flew the iconic Fokker Dr.I and became a symbol of German aerial prowess.</p>
-    <img src="https://assets.editorial.aetnd.com/uploads/2016/09/baron-von-richthofen-with-one.jpg" style="width: 50%; height: auto; margin-left: 50px;">
+    <p>The Luftstreitkräfte (Imperial German Army Air Service) founded in 1910, quickly became one of the most formidable air forces of World War I. Germany employed a range of highly technological aircraft, along with Zeppelin airships which participated in bombing campaigns.</p>
+    <img src="../images/jagdstaffel.jpg" alt="Jagdstaffel" style="width: 50%; height: auto; margin-left: 50px;">
 </div>
 
- Despite facing increasing challenges from Allied forces, German aviation technology, including synchronized machine guns and advanced aerodynamics, set important precedents for future air combat.
+The most succesful ace pilot of the conflict, Manfred "The Red Baron" von Richthofen, who flew the iconic Fokker Dr.I and became a symbol of German aerial prowess.
 
 <br>
 
@@ -172,11 +172,11 @@ The British aircraft industry, initially behind Germany and France in design and
 # France
 
 <div class="image-text">
-  <p>France played a pivotal role in the development of aerial combat during World War I, with French aircraft often at the cutting edge of innovation and design. The French Air Service, the Aéronautique Militaire, was the first to recognize the importance of air superiority, leading to the production of some of the war’s most influential planes.</p>
-  <img src="https://cdn2.picryl.com/photo/1917/12/16/the-french-air-force-on-the-western-front-1914-1918-q69229-2f8668-640.jpg" style="width: 50%; height: auto; margin-left: 50px;">
+  <p>France was one of the first nations to recognize the military potential of aircraft. In 1910, the French established an air unit of the army, known as the Aéronautique Militaire. By the start of the war, the Aéronautique Militaire already had around 140 aircraft, which was more than any other nation at the time. </p>
+  <img src="../images/french_air_force_wwi.jpg" alt="French Air Force WWI" style="width: 50%; height: auto; margin-left: 50px;">
 </div>
 
-Aircraft like the Nieuport 11, known for its agility, and the SPAD S.XIII, renowned for its speed and firepower, became icons of the French air effort. France was also instrumental in pioneering aerial reconnaissance and bombing strategies. The country's commitment to aviation development led to the creation of a strong and well-coordinated air force that not only provided vital support to ground troops but also engaged in fierce aerial dogfights that helped shape the future of air combat.
+The service rapidly grew in size, technology, and strategic importance throughout the war.By the end of World War I, the Service Aéronautique had grown to over 3,600 aircraft and 78,000 personnel.
 
 <br>
 

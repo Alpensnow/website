@@ -1,11 +1,11 @@
-# Introduction
+# About
 
 This website serves as a comprehensive guide to various aircraft throughout history, including detailed information and specifications of each aircraft.
 
 <br>
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Aviation_Military_aircraft_flock_aircraft_012524_.jpg/1200px-Aviation_Military_aircraft_flock_aircraft_012524_.jpg" alt="Squadron of C-17 Globemasters" width="70%">
+  <img src="images/squadron_of_c-17_globemasters.jpg" alt="Squadron of C-17 Globemasters" width="70%">
 </p>
 
 <br>
