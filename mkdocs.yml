@@ -25,6 +25,6 @@ nav:
   - Cold War: cold-war.md
   - Modern Day: modern-day.md
 
-extra:
-  google_analytics:
-    - G-WWK6YP3W8L
+extra_javascript:
+  - https://www.googletagmanager.com/gtag/js?id=G-WWK6YP3W8L
+  - analytics.js
