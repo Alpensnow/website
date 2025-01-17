@@ -141,7 +141,7 @@ The most succesful ace pilot of the conflict, Manfred "The Red Baron" von Richth
   </a>
   <a href="/website/world-war-i/albatros-di/" class="plane-box">
     <div class="plane-image-section">
-      <img src="https://www.aircraftinvestigation.info/airplanes/images/Albatros_D.I/image0.png" alt="Albatros D.I" class="plane-image" />
+      <img src="../world-war-i/images/albatros_di.jpg" alt="Albatros D.I" class="plane-image" />
     </div>
     <div class="plane-caption">
       <strong>Albatros D.I &rarr;</strong>

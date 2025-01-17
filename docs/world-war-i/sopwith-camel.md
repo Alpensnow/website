@@ -2,7 +2,7 @@
 title: Sopwith Camel
 ---
 
-<h1 class="center-header">Sopwith Camel</h1>
+<h1 class="center-header">Sopwith Camel (1917)</h1>
 
 <br>
 

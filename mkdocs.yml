@@ -18,13 +18,13 @@ theme:
     - navigation.instant.progress
     - navigation.tracking
     - navigation.tabs
-  analytics:
-    provider: google
-    property: G-WWK6YP3W8L
 
 nav:
   - World War I: world-war-i.md
   - World War II: world-war-ii.md
   - Cold War: cold-war.md
   - Modern Day: modern-day.md
-  
+
+extra:
+  google_analytics:
+    - G-WWK6YP3W8L
