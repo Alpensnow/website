@@ -42,7 +42,7 @@ The British aircraft industry, initially behind Germany and France in design and
   </a>
   <a href="/website/world-war-i/armstrong-whitworth-fk8/" class="plane-box">
     <div class="plane-image-section">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/A.W._F.K.8_%28Late_production_1%29.jpg/1200px-A.W._F.K.8_%28Late_production_1%29.jpg" alt="Armstrong Whitworth F.K.8" class="plane-image"/>
+      <img src="../world-war-i/images/armstrong_whitworth_fk8.jpg" alt="Armstrong Whitworth F.K.8" class="plane-image"/>
     </div>
     <div class="plane-caption">
       <strong>Armstrong Whitworth F.K.8 &rarr;</strong>
