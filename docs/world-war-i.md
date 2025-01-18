@@ -149,7 +149,7 @@ The most succesful ace pilot of the conflict, Manfred "The Red Baron" von Richth
   </a>
   <a href="/website/world-war-i/albatros-dv/" class="plane-box">
     <div class="plane-image-section">
-      <img src="https://airforcemuseum.co.nz/wp-content/uploads/2018/12/ALB920382b035-web.jpg" alt="Albatros D.V" class="plane-image" />
+      <img src="../world-war-i/images/albatros_dv.jpg" alt="Albatros D.V" class="plane-image" />
     </div>
     <div class="plane-caption">
       <strong>Albatros D.V &rarr;</strong>
