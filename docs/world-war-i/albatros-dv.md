@@ -44,12 +44,12 @@ title: Albatros D.V
       <td>21.20 m² / 228.19 ft²</td>
     </tr>
     <tr>
-      <td>Take-off Weight</td>
-      <td>937 kg / 2066 lb</td>
-    </tr>
-    <tr>
       <td>Empty Weight</td>
       <td>687 kg / 1515 lb</td>
+    </tr>
+    <tr>
+      <td>Take-off Weight</td>
+      <td>937 kg / 2066 lb</td>
     </tr>
     <tr>
       <td>Maximum Speed</td>

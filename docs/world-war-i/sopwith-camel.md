@@ -44,12 +44,12 @@ title: Sopwith Camel
       <td>21.5 m² / 231.4 ft²</td>
     </tr>
     <tr>
-      <td>Take-off Weight</td>
-      <td>659 Kg / 1453 lb</td>
-    </tr>
-    <tr>
       <td>Empty Weight</td>
       <td>422 kg / 930 lb</td>
+    </tr>
+    <tr>
+      <td>Take-off Weight</td>
+      <td>659 Kg / 1453 lb</td>
     </tr>
     <tr>
       <td>Maximum Speed</td>

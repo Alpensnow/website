@@ -65,7 +65,7 @@ The British aircraft industry, initially behind Germany and France in design and
   </a>
   <a href="/website/world-war-i/bristol-f2/" class="plane-box">
     <div class="plane-image-section">
-      <img src="https://i.postimg.cc/wjQ2DkZD/Wg-F84-1.jpg" alt="Bristol F.2" class="plane-image"/>
+      <img src="../world-war-i/images/bristol_f2.jpg" alt="Bristol F.2" class="plane-image"/>
     </div>
     <div class="plane-caption">
       <strong>Bristol F.2 &rarr;</strong>
