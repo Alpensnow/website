@@ -41,7 +41,7 @@ title: Sopwith Camel
     </tr>
     <tr>
       <td>Wing Area</td>
-      <td>21.5 m² / 231.4 ft²</td>
+      <td>21.5 m² / 231.4 sq ft</td>
     </tr>
     <tr>
       <td>Empty Weight</td>

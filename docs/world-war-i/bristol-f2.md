@@ -41,7 +41,7 @@ title: Bristol F.2
     </tr>
     <tr>
       <td>Wing Area</td>
-      <td>37.6 m² / 405 ft²</td>
+      <td>37.6 m² / 405 sq ft</td>
     </tr>
     <tr>
       <td>Empty Weight</td>

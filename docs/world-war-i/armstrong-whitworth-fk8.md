@@ -41,11 +41,11 @@ title: Armstrong Whitworth F.K.8
     </tr>
     <tr>
       <td>Wing Area</td>
-      <td>50 m² / 540 ft²</td>
+      <td>50 m² / 540 sq ft</td>
     </tr>
     <tr>
       <td>Empty Weight</td>
-      <td>869 kg / 1,916 lb869 kg</td>
+      <td>869 kg / 1,916 lb</td>
     </tr>
     <tr>
       <td>Take-off Weight</td>

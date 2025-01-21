@@ -157,7 +157,7 @@ The most succesful ace pilot of the conflict, Manfred "The Red Baron" von Richth
   </a>
   <a href="/website/world-war-i/fokker-dri/" class="plane-box">
     <div class="plane-image-section">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/c/c4/Fok.Dr.I.jpg" alt="Fokker Dr.I" class="plane-image" />
+      <img src="../world-war-i/images/fokker_dri.jpg" alt="Fokker Dr.I" class="plane-image" />
     </div>
     <div class="plane-caption">
       <strong>Fokker Dr.I &rarr;</strong>

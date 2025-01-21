@@ -41,7 +41,7 @@ title: Albatros D.I
     </tr>
     <tr>
       <td>Wing Area</td>
-      <td>22.9 m² / 246 ft²</td>
+      <td>22.9 m² / 246 sq ft</td>
     </tr>
     <tr>
       <td>Empty Weight</td>
