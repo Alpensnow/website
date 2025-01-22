@@ -49,7 +49,7 @@ title: Fokker Dr.I
     </tr>
     <tr>
       <td>Take-off Weight</td>
-      <td>586 kg / 1,291 lb</td>
+      <td>586 kg / 1291 lb</td>
     </tr>
     <tr>
       <td>Maximum Speed</td>

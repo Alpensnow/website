@@ -45,11 +45,11 @@ title: Armstrong Whitworth F.K.8
     </tr>
     <tr>
       <td>Empty Weight</td>
-      <td>869 kg / 1,916 lb</td>
+      <td>869 kg / 1916 lb</td>
     </tr>
     <tr>
       <td>Take-off Weight</td>
-      <td>1,275 kg / 2,811 lb</td>
+      <td>1275 kg / 2811 lb</td>
     </tr>
     <tr>
       <td>Maximum Speed</td>

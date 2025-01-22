@@ -45,11 +45,11 @@ title: Bristol F.2
     </tr>
     <tr>
       <td>Empty Weight</td>
-      <td>973 kg / 2,145 lb</td>
+      <td>973 kg / 2145 lb</td>
     </tr>
     <tr>
       <td>Take-off Weight</td>
-      <td>1,471 kg / 3,243 lb</td>
+      <td>1471 kg / 3243 lb</td>
     </tr>
     <tr>
       <td>Maximum Speed</td>
