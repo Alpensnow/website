@@ -125,7 +125,7 @@ The most succesful ace pilot of the conflict, Manfred "The Red Baron" von Richth
   </a>
   <a href="/website/world-war-i/fokker-dviii/" class="plane-box">
     <div class="plane-image-section">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/f/f2/Fokker_D.VIII_jachtvliegtuig_1918_2161_026294.jpg" alt="Fokker D.VIII" class="plane-image" />
+      <img src="../world-war-i/images/fokker_dviii.jpg" alt="Fokker D.VIII" class="plane-image" />
     </div>
     <div class="plane-caption">
       <strong>Fokker D.VIII &rarr;</strong>
