@@ -25,7 +25,7 @@ title: Sopwith Camel
     </tr>
     <tr>
       <td>Engine</td>
-      <td>1 x Clerget 9B</td>
+      <td>1 × Clerget 9B</td>
     </tr>
     <tr>
       <td>Length</td>
@@ -65,7 +65,7 @@ title: Sopwith Camel
     </tr>
     <tr>
       <td>Armament</td>
-      <td>2 x 7.7mm Vickers machine guns, 4 x 20lb Cooper bombs</td>
+      <td>2 × 7.7mm Vickers machine guns, 4 x 20lb Cooper bombs</td>
     </tr>
   </tbody>
 </table>

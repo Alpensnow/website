@@ -133,7 +133,7 @@ The most succesful ace pilot of the conflict, Manfred "The Red Baron" von Richth
   </a>
   <a href="/website/world-war-i/halberstadt-dii/" class="plane-box">
     <div class="plane-image-section">
-      <img src="https://www.thatoneplease.co/buildlogs/Halb-D.II/seethrough.jpg" alt="Halberstadt D.II" class="plane-image" />
+      <img src="../world-war-i/images/halberstadt_dii.jpg" alt="Halberstadt D.II" class="plane-image" />
     </div>
     <div class="plane-caption">
       <strong>Halberstadt D.II &rarr;</strong>
@@ -185,7 +185,7 @@ The service rapidly grew in size, technology, and strategic importance throughou
 <div class="plane-grid-container">
   <a href="/website/world-war-i/nieuport-17/" class="plane-box">
     <div class="plane-image-section">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/d/d8/Nieuport_17bis_in_French_markings%2C_front_quarter.jpg" alt="Nieuport 17" class="plane-image" />
+      <img src="../world-war-i/images/nieuport_17.jpg" alt="Nieuport 17" class="plane-image" />
     </div>
     <div class="plane-caption">
       <strong>Nieuport 17 &rarr;</strong>

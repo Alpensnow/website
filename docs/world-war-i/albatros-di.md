@@ -25,7 +25,7 @@ title: Albatros D.I
     </tr>
     <tr>
       <td>Engine</td>
-      <td>1 x Benz Bz.III</td>
+      <td>1 × Benz Bz.III</td>
     </tr>
     <tr>
       <td>Length</td>
@@ -65,7 +65,7 @@ title: Albatros D.I
     </tr>
     <tr>
       <td>Armament</td>
-      <td>1 x 7.92mm MG 08 machine gun</td>
+      <td>1 × 7.92mm MG 08 machine gun</td>
     </tr>
   </tbody>
 </table>
