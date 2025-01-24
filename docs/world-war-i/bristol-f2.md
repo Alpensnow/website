@@ -32,12 +32,12 @@ title: Bristol F.2
       <td>7.87 m / 25 ft 10 in</td>
     </tr>
     <tr>
-      <td>Height</td>
-      <td>2.97 m / 9 ft 9 in</td>
-    </tr>
-    <tr>
       <td>Wingspan</td>
       <td>11.96 m / 39 ft 3 in</td>
+    </tr>
+    <tr>
+      <td>Height</td>
+      <td>2.97 m / 9 ft 9 in</td>
     </tr>
     <tr>
       <td>Wing Area</td>

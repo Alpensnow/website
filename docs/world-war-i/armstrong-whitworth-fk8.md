@@ -32,12 +32,12 @@ title: Armstrong Whitworth F.K.8
       <td>9.58 m / 31 ft 5 in</td>
     </tr>
     <tr>
-      <td>Height</td>
-      <td>3.33 m / 10 ft 11 in</td>
-    </tr>
-    <tr>
       <td>Wingspan</td>
       <td>13.26 m / 43 ft 6 in</td>
+    </tr>
+    <tr>
+      <td>Height</td>
+      <td>3.33 m / 10 ft 11 in</td>
     </tr>
     <tr>
       <td>Wing Area</td>

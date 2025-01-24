@@ -32,12 +32,12 @@ title: Fokker D.VII
       <td>6.95 m / 22 ft 10 in</td>
     </tr>
     <tr>
-      <td>Height</td>
-      <td>2.75 m / 9 ft 0 in</td>
-    </tr>
-    <tr>
       <td>Wingspan</td>
       <td>8.9 m / 29 ft 2 in</td>
+    </tr>
+    <tr>
+      <td>Height</td>
+      <td>2.75 m / 9 ft 0 in</td>
     </tr>
     <tr>
       <td>Wing Area</td>

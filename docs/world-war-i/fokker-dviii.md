@@ -32,12 +32,12 @@ title: Fokker D.VIII
       <td>5.86 m / 19 ft 3 in</td>
     </tr>
     <tr>
-      <td>Height</td>
-      <td>2.6 m / 8 ft 6 in</td>
-    </tr>
-    <tr>
       <td>Wingspan</td>
       <td>8.34 m / 27 ft 4 in</td>
+    </tr>
+    <tr>
+      <td>Height</td>
+      <td>2.6 m / 8 ft 6 in</td>
     </tr>
     <tr>
       <td>Wing Area</td>
@@ -49,7 +49,7 @@ title: Fokker D.VIII
     </tr>
     <tr>
       <td>Take-off Weight</td>
-      <td>605 kg / 1,334 lb</td>
+      <td>605 kg / 1334 lb</td>
     </tr>
     <tr>
       <td>Maximum Speed</td>

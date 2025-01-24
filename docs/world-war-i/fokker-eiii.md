@@ -1,13 +1,13 @@
 ---
-title: Albatros D.V
+title: Fokker E.III
 ---
 
-<h1 class="center-header">Albatros D.V (1917)</h1>
+<h1 class="center-header">Fokker E.III (1915)</h1>
 
 <br>
 
 <p align="center">
-  <img src="../images/albatros_dv.jpg" width="70%">
+  <img src="../images/fokker_eiii.jpg" width="70%">
 </p>
 
 <br>
@@ -25,47 +25,47 @@ title: Albatros D.V
     </tr>
     <tr>
       <td>Engine</td>
-      <td>1 x Mercedes D.III</td>
+      <td>1 × Oberursel U.I</td>
     </tr>
     <tr>
       <td>Length</td>
-      <td>7.33 m / 24 ft 1 in</td>
+      <td>7.2 m / 23 ft 7 in</td>
     </tr>
     <tr>
       <td>Wingspan</td>
-      <td>9.04 m / 30 ft 8 in</td>
+      <td>9.52 m / 31 ft 3 in</td>
     </tr>
     <tr>
       <td>Height</td>
-      <td>2.70 m / 8 ft 10 in</td>
+      <td>2.4 m / 7 ft 10 in</td>
     </tr>
     <tr>
       <td>Wing Area</td>
-      <td>21.20 m² / 228.19 sq ft</td>
+      <td>16 m² / 170 sq ft</td>
     </tr>
     <tr>
       <td>Empty Weight</td>
-      <td>687 kg / 1515 lb</td>
+      <td>399 kg / 880 lb</td>
     </tr>
     <tr>
       <td>Take-off Weight</td>
-      <td>937 kg / 2066 lb</td>
+      <td>610 kg / 1345 lb</td>
     </tr>
     <tr>
       <td>Maximum Speed</td>
-      <td>185 km/h / 115 mph</td>
+      <td>140 km/h / 87 mph</td>
     </tr>
     <tr>
       <td>Range</td>
-      <td>349 km / 217 mi</td>
+      <td>359 km / 223 mi</td>
     </tr>
     <tr>
       <td>Ceiling</td>
-      <td>5700 m / 18700 ft</td>
+      <td>3,600 m / 11,810 ft</td>
     </tr>
     <tr>
       <td>Armament</td>
-      <td>2 × 7.92mm LMG 08/15 machine guns</td>
+      <td>1 × 7.92mm LMG 08/15 machine gun</td>
     </tr>
   </tbody>
 </table>

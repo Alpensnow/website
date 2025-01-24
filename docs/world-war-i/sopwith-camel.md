@@ -32,12 +32,12 @@ title: Sopwith Camel
       <td>5.7 m / 28 ft 11 in</td>
     </tr>
     <tr>
-      <td>Height</td>
-      <td>2.6 m / 9 ft 6 in</td>
-    </tr>
-    <tr>
       <td>Wingspan</td>
       <td>8.5 m / 28 ft 11 in</td>
+    </tr>
+    <tr>
+      <td>Height</td>
+      <td>2.6 m / 9 ft 6 in</td>
     </tr>
     <tr>
       <td>Wing Area</td>
