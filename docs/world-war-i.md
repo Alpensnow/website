@@ -21,13 +21,6 @@ The British aircraft industry, initially behind Germany and France in design and
 
 <br>
 
-<h3 class="center-header">Reconnaissance</h3>
-
-<div class="plane-grid-container">
-</div>
-
-<br>
-
 <h3 class="center-header">Fighter</h3>
 
 <div class="plane-grid-container">
