@@ -7,7 +7,7 @@ title: Sopwith Camel
 <br>
 
 <p align="center">
-  <img src="https://cdn2.picryl.com/photo/1916/12/31/raf-sopwith-camel-2f1ed2-1024.jpg" width="70%">
+  <img src="../images/sopwith_camel.jpg" width="70%">
 </p>
 
 <br>
@@ -65,7 +65,7 @@ title: Sopwith Camel
     </tr>
     <tr>
       <td>Armament</td>
-      <td>2 × 7.7mm Vickers machine guns, 4 x 20lb Cooper bombs</td>
+      <td>2 × 7.7 mm Vickers machine guns, 4 x 20 lb Cooper bombs</td>
     </tr>
   </tbody>
 </table>

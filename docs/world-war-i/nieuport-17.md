@@ -65,7 +65,7 @@ title: Nieuport 17
     </tr>
     <tr>
       <td>Armament</td>
-      <td>1 × 7.7mm Vickers machine gun</td>
+      <td>1 × 7.7 mm Vickers machine gun</td>
     </tr>
   </tbody>
 </table>

@@ -65,7 +65,7 @@ title: Albatros D.I
     </tr>
     <tr>
       <td>Armament</td>
-      <td>1 × 7.92mm MG 08 machine gun</td>
+      <td>1 × 7.92 mm MG 08 machine gun</td>
     </tr>
   </tbody>
 </table>

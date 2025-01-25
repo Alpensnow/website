@@ -65,7 +65,7 @@ title: Fokker D.VIII
     </tr>
     <tr>
       <td>Armament</td>
-      <td>2 × 7.92mm MG 08 machine guns</td>
+      <td>2 × 7.92 mm MG 08 machine guns</td>
     </tr>
   </tbody>
 </table>

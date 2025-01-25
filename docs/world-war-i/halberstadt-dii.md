@@ -65,7 +65,7 @@ title: Halberstadt D.II
     </tr>
     <tr>
       <td>Armament</td>
-      <td>1 × 7.92mm IMG 08 machine gun</td>
+      <td>1 × 7.92 mm IMG 08 machine gun</td>
     </tr>
   </tbody>
 </table>

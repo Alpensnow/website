@@ -5,7 +5,7 @@ World War I marked the dawn of aerial warfare, a pivotal moment in history that 
 <br>
 
 <p align="center">
-  <img src="../images/royal_flying_corps_pilots.jpg" alt="Royal Flying Corps Pilots" width="80%">
+  <img src="../world-war-i/images/royal_flying_corps_pilots.jpg" alt="Royal Flying Corps Pilots" width="80%">
 </p>
 
 <br>
@@ -14,7 +14,7 @@ World War I marked the dawn of aerial warfare, a pivotal moment in history that 
 
 <div class="image-text">
   <p>In 1912, the Royal Flying Corps (RFC) was founded with a military and naval wing, along with a central flying school. The RFC's early years were spent testing aircraft for artillery spotting and aerial photography. At the outbreak of the First World War in 1914, the RFC comprised of only three squadrons with about 30 serviceable aircraft, but quickly expanded.</p>
-  <img src="../images/royal_flying_corps.jpg" alt="Royal Flying Corps" style="width: 50%; height: auto; margin-left: 50px;">
+  <img src="../world-war-i/images/royal_flying_corps.jpg" alt="Royal Flying Corps" style="width: 50%; height: auto; margin-left: 50px;">
 </div>
 
 The British aircraft industry, initially behind Germany and France in design and production, rapidly caught up and produced some of the most iconic planes of the conflict. At end of the end, the Royal Flying Corps evolved into the Royal Air Force, the world's first independant air force.
@@ -24,20 +24,27 @@ The British aircraft industry, initially behind Germany and France in design and
 <h3 class="center-header">Reconnaissance</h3>
 
 <div class="plane-grid-container">
+</div>
+
+<br>
+
+<h3 class="center-header">Fighter</h3>
+
+<div class="plane-grid-container">
   <a href="/website/world-war-i/royal-aircraft-factory-be2/" class="plane-box">
     <div class="plane-image-section">
-      <img src="https://ww1aviationheritagetrust.co.uk/wp-content/uploads/2021/12/GDH-and-Sykes-in-B.E.2-extended-prop-boss-scaled.jpg" alt="Royal Aircraft Factory B.E.2" class="plane-image"/>
+      <img src="../world-war-i/images/royal_aircraft_factory_be2.jpg" alt="Royal Aircraft Factory B.E.2" class="plane-image"/>
     </div>
     <div class="plane-caption">
       <strong>Royal Aircraft Factory B.E.2 &rarr;</strong>
     </div>
   </a>
-  <a href="/website/world-war-i/royal-aircraft-factory-re1/" class="plane-box">
+  <a href="/website/world-war-i/vickers-fb5/" class="plane-box">
     <div class="plane-image-section">
-      <img src="https://flyingmachines.ru/Images7/Putnam/Brit_Bruce/426-1.jpg" alt="Royal Aircraft Factory R.E.1" class="plane-image"/>
+      <img src="../world-war-i/images/vickers_fb5.jpg" alt="Vickers F.B.5" class="plane-image" />
     </div>
     <div class="plane-caption">
-      <strong>Royal Aircraft Factory R.E.1 &rarr;</strong>
+      <strong>Vickers F.B.5 &rarr;</strong>
     </div>
   </a>
   <a href="/website/world-war-i/armstrong-whitworth-fk8/" class="plane-box">
@@ -46,21 +53,6 @@ The British aircraft industry, initially behind Germany and France in design and
     </div>
     <div class="plane-caption">
       <strong>Armstrong Whitworth F.K.8 &rarr;</strong>
-    </div>
-  </a>
-</div>
-
-<br>
-
-<h3 class="center-header">Fighter</h3>
-
-<div class="plane-grid-container">
-  <a href="/website/world-war-i/vickers-fb5/" class="plane-box">
-    <div class="plane-image-section">
-      <img src="https://www.baesystems.com/en-media/webImageWebp/20210403160827/1434657471448.webp" alt="Vickers F.B.5" class="plane-image" />
-    </div>
-    <div class="plane-caption">
-      <strong>Vickers F.B.5 &rarr;</strong>
     </div>
   </a>
   <a href="/website/world-war-i/bristol-f2/" class="plane-box">
@@ -73,7 +65,7 @@ The British aircraft industry, initially behind Germany and France in design and
   </a>
   <a href="/website/world-war-i/sopwith-camel/" class="plane-box">
     <div class="plane-image-section">
-      <img src="https://cdn2.picryl.com/photo/1916/12/31/raf-sopwith-camel-2f1ed2-1024.jpg" alt="Sopwith Camel" class="plane-image"/>
+      <img src="../world-war-i/images/sopwith_camel.jpg" alt="Sopwith Camel" class="plane-image"/>
     </div>
     <div class="plane-caption">
       <strong>Sopwith Camel &rarr;</strong>
@@ -81,7 +73,7 @@ The British aircraft industry, initially behind Germany and France in design and
   </a>
   <a href="/website/world-war-i/royal-aircraft-factory-se5/" class="plane-box">
     <div class="plane-image-section">
-      <img src="https://cdn2.picryl.com/photo/1918/12/31/c02803phillippsse5a1918-56af70-640.jpg" alt="Royal Aircraft Factory S.E.5" class="plane-image"/>
+      <img src="../world-war-i/images/royal_aircraft_factory_se5.jpg" alt="Royal Aircraft Factory S.E.5" class="plane-image"/>
     </div>
     <div class="plane-caption">
       <strong>Royal Aircraft Factory S.E.5 &rarr;</strong>
@@ -97,7 +89,7 @@ The British aircraft industry, initially behind Germany and France in design and
 
 <div class="image-text">
     <p>The Luftstreitkräfte (Imperial German Army Air Service) founded in 1910, quickly became one of the most formidable air forces of World War I. Germany employed a range of highly technological aircraft, along with Zeppelin airships which participated in bombing campaigns.</p>
-    <img src="../images/jagdstaffel.jpg" alt="Jagdstaffel" style="width: 50%; height: auto; margin-left: 50px;">
+    <img src="../world-war-i/images/jagdstaffel.jpg" alt="Jagdstaffel" style="width: 50%; height: auto; margin-left: 50px;">
 </div>
 
 The most succesful ace pilot of the conflict, Manfred "The Red Baron" von Richthofen, who flew the iconic Fokker Dr.I and became a symbol of German aerial prowess.
@@ -173,7 +165,7 @@ The most succesful ace pilot of the conflict, Manfred "The Red Baron" von Richth
 
 <div class="image-text">
   <p>France was one of the first nations to recognize the military potential of aircraft. In 1910, the French established an air unit of the army, known as the Aéronautique Militaire. By the start of the war, the Aéronautique Militaire already had around 140 aircraft, which was more than any other nation at the time. </p>
-  <img src="../images/french_air_force_wwi.jpg" alt="French Air Force WWI" style="width: 50%; height: auto; margin-left: 50px;">
+  <img src="../world-war-i/images/french_air_force_wwi.jpg" alt="French Air Force WWI" style="width: 50%; height: auto; margin-left: 50px;">
 </div>
 
 The service rapidly grew in size, technology, and strategic importance throughout the war.By the end of World War I, the Service Aéronautique had grown to over 3,600 aircraft and 78,000 personnel.
@@ -193,7 +185,7 @@ The service rapidly grew in size, technology, and strategic importance throughou
   </a>
   <a href="/website/world-war-i/spad-svii/" class="plane-box">
     <div class="plane-image-section">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/c/c4/RFC_SPAD_VII_on_ground.jpg" alt="SPAD S.VII" class="plane-image" />
+      <img src="../world-war-i/images/spad_svii.jpg" alt="SPAD S.VII" class="plane-image" />
     </div>
     <div class="plane-caption">
       <strong>SPAD S.VII &rarr;</strong>
@@ -201,7 +193,7 @@ The service rapidly grew in size, technology, and strategic importance throughou
   </a>
   <a href="/website/world-war-i/spad-sxiii/" class="plane-box">
     <div class="plane-image-section">
-      <img src="https://cdn2.picryl.com/photo/1918/12/31/spad-sxiii-front-b585d8-1024.jpg" alt="SPAD S.XIII" class="plane-image" />
+      <img src="../world-war-i/images/spad_sxiii.jpg" alt="SPAD S.XIII" class="plane-image" />
     </div>
     <div class="plane-caption">
       <strong>SPAD S.XIII &rarr;</strong>

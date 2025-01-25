@@ -65,7 +65,7 @@ title: Fokker E.III
     </tr>
     <tr>
       <td>Armament</td>
-      <td>1 × 7.92mm LMG 08/15 machine gun</td>
+      <td>1 × 7.92 mm LMG 08/15 machine gun</td>
     </tr>
   </tbody>
 </table>
