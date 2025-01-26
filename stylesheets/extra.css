@@ -67,25 +67,6 @@ a {
     padding: 0.5%;
 }
 
-/* Image Next to Text */
-
-.image-text {
-    display: flex;
-    align-items: center; /* Aligns the image and text vertically */
-    margin-bottom: 2%; /* Adds a margin under */
-}
-
-.image-text img {
-    max-width: 40%;
-    height: auto; 
-    width: auto; 
-}
-
-.image-text p {
-    flex: 1; /* Ensures the paragraph takes up the remaining space */
-    margin: 0; /* Removes any default margin around the text */
-}
-
 /* Captioned Images */
 
 .centered-figure {
