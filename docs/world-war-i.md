@@ -12,12 +12,7 @@ World War I marked the dawn of aerial warfare, a pivotal moment in history that 
 
 # United Kingdom
 
-<div class="image-text">
-  <p>In 1912, the Royal Flying Corps (RFC) was founded with a military and naval wing, along with a central flying school. The RFC's early years were spent testing aircraft for artillery spotting and aerial photography. At the outbreak of the First World War in 1914, the RFC comprised of only three squadrons with about 30 serviceable aircraft, but quickly expanded.</p>
-  <img src="../world-war-i/images/royal_flying_corps.jpg" alt="Royal Flying Corps" style="width: 50%; height: auto; margin-left: 50px;">
-</div>
-
-The British aircraft industry, initially behind Germany and France in design and production, rapidly caught up and produced some of the most iconic planes of the conflict. At end of the end, the Royal Flying Corps evolved into the Royal Air Force, the world's first independant air force.
+In 1912, the Royal Flying Corps (RFC) was founded with a military and naval wing, along with a central flying school. The RFC's early years were spent testing aircraft for artillery spotting and aerial photography. At the outbreak of the First World War in 1914, the RFC comprised of only three squadrons with about 30 serviceable aircraft, but quickly expanded. The British aircraft industry, initially behind Germany and France in design and production, rapidly caught up and produced some of the most iconic planes of the conflict. At end of the end, the Royal Flying Corps evolved into the Royal Air Force, the world's first independant air force.
 
 <br>
 
@@ -80,12 +75,7 @@ The British aircraft industry, initially behind Germany and France in design and
 
 # Germany
 
-<div class="image-text">
-    <p>The Luftstreitkräfte (Imperial German Army Air Service) founded in 1910, quickly became one of the most formidable air forces of World War I. Germany employed a range of highly technological aircraft, along with Zeppelin airships which participated in bombing campaigns.</p>
-    <img src="../world-war-i/images/jagdstaffel.jpg" alt="Jagdstaffel" style="width: 50%; height: auto; margin-left: 50px;">
-</div>
-
-The most succesful ace pilot of the conflict, Manfred "The Red Baron" von Richthofen, who flew the iconic Fokker Dr.I and became a symbol of German aerial prowess.
+The Luftstreitkräfte (Imperial German Army Air Service) founded in 1910, quickly became one of the most formidable air forces of World War I. Germany employed a range of highly technological aircraft, along with Zeppelin airships which participated in bombing campaigns. The most succesful ace pilot of the conflict, Manfred "The Red Baron" von Richthofen, who flew the iconic Fokker Dr.I and became a symbol of German aerial prowess.
 
 <br>
 
@@ -156,12 +146,7 @@ The most succesful ace pilot of the conflict, Manfred "The Red Baron" von Richth
 
 # France
 
-<div class="image-text">
-  <p>France was one of the first nations to recognize the military potential of aircraft. In 1910, the French established an air unit of the army, known as the Aéronautique Militaire. By the start of the war, the Aéronautique Militaire already had around 140 aircraft, which was more than any other nation at the time. </p>
-  <img src="../world-war-i/images/french_air_force_wwi.jpg" alt="French Air Force WWI" style="width: 50%; height: auto; margin-left: 50px;">
-</div>
-
-The service rapidly grew in size, technology, and strategic importance throughout the war.By the end of World War I, the Service Aéronautique had grown to over 3,600 aircraft and 78,000 personnel.
+France was one of the first nations to recognize the military potential of aircraft. In 1910, the French established an air unit of the army, known as the Aéronautique Militaire. By the start of the war, the Aéronautique Militaire already had around 140 aircraft, which was more than any other nation at the time. The service rapidly grew in size, technology, and strategic importance throughout the war.By the end of World War I, the Service Aéronautique had grown to over 3,600 aircraft and 78,000 personnel.
 
 <br>
 
