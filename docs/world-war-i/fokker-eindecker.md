@@ -1,13 +1,13 @@
 ---
-title: Fokker E.III
+title: Fokker Eindecker
 ---
 
-<h1 class="center-header">Fokker E.III (1915)</h1>
+<h1 class="center-header">Fokker Eindecker (1915)</h1>
 
 <br>
 
 <p align="center">
-  <img src="../images/fokker_eiii.jpg" width="70%">
+  <img src="../images/fokker_eindecker.jpg" width="70%">
 </p>
 
 <br>

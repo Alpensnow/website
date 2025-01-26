@@ -56,20 +56,20 @@ The British aircraft industry, initially behind Germany and France in design and
       <strong>Bristol F.2 &rarr;</strong>
     </div>
   </a>
-  <a href="/website/world-war-i/sopwith-camel/" class="plane-box">
-    <div class="plane-image-section">
-      <img src="../world-war-i/images/sopwith_camel.jpg" alt="Sopwith Camel" class="plane-image"/>
-    </div>
-    <div class="plane-caption">
-      <strong>Sopwith Camel &rarr;</strong>
-    </div>
-  </a>
   <a href="/website/world-war-i/royal-aircraft-factory-se5/" class="plane-box">
     <div class="plane-image-section">
       <img src="../world-war-i/images/royal_aircraft_factory_se5.jpg" alt="Royal Aircraft Factory S.E.5" class="plane-image"/>
     </div>
     <div class="plane-caption">
       <strong>Royal Aircraft Factory S.E.5 &rarr;</strong>
+    </div>
+  </a>
+  <a href="/website/world-war-i/sopwith-camel/" class="plane-box">
+    <div class="plane-image-section">
+      <img src="../world-war-i/images/sopwith_camel.jpg" alt="Sopwith Camel" class="plane-image"/>
+    </div>
+    <div class="plane-caption">
+      <strong>Sopwith Camel &rarr;</strong>
     </div>
   </a>
 </div>
@@ -92,12 +92,12 @@ The most succesful ace pilot of the conflict, Manfred "The Red Baron" von Richth
 <h3 class="center-header">Fighter</h3>
 
 <div class="plane-grid-container">
-  <a href="/website/world-war-i/fokker-eiii/" class="plane-box">
+  <a href="/website/world-war-i/fokker-eindecker/" class="plane-box">
     <div class="plane-image-section">
-      <img src="../world-war-i/images/fokker_eiii.jpg" alt="Fokker E.III" class="plane-image" />
+      <img src="../world-war-i/images/fokker_eindecker.jpg" alt="Fokker Eindecker" class="plane-image" />
     </div>
     <div class="plane-caption">
-      <strong>Fokker E.III &rarr;</strong>
+      <strong>Fokker Eindecker &rarr;</strong>
     </div>
   </a>
   <a href="/website/world-war-i/fokker-dvii/" class="plane-box">
