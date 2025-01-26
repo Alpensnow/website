@@ -100,22 +100,6 @@ The most succesful ace pilot of the conflict, Manfred "The Red Baron" von Richth
       <strong>Fokker Eindecker &rarr;</strong>
     </div>
   </a>
-  <a href="/website/world-war-i/fokker-dvii/" class="plane-box">
-    <div class="plane-image-section">
-      <img src="../world-war-i/images/fokker_dvii.jpg" alt="Fokker D.VII" class="plane-image" />
-    </div>
-    <div class="plane-caption">
-      <strong>Fokker D.VII &rarr;</strong>
-    </div>
-  </a>
-  <a href="/website/world-war-i/fokker-dviii/" class="plane-box">
-    <div class="plane-image-section">
-      <img src="../world-war-i/images/fokker_dviii.jpg" alt="Fokker D.VIII" class="plane-image" />
-    </div>
-    <div class="plane-caption">
-      <strong>Fokker D.VIII &rarr;</strong>
-    </div>
-  </a>
   <a href="/website/world-war-i/halberstadt-dii/" class="plane-box">
     <div class="plane-image-section">
       <img src="../world-war-i/images/halberstadt_dii.jpg" alt="Halberstadt D.II" class="plane-image" />
@@ -146,6 +130,22 @@ The most succesful ace pilot of the conflict, Manfred "The Red Baron" von Richth
     </div>
     <div class="plane-caption">
       <strong>Fokker Dr.I &rarr;</strong>
+    </div>
+  </a>
+  <a href="/website/world-war-i/fokker-dvii/" class="plane-box">
+    <div class="plane-image-section">
+      <img src="../world-war-i/images/fokker_dvii.jpg" alt="Fokker D.VII" class="plane-image" />
+    </div>
+    <div class="plane-caption">
+      <strong>Fokker D.VII &rarr;</strong>
+    </div>
+  </a>
+  <a href="/website/world-war-i/fokker-dviii/" class="plane-box">
+    <div class="plane-image-section">
+      <img src="../world-war-i/images/fokker_dviii.jpg" alt="Fokker D.VIII" class="plane-image" />
+    </div>
+    <div class="plane-caption">
+      <strong>Fokker D.VIII &rarr;</strong>
     </div>
   </a>
 </div>
