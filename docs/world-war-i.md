@@ -1,6 +1,10 @@
 # Introduction
 
-World War I marked the dawn of aerial warfare, a pivotal moment in history that transformed the skies into a new battlefield. At the outbreak of the war, airplanes were a novel invention, and were primarily used for reconnaissance and gathering intelligence on enemy positions. However, as the conflict progressed, warplanes quickly evolved into critical tools for combat. As pilots began mounting machine guns on their airframes and hand-dropping explosives on enemy combatants below, dogfights and bombing runs became defining features of the air war, adding a new dimension to the battlefield. These early planes were marvels of ingenuity, crafted from wood and fabric but equipped with cutting-edge technologies of their time, such as synchronized machine guns that could fire through the propeller arc. Despite their simplicity by modern standards, these aircraft set the foundation for the warplanes that followed. 
+World War I marked the dawn of aerial warfare, a pivotal moment in history that transformed the skies into a new battlefield. At the outbreak of the war, airplanes were a novel invention, and were primarily used for reconnaissance and gathering intelligence on enemy positions. However, as the conflict progressed, warplanes quickly evolved into critical tools for combat. As pilots began mounting machine guns on their airframes and hand-dropping explosives on enemy combatants below, dogfights and bombing runs became defining features of the air war, adding a new dimension to the battlefield. These early planes were marvels of ingenuity, crafted from wood and fabric but equipped with cutting-edge technologies of their time, such as synchronized machine guns that could fire through the propeller arc. Despite their simplicity by modern standards, these aircraft set th
+
+
+
+e foundation for the warplanes that followed. 
 
 <br>
 
