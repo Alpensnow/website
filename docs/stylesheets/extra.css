@@ -11,7 +11,7 @@
 
 .navbar-brand {
     font-size: 300% !important;
-    margin: 0;
+    margin: 1;
 }
 
 .navbar .navbar-nav.ms-md-auto .nav-item {
