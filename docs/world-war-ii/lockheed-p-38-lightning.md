@@ -7,7 +7,7 @@ title: Lockheed P-38 Lightning
 <br>
 
 <p align="center">
-  <img src="https://www.thoughtco.com/thmb/PY3527xXfk5kw3IGwRTs_gcLSlg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/P-38-Lightning-56a61a9c5f9b58b7d0dfebfb.jpg" alt="Lockheed P-38 Lightning" width="70%">
+  <img src="../images/lockheed_p-38_lightning.jpg" alt="Lockheed P-38 Lightning" width="70%">
 </p>
 
 <br>
@@ -25,39 +25,39 @@ title: Lockheed P-38 Lightning
     </tr>
     <tr>
       <td>Engine</td>
-      <td>2 x Allison V-1710-111/113 V12 engines</td>
+      <td>2 × Allison V-1710</td>
     </tr>
     <tr>
       <td>Length</td>
-      <td>10.3 m / 33 ft 9 in</td>
-    </tr>
-    <tr>
-      <td>Height</td>
-      <td>3.8 m / 12 ft 6 in</td>
+      <td>11.53 m / 37 ft 10 in</td>
     </tr>
     <tr>
       <td>Wingspan</td>
       <td>15.85 m / 52 ft 0 in</td>
     </tr>
     <tr>
-      <td>Wing Area</td>
-      <td>42.3 m² / 455 ft²</td>
+      <td>Height</td>
+      <td>3.91 m / 12 ft 10 in</td>
     </tr>
     <tr>
-      <td>Take-off Weight</td>
-      <td>6800 kg / 15000 lb</td>
+      <td>Wing Area</td>
+      <td>30.43 m² / 327.5 sq ft</td>
     </tr>
     <tr>
       <td>Empty Weight</td>
-      <td>4500 kg / 9900 lb</td>
+      <td>5806 kg / 12800 lb</td>
+    </tr>
+    <tr>
+      <td>Take-off Weight</td>
+      <td>7938 kg / 17500 lb</td>
     </tr>
     <tr>
       <td>Maximum Speed</td>
-      <td>660 km/h / 410 mph</td>
+      <td>666 km/h / 414 mph</td>
     </tr>
     <tr>
       <td>Range</td>
-      <td>1600 km / 1000 mi</td>
+      <td>2100 km / 1300 mi</td>
     </tr>
     <tr>
       <td>Ceiling</td>
@@ -65,7 +65,7 @@ title: Lockheed P-38 Lightning
     </tr>
     <tr>
       <td>Armament</td>
-      <td>4 x .50 caliber Browning M2 machine guns, 1000 lb of bombs</td>
+      <td>1 × Hispano M2(C) 20 mm cannon, 4 × M2 Browning machine guns, 2 × 726 kg (1600 lbs) of bombs</td>
     </tr>
   </tbody>
 </table>

@@ -20,7 +20,7 @@ After the First World War, the potential of aircraft in warfare was fully realiz
 <div class="plane-grid-container">
 <a href="/website/world-war-ii/lockheed-p-38-lightning/" class="plane-box">
     <div class="plane-image-section">
-      <img src="https://www.thoughtco.com/thmb/PY3527xXfk5kw3IGwRTs_gcLSlg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/P-38-Lightning-56a61a9c5f9b58b7d0dfebfb.jpg" alt="Lockheed P-38 Lightning" class="plane-image" />
+      <img src="../world-war-ii/images/lockheed_p-38_lightning.jpg" alt="Lockheed P-38 Lightning" class="plane-image" />
     </div>
     <div class="plane-caption">
       <strong>Lockheed P-38 Lightning &rarr;</strong>
