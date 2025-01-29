@@ -7,7 +7,7 @@ title: Fokker Dr.I
 <br>
 
 <p align="center">
-  <img src="../images/fokker_dri.jpg" width="70%">
+  <img src="../images/fokker_dri.jpg" alt="Fokker Dr.I" width="70%">
 </p>
 
 <br>

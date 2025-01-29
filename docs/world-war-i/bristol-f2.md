@@ -7,7 +7,7 @@ title: Bristol F.2
 <br>
 
 <p align="center">
-  <img src="../images/bristol_f2.jpg" width="70%">
+  <img src="../images/bristol_f2.jpg" alt="Bristol F.2" width="70%">
 </p>
 
 <br>

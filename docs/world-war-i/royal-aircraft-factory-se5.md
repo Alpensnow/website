@@ -7,7 +7,7 @@ title: Royal Aircraft Factory S.E.5
 <br>
 
 <p align="center">
-  <img src="../images/royal_aircraft_factory_se5.jpg" width="70%">
+  <img src="../images/royal_aircraft_factory_se5.jpg" alt="Royal Aircraft Factory S.E.5" width="70%">
 </p>
 
 <br>

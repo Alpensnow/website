@@ -7,7 +7,7 @@ title: Albatros D.V
 <br>
 
 <p align="center">
-  <img src="../images/albatros_dv.jpg" width="70%">
+  <img src="../images/albatros_dv.jpg" alt="Albatros D.V" width="70%">
 </p>
 
 <br>

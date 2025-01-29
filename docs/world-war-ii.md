@@ -90,10 +90,10 @@ After the First World War, the potential of aircraft in warfare was fully realiz
 <div class="plane-grid-container">
   <a href="/website/world-war-ii/boeing-b-17-flying-fortress/" class="plane-box">
     <div class="plane-image-section">
-      <img src="https://cdn.britannica.com/61/100961-050-E7960C03/B-17-Flying-Fortress.jpg" alt="Boeing B-17" class="plane-image" />
+      <img src="../world-war-ii/images/boeing_b-17_flying_fortress.jpg" alt="Boeing B-17 Flying Fortress" class="plane-image" />
     </div>
     <div class="plane-caption">
-      <strong>Boeing B-17 &rarr;</strong>
+      <strong>Boeing B-17 Flying Fortress &rarr;</strong>
     </div>
   </a>
   <a href="/website/world-war-ii/north-american-b-25-mitchell/" class="plane-box">

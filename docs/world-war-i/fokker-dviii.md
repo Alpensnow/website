@@ -7,7 +7,7 @@ title: Fokker D.VIII
 <br>
 
 <p align="center">
-  <img src="../images/fokker_dviii.jpg" width="70%">
+  <img src="../images/fokker_dviii.jpg" alt="Fokker D.VIII" width="70%">
 </p>
 
 <br>

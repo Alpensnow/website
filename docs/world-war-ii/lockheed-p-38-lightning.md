@@ -65,7 +65,7 @@ title: Lockheed P-38 Lightning
     </tr>
     <tr>
       <td>Armament</td>
-      <td>1 × Hispano M2(C) 20 mm cannon, 4 × M2 Browning machine guns, 2 × 726 kg (1600 lbs) of bombs</td>
+      <td>1 × Hispano M2(C) 20 mm cannon, 4 × 0.50 in (12.7 mm) M2 Browning machine guns, 2 × 726 kg (1600 lbs) of bombs</td>
     </tr>
   </tbody>
 </table>

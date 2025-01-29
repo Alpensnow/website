@@ -7,7 +7,7 @@ title: Sopwith Camel
 <br>
 
 <p align="center">
-  <img src="../images/sopwith_camel.jpg" width="70%">
+  <img src="../images/sopwith_camel.jpg" alt="Sopwith Camel" width="70%">
 </p>
 
 <br>

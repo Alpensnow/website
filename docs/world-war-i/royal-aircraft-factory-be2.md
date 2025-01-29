@@ -7,7 +7,7 @@ title: Royal Aircraft Factory B.E.2
 <br>
 
 <p align="center">
-  <img src="../images/royal_aircraft_factory_be2.jpg" width="70%">
+  <img src="../images/royal_aircraft_factory_be2.jpg" alt="Royal Aircraft Factory B.E.2" width="70%">
 </p>
 
 <br>

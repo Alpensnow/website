@@ -7,7 +7,7 @@ title: Vickers F.B.5
 <br>
 
 <p align="center">
-  <img src="../images/vickers_fb5.jpg" width="70%">
+  <img src="../images/vickers_fb5.jpg" alt="Vickers F.B.5" width="70%">
 </p>
 
 <br>

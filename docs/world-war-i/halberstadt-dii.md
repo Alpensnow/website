@@ -7,7 +7,7 @@ title: Halberstadt D.II
 <br>
 
 <p align="center">
-  <img src="../images/halberstadt_dii.jpg" width="70%">
+  <img src="../images/halberstadt_dii.jpg" alt="Halberstadt D.II" width="70%">
 </p>
 
 <br>

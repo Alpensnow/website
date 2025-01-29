@@ -7,7 +7,7 @@ title: Albatros D.I
 <br>
 
 <p align="center">
-  <img src="../images/albatros_di.jpg" width="70%">
+  <img src="../images/albatros_di.jpg" alt="Albatros D.I" width="70%">
 </p>
 
 <br>

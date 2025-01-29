@@ -7,7 +7,7 @@ title: SPAD S.VII
 <br>
 
 <p align="center">
-  <img src="../images/spad_svii.jpg" width="70%">
+  <img src="../images/spad_svii.jpg" alt="SPAD S.VII" width="70%">
 </p>
 
 <br>

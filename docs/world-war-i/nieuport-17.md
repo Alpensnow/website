@@ -7,7 +7,7 @@ title: Nieuport 17
 <br>
 
 <p align="center">
-  <img src="../images/nieuport_17.jpg" width="70%">
+  <img src="../images/nieuport_17.jpg" alt="Nieuport 17" width="70%">
 </p>
 
 <br>

@@ -7,7 +7,7 @@ title: Armstrong Whitworth F.K.8
 <br>
 
 <p align="center">
-  <img src="../images/armstrong_whitworth_fk8.jpg" width="70%">
+  <img src="../images/armstrong_whitworth_fk8.jpg" alt="Armstrong Whitworth F.K.8" width="70%">
 </p>
 
 <br>

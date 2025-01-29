@@ -7,7 +7,7 @@ title: SPAD S.XIII
 <br>
 
 <p align="center">
-  <img src="../images/spad_sxiii.jpg" width="70%">
+  <img src="../images/spad_sxiii.jpg" alt="SPAD S.XIII" width="70%">
 </p>
 
 <br>

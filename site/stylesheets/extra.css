@@ -67,6 +67,14 @@ a {
     padding: 0.5%;
 }
 
+.table_component td:first-child {
+    width: 30%;
+}
+
+.table_component td:last-child {
+    width: 70%;
+}
+
 /* Captioned Images */
 
 .centered-figure {

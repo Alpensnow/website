@@ -7,7 +7,7 @@ title: Fokker Eindecker
 <br>
 
 <p align="center">
-  <img src="../images/fokker_eindecker.jpg" width="70%">
+  <img src="../images/fokker_eindecker.jpg" alt="Fokker Eindecker" width="70%">
 </p>
 
 <br>
