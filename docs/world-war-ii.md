@@ -59,7 +59,7 @@ After the First World War, the potential of aircraft in warfare was fully realiz
 <div class="plane-grid-container">
   <a href="/website/world-war-ii/grumman-f4f-wildcat/" class="plane-box">
     <div class="plane-image-section">
-      <img src="https://lh4.googleusercontent.com/proxy/EZQ-IBPKbkyaMVfCwvqnR44oyeczgVa6qY236l0ubrlI6ss5PU7qZMeflNgqAvIdRNbIvwl_Mr07eIH947OsMX94xFX8CVA" alt="Grumman F4F Wildcat" class="plane-image" />
+      <img src="../world-war-ii/images/grumman_f4f_wildcat.jpg" alt="Grumman F4F Wildcat" class="plane-image" />
     </div>
     <div class="plane-caption">
       <strong>Grumman F4F Wildcat &rarr;</strong>
@@ -106,7 +106,7 @@ After the First World War, the potential of aircraft in warfare was fully realiz
   </a>
   <a href="/website/world-war-ii/consolidated-b-24-liberator/" class="plane-box">
     <div class="plane-image-section">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Maxwell_B-24_%28cropped%29.jpg/1200px-Maxwell_B-24_%28cropped%29.jpg" alt="Consolidated B-24 Liberator" class="plane-image" />
+      <img src="../world-war-ii/images/consolidated_b-24_liberator.jpg" alt="Consolidated B-24 Liberator" class="plane-image" />
     </div>
     <div class="plane-caption">
       <strong>Consolidated B-24 Liberator &rarr;</strong>
@@ -114,7 +114,7 @@ After the First World War, the potential of aircraft in warfare was fully realiz
   </a>
   <a href="/website/world-war-ii/boeing-b-29-superfortress/" class="plane-box">
     <div class="plane-image-section">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/B-29_in_flight.jpg/800px-B-29_in_flight.jpg" alt="Boeing B-29 Superfortress" class="plane-image" />
+      <img src="../world-war-ii/images/boeing_b-29_superfortress.jpg" alt="Boeing B-29 Superfortress" class="plane-image" />
     </div>
     <div class="plane-caption">
       <strong>Boeing B-29 Superfortress &rarr;</strong>

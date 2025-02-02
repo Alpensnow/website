@@ -2,7 +2,7 @@
 title: Boeing B-17 Flying Fortress
 ---
 
-<h1 class="center-header">Boeing B-17 Flying Fortress</h1>
+<h1 class="center-header">Boeing B-17 Flying Fortress (1938)</h1>
 
 <br>
 
