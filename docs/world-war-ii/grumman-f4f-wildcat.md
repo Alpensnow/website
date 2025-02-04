@@ -2,7 +2,7 @@
 title: Grumman F4F Wildcat
 ---
 
-<h1 class="center-header">Grumman F4F Wildcat (1937)</h1>
+<h1 class="center-header">Grumman F4F Wildcat (1940)</h1>
 
 <br>
 
@@ -57,7 +57,7 @@ title: Grumman F4F Wildcat
     </tr>
     <tr>
       <td>Range</td>
-      <td>1239 km / 770 miles</td>
+      <td>1239 km / 770 mi</td>
     </tr>
     <tr>
       <td>Ceiling</td>
@@ -65,7 +65,7 @@ title: Grumman F4F Wildcat
     </tr>
     <tr>
       <td>Armament</td>
-      <td>6 × .50 in (12.7 mm) M2 Browning machine guns, 2 × 45 kg (100 lbs) of bombs</td>
+      <td>6 × 12.7 mm (0.50 in) M2 Browning machine guns, 2 × 45 kg (100 lbs) of bombs</td>
     </tr>
   </tbody>
 </table>

@@ -75,7 +75,7 @@ After the First World War, the potential of aircraft in warfare was fully realiz
   </a>
   <a href="/website/world-war-ii/grumman-f6f-hellcat/" class="plane-box">
     <div class="plane-image-section">
-      <img src="https://i0.wp.com/www.defensemedianetwork.com/wp-content/uploads/2014/01/F6F-Hellcats-bw.jpg?ssl=1" alt="Grumman F6F Hellcat" class="plane-image" />
+      <img src="../world-war-ii/images/grumman_f6f_hellcat.jpg" alt="Grumman F6F Hellcat" class="plane-image" />
     </div>
     <div class="plane-caption">
       <strong>Grumman F6F Hellcat &rarr;</strong>

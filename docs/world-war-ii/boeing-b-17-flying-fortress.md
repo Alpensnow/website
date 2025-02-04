@@ -65,7 +65,7 @@ title: Boeing B-17 Flying Fortress
     </tr>
     <tr>
       <td>Armament</td>
-      <td>13 × 0.50 in (12.7 mm) M2 Browning machine guns, 7800 kg (17600 lb) of bombs</td>
+      <td>13 × 12.7 mm (0.50 in) M2 Browning machine guns, 7800 kg (17600 lb) of bombs</td>
     </tr>
   </tbody>
 </table>
