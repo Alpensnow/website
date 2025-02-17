@@ -65,7 +65,7 @@ title: Grumman F4F Wildcat
     </tr>
     <tr>
       <td>Armament</td>
-      <td>6 × 12.7 mm (0.50 in) M2 Browning machine guns, 2 × 45 kg (100 lbs) of bombs</td>
+      <td>6 × 12.7 mm (0.50 in) M2 Browning machine guns, 2 × 45 kg (100 lb) of bombs</td>
     </tr>
   </tbody>
 </table>

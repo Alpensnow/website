@@ -98,7 +98,7 @@ After the First World War, the potential of aircraft in warfare was fully realiz
   </a>
   <a href="/website/world-war-ii/north-american-b-25-mitchell/" class="plane-box">
     <div class="plane-image-section">
-      <img src="https://cdn.britannica.com/30/133830-050-2715ECB1/US-Army-Air-Forces-B-25-Mitchell-World.jpg" alt="North American B-25 Mitchell" class="plane-image" />
+      <img src="../world-war-ii/images/north_american_b-25_mitchell.jpg" alt="North American B-25 Mitchell" class="plane-image" />
     </div>
     <div class="plane-caption">
       <strong>North American B-25 Mitchell &rarr;</strong>

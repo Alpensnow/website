@@ -65,7 +65,7 @@ title: Consolidated B-24 Liberator
     </tr>
     <tr>
       <td>Armament</td>
-      <td>10 × 12.7 mm (0.50 in) M2 Browning machine guns, 5800 kg (12800 lbs) of bombs</td>
+      <td>10 × 12.7 mm (0.50 in) M2 Browning machine guns, 5800 kg (12800 lb) of bombs</td>
     </tr>
   </tbody>
 </table>

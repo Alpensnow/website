@@ -65,7 +65,7 @@ title: Grumman F6F Hellcat
     </tr>
     <tr>
       <td>Armament</td>
-      <td>6 × 12.7 mm (0.50 in) M2 Browning machine guns, 2 × 453 kg (1000 lbs) of bombs or 6 × 127mm (5in) rockets</td>
+      <td>6 × 12.7 mm (0.50 in) M2 Browning machine guns, 2 × 453 kg (1000 lb) of bombs or 6 × 127 mm (5 in) rockets</td>
     </tr>
   </tbody>
 </table>

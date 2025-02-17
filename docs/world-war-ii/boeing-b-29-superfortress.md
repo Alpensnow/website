@@ -65,7 +65,7 @@ title: Boeing B-29 Superfortress
     </tr>
     <tr>
       <td>Armament</td>
-      <td>10 × 12.7 mm (0.50 in) M2 Browning machine guns, 2 × .50 BMG cannons, 9100kg (20000 lbs) of bombs</td>
+      <td>10 × 12.7 mm (0.50 in) M2 Browning machine guns, 2 × .50 BMG cannons, 9100 kg (20000 lb) of bombs</td>
     </tr>
   </tbody>
 </table>
