@@ -28,7 +28,7 @@ After the First World War, the potential of aircraft in warfare was fully realiz
   </a>
   <a href="/website/world-war-ii/north-american-p-51-mustang/" class="plane-box">
     <div class="plane-image-section">
-      <img src="https://www.mustangsmustangs.com/p-51/p51history/XP-51D-500x333.jpg" alt="North American P-51 Mustang" class="plane-image" />
+      <img src="../world-war-ii/images/north_american_p-51_mustang.jpg" alt="North American P-51 Mustang" class="plane-image" />
     </div>
     <div class="plane-caption">
       <strong>North American P-51 Mustang &rarr;</strong>
@@ -44,7 +44,7 @@ After the First World War, the potential of aircraft in warfare was fully realiz
   </a>
   <a href="/website/world-war-ii/northrop-p-61-black-widow/" class="plane-box">
     <div class="plane-image-section">
-      <img src="https://i0.wp.com/plane-encyclopedia.com/wp-content/uploads/2021/11/p61_44_42-5544-assigned-to-the-422nd-Night-Fighter-Squadron.-SAN-DIEGO-AIR-AND-SPACE.jpg?ssl=1" alt="Northrop P-61 Black Widow" class="plane-image" />
+      <img src="../world-war-ii/images/northrop_p-61_black_widow.jpg" alt="Northrop P-61 Black Widow" class="plane-image" />
     </div>
     <div class="plane-caption">
       <strong>Northrop P-61 Black Widow &rarr;</strong>
