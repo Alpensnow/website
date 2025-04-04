@@ -36,7 +36,7 @@ After the First World War, the potential of aircraft in warfare was fully realiz
   </a>
   <a href="/website/world-war-ii/republic-p-47-thunderbolt/" class="plane-box">
     <div class="plane-image-section">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Republic_P-47N_Thunderbolt_in_flight.jpg" alt="Republic P-47 Thunderbolt" class="plane-image" />
+      <img src="../world-war-ii/images/republic_p-47_thunderbolt.jpg" alt="Republic P-47 Thunderbolt" class="plane-image" />
     </div>
     <div class="plane-caption">
       <strong>Republic P-47 Thunderbolt &rarr;</strong>

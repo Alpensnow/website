@@ -25,7 +25,7 @@ title: Northrop P-61 Black Widow
     </tr>
     <tr>
       <td>Engine</td>
-      <td>2 × Pratt & Whitney R-2800-65W Double Wasp </td>
+      <td>2 × Pratt & Whitney R-2800-65W Double Wasp</td>
     </tr>
     <tr>
       <td>Length</td>
@@ -57,7 +57,7 @@ title: Northrop P-61 Black Widow
     </tr>
     <tr>
       <td>Range</td>
-      <td>2173 km / 1350 miles</td>
+      <td>2173 km / 1350 mi</td>
     </tr>
     <tr>
       <td>Ceiling</td>
