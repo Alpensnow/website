@@ -18,7 +18,7 @@ After the First World War, the potential of aircraft in warfare was fully realiz
 <h4 class="center-header">Fighters</h4>
 
 <div class="plane-grid-container">
-<a href="/website/world-war-ii/lockheed-p-38-lightning/" class="plane-box">
+<a href="/world-war-ii/lockheed-p-38-lightning/" class="plane-box">
     <div class="plane-image-section">
       <img src="../world-war-ii/images/lockheed_p-38_lightning.jpg" alt="Lockheed P-38 Lightning" class="plane-image" />
     </div>
@@ -26,7 +26,7 @@ After the First World War, the potential of aircraft in warfare was fully realiz
       <strong>Lockheed P-38 Lightning &rarr;</strong>
     </div>
   </a>
-  <a href="/website/world-war-ii/north-american-p-51-mustang/" class="plane-box">
+  <a href="/world-war-ii/north-american-p-51-mustang/" class="plane-box">
     <div class="plane-image-section">
       <img src="../world-war-ii/images/north_american_p-51_mustang.jpg" alt="North American P-51 Mustang" class="plane-image" />
     </div>
@@ -34,7 +34,7 @@ After the First World War, the potential of aircraft in warfare was fully realiz
       <strong>North American P-51 Mustang &rarr;</strong>
     </div>
   </a>
-  <a href="/website/world-war-ii/republic-p-47-thunderbolt/" class="plane-box">
+  <a href="/world-war-ii/republic-p-47-thunderbolt/" class="plane-box">
     <div class="plane-image-section">
       <img src="../world-war-ii/images/republic_p-47_thunderbolt.jpg" alt="Republic P-47 Thunderbolt" class="plane-image" />
     </div>
@@ -42,7 +42,7 @@ After the First World War, the potential of aircraft in warfare was fully realiz
       <strong>Republic P-47 Thunderbolt &rarr;</strong>
     </div>
   </a>
-  <a href="/website/world-war-ii/northrop-p-61-black-widow/" class="plane-box">
+  <a href="/world-war-ii/northrop-p-61-black-widow/" class="plane-box">
     <div class="plane-image-section">
       <img src="../world-war-ii/images/northrop_p-61_black_widow.jpg" alt="Northrop P-61 Black Widow" class="plane-image" />
     </div>
@@ -57,7 +57,7 @@ After the First World War, the potential of aircraft in warfare was fully realiz
 <h4 class="center-header">Carrier Fighters</h4>
 
 <div class="plane-grid-container">
-  <a href="/website/world-war-ii/grumman-f4f-wildcat/" class="plane-box">
+  <a href="/world-war-ii/grumman-f4f-wildcat/" class="plane-box">
     <div class="plane-image-section">
       <img src="../world-war-ii/images/grumman_f4f_wildcat.jpg" alt="Grumman F4F Wildcat" class="plane-image" />
     </div>
@@ -65,7 +65,7 @@ After the First World War, the potential of aircraft in warfare was fully realiz
       <strong>Grumman F4F Wildcat &rarr;</strong>
     </div>
   </a>
-  <a href="/website/world-war-ii/vought-f4u-corsair/" class="plane-box">
+  <a href="/world-war-ii/vought-f4u-corsair/" class="plane-box">
     <div class="plane-image-section">
       <img src="https://preview.redd.it/nwylaymoybs11.jpg?width=1080&crop=smart&auto=webp&s=e93d381fa127dc4df241ab638e5e5a20d47998a7" alt="Vought F4U Corsair" class="plane-image" />
     </div>
@@ -73,7 +73,7 @@ After the First World War, the potential of aircraft in warfare was fully realiz
       <strong>Vought F4U Corsair &rarr;</strong>
     </div>
   </a>
-  <a href="/website/world-war-ii/grumman-f6f-hellcat/" class="plane-box">
+  <a href="/world-war-ii/grumman-f6f-hellcat/" class="plane-box">
     <div class="plane-image-section">
       <img src="../world-war-ii/images/grumman_f6f_hellcat.jpg" alt="Grumman F6F Hellcat" class="plane-image" />
     </div>
@@ -88,7 +88,7 @@ After the First World War, the potential of aircraft in warfare was fully realiz
 <h4 class="center-header">Bombers</h4>
 
 <div class="plane-grid-container">
-  <a href="/website/world-war-ii/boeing-b-17-flying-fortress/" class="plane-box">
+  <a href="/world-war-ii/boeing-b-17-flying-fortress/" class="plane-box">
     <div class="plane-image-section">
       <img src="../world-war-ii/images/boeing_b-17_flying_fortress.jpg" alt="Boeing B-17 Flying Fortress" class="plane-image" />
     </div>
@@ -96,7 +96,7 @@ After the First World War, the potential of aircraft in warfare was fully realiz
       <strong>Boeing B-17 Flying Fortress &rarr;</strong>
     </div>
   </a>
-  <a href="/website/world-war-ii/north-american-b-25-mitchell/" class="plane-box">
+  <a href="/world-war-ii/north-american-b-25-mitchell/" class="plane-box">
     <div class="plane-image-section">
       <img src="../world-war-ii/images/north_american_b-25_mitchell.jpg" alt="North American B-25 Mitchell" class="plane-image" />
     </div>
@@ -104,7 +104,7 @@ After the First World War, the potential of aircraft in warfare was fully realiz
       <strong>North American B-25 Mitchell &rarr;</strong>
     </div>
   </a>
-  <a href="/website/world-war-ii/consolidated-b-24-liberator/" class="plane-box">
+  <a href="/world-war-ii/consolidated-b-24-liberator/" class="plane-box">
     <div class="plane-image-section">
       <img src="../world-war-ii/images/consolidated_b-24_liberator.jpg" alt="Consolidated B-24 Liberator" class="plane-image" />
     </div>
@@ -112,7 +112,7 @@ After the First World War, the potential of aircraft in warfare was fully realiz
       <strong>Consolidated B-24 Liberator &rarr;</strong>
     </div>
   </a>
-  <a href="/website/world-war-ii/boeing-b-29-superfortress/" class="plane-box">
+  <a href="/world-war-ii/boeing-b-29-superfortress/" class="plane-box">
     <div class="plane-image-section">
       <img src="../world-war-ii/images/boeing_b-29_superfortress.jpg" alt="Boeing B-29 Superfortress" class="plane-image" />
     </div>
