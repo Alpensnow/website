@@ -67,7 +67,7 @@ After the First World War, the potential of aircraft in warfare was fully realiz
   </a>
   <a href="/world-war-ii/vought-f4u-corsair/" class="plane-box">
     <div class="plane-image-section">
-      <img src="https://preview.redd.it/nwylaymoybs11.jpg?width=1080&crop=smart&auto=webp&s=e93d381fa127dc4df241ab638e5e5a20d47998a7" alt="Vought F4U Corsair" class="plane-image" />
+      <img src="vought_f4u_corsair" alt="Vought F4U Corsair" class="plane-image" />
     </div>
     <div class="plane-caption">
       <strong>Vought F4U Corsair &rarr;</strong>
