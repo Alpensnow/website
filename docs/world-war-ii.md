@@ -67,7 +67,7 @@ After the First World War, the potential of aircraft in warfare was fully realiz
   </a>
   <a href="/world-war-ii/vought-f4u-corsair/" class="plane-box">
     <div class="plane-image-section">
-      <img src="vought_f4u_corsair" alt="Vought F4U Corsair" class="plane-image" />
+      <img src="../world-war-ii/images/vought_f4u_corsair.jpg" alt="Vought F4U Corsair" class="plane-image" />
     </div>
     <div class="plane-caption">
       <strong>Vought F4U Corsair &rarr;</strong>
@@ -127,11 +127,70 @@ After the First World War, the potential of aircraft in warfare was fully realiz
 <br>
 
 # United Kingdom
-Lorem ipsum odor amet, consectetuer adipiscing elit. Tempus hendrerit platea sed dignissim rutrum. Gravida feugiat tempus justo sit velit penatibus. Finibus taciti risus duis fames cras quam velit netus bibendum. Rutrum risus nunc sociosqu adipiscing consequat. In quis aenean libero justo et. Nascetur odio convallis purus phasellus urna ante. Ex condimentum primis bibendum lobortis penatibus senectus litora phasellus.
 
-Proin fames lobortis dolor lacus et hac porta laoreet? Ante habitant lorem mattis; ridiculus bibendum odio habitasse id facilisis. Consectetur felis odio ultricies tellus facilisis netus faucibus massa. Id elementum turpis cursus; ante tellus aenean. Risus vehicula tincidunt, adipiscing nostra auctor et mauris. Hendrerit quisque torquent accumsan ex dictum. Tempus auctor porta ipsum ultricies sapien platea mattis elementum porttitor.
+<br>
 
-Accumsan non nam faucibus praesent urna imperdiet interdum. Id duis porta dui placerat nisl erat. Cursus neque a nisi consectetur morbi hac. Dolor posuere magna posuere venenatis consequat nisl massa. Nascetur nascetur pulvinar nibh primis condimentum dolor tempor. Consequat curabitur vestibulum habitasse penatibus penatibus. Consequat dictum facilisi per phasellus felis enim torquent hac. Egestas cras donec bibendum molestie eleifend. Facilisi aenean habitant dui nec scelerisque vitae fermentum arcu.
+<h4 class="center-header">Fighters</h4>
+
+<div class="plane-grid-container">
+<a href="/world-war-ii/gloster-gladiator/" class="plane-box">
+    <div class="plane-image-section">
+      <img src="../world-war-ii/images/gloster_gladiator.jpg" alt="Gloster Gladiator" class="plane-image" />
+    </div>
+    <div class="plane-caption">
+      <strong>Gloster Gladiator &rarr;</strong>
+    </div>
+  </a>
+  <a href="/world-war-ii/hawker-hurricane/" class="plane-box">
+    <div class="plane-image-section">
+      <img src="../world-war-ii/images/hawker_hurricane.jpg" alt="Hawker Hurricane" class="plane-image" />
+    </div>
+    <div class="plane-caption">
+      <strong>Hawker Hurricane &rarr;</strong>
+    </div>
+  </a>
+  <a href="/world-war-ii/supermarine-spitfire/" class="plane-box">
+    <div class="plane-image-section">
+      <img src="../world-war-ii/images/supermarine_spitfire.jpg" alt="Supermarine Spitfire" class="plane-image" />
+    </div>
+    <div class="plane-caption">
+      <strong>Supermarine Spitfire &rarr;</strong>
+    </div>
+  </a>
+</div>
+
+<br>
+
+<h4 class="center-header">Bombers</h4>
+
+<div class="plane-grid-container">
+<a href="/world-war-ii/short-stirling/" class="plane-box">
+    <div class="plane-image-section">
+      <img src="../world-war-ii/images/short_stirling.jpg" alt="Short Stirling" class="plane-image" />
+    </div>
+    <div class="plane-caption">
+      <strong>Short Stirling &rarr;</strong>
+    </div>
+  </a>
+  <a href="/world-war-ii/handley-page-halifax/" class="plane-box">
+    <div class="plane-image-section">
+      <img src="../world-war-ii/images/handley_page_halifax.jpg" alt="Handley Page Halifax" class="plane-image" />
+    </div>
+    <div class="plane-caption">
+      <strong>Handley Page Halifax &rarr;</strong>
+    </div>
+  </a>
+  <a href="/world-war-ii/avro-lancaster/" class="plane-box">
+    <div class="plane-image-section">
+      <img src="../world-war-ii/images/avro_lancaster.jpg" alt="Avro Lancaster" class="plane-image" />
+    </div>
+    <div class="plane-caption">
+      <strong>Avro Lancaster &rarr;</strong>
+    </div>
+  </a>
+</div>
+
+<br>
 
 <br>
 
