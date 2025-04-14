@@ -194,16 +194,77 @@ After the First World War, the potential of aircraft in warfare was fully realiz
 
 <br>
 
-<br>
-
-<br>
-
 # Germany
-Lorem ipsum odor amet, consectetuer adipiscing elit. Tempus hendrerit platea sed dignissim rutrum. Gravida feugiat tempus justo sit velit penatibus. Finibus taciti risus duis fames cras quam velit netus bibendum. Rutrum risus nunc sociosqu adipiscing consequat. In quis aenean libero justo et. Nascetur odio convallis purus phasellus urna ante. Ex condimentum primis bibendum lobortis penatibus senectus litora phasellus.
 
-Proin fames lobortis dolor lacus et hac porta laoreet? Ante habitant lorem mattis; ridiculus bibendum odio habitasse id facilisis. Consectetur felis odio ultricies tellus facilisis netus faucibus massa. Id elementum turpis cursus; ante tellus aenean. Risus vehicula tincidunt, adipiscing nostra auctor et mauris. Hendrerit quisque torquent accumsan ex dictum. Tempus auctor porta ipsum ultricies sapien platea mattis elementum porttitor.
+<br>
 
-Accumsan non nam faucibus praesent urna imperdiet interdum. Id duis porta dui placerat nisl erat. Cursus neque a nisi consectetur morbi hac. Dolor posuere magna posuere venenatis consequat nisl massa. Nascetur nascetur pulvinar nibh primis condimentum dolor tempor. Consequat curabitur vestibulum habitasse penatibus penatibus. Consequat dictum facilisi per phasellus felis enim torquent hac. Egestas cras donec bibendum molestie eleifend. Facilisi aenean habitant dui nec scelerisque vitae fermentum arcu.
+<h4 class="center-header">Fighters</h4>
+
+<div class="plane-grid-container">
+<a href="/world-war-ii/messerschmitt-bf-109/" class="plane-box">
+    <div class="plane-image-section">
+      <img src="../world-war-ii/images/messerschmitt_bf_109.jpg" alt="Messerschmitt Bf 109" class="plane-image" />
+    </div>
+    <div class="plane-caption">
+      <strong>Messerschmitt Bf 109 &rarr;</strong>
+    </div>
+  </a>
+  <a href="/world-war-ii/focke-wulf-fw-190/" class="plane-box">
+    <div class="plane-image-section">
+      <img src="../world-war-ii/images/focke-wulf_fw_190.jpg" alt="Focke-Wulf Fw 190" class="plane-image" />
+    </div>
+    <div class="plane-caption">
+      <strong>Focke-Wulf Fw 190 &rarr;</strong>
+    </div>
+  </a>
+  <a href="/world-war-ii/messerschmitt-me-262/" class="plane-box">
+    <div class="plane-image-section">
+      <img src="../world-war-ii/images/messerschmitt_me_262.jpg" alt="Messerschmitt Me 262" class="plane-image" />
+    </div>
+    <div class="plane-caption">
+      <strong>Messerschmitt Me 262 &rarr;</strong>
+    </div>
+  </a>
+</div>
+
+<br>
+
+<h4 class="center-header">Bombers</h4>
+
+<div class="plane-grid-container">
+<a href="/world-war-ii/heinkel-he-111/" class="plane-box">
+    <div class="plane-image-section">
+      <img src="../world-war-ii/images/heinkel_he_111.jpg" alt="Heinkel He 111" class="plane-image" />
+    </div>
+    <div class="plane-caption">
+      <strong>Heinkel He 111 &rarr;</strong>
+    </div>
+  </a>
+  <a href="/world-war-ii/dornier-do-17/" class="plane-box">
+    <div class="plane-image-section">
+      <img src="../world-war-ii/images/dornier_do_17.jpg" alt="Dornier Do 17" class="plane-image" />
+    </div>
+    <div class="plane-caption">
+      <strong>Dornier Do 17 &rarr;</strong>
+    </div>
+  </a>
+  <a href="/world-war-ii/junkers-ju-87/" class="plane-box">
+    <div class="plane-image-section">
+      <img src="../world-war-ii/images/junkers_ju_87.jpg" alt="Junkers Ju 87" class="plane-image" />
+    </div>
+    <div class="plane-caption">
+      <strong>Junkers Ju 87 &rarr;</strong>
+    </div>
+  </a>
+  <a href="/world-war-ii/junkers-ju-88/" class="plane-box">
+    <div class="plane-image-section">
+      <img src="../world-war-ii/images/junkers_ju_88.jpg" alt="Junkers Ju 88" class="plane-image" />
+    </div>
+    <div class="plane-caption">
+      <strong>Junkers Ju 88 &rarr;</strong>
+    </div>
+  </a>
+</div>
 
 <br>
 
