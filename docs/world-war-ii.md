@@ -271,11 +271,67 @@ After the First World War, the potential of aircraft in warfare was fully realiz
 <br>
 
 # Soviet Union
-Lorem ipsum odor amet, consectetuer adipiscing elit. Tempus hendrerit platea sed dignissim rutrum. Gravida feugiat tempus justo sit velit penatibus. Finibus taciti risus duis fames cras quam velit netus bibendum. Rutrum risus nunc sociosqu adipiscing consequat. In quis aenean libero justo et. Nascetur odio convallis purus phasellus urna ante. Ex condimentum primis bibendum lobortis penatibus senectus litora phasellus.
+<br>
 
-Proin fames lobortis dolor lacus et hac porta laoreet? Ante habitant lorem mattis; ridiculus bibendum odio habitasse id facilisis. Consectetur felis odio ultricies tellus facilisis netus faucibus massa. Id elementum turpis cursus; ante tellus aenean. Risus vehicula tincidunt, adipiscing nostra auctor et mauris. Hendrerit quisque torquent accumsan ex dictum. Tempus auctor porta ipsum ultricies sapien platea mattis elementum porttitor.
+<h4 class="center-header">Fighters</h4>
 
-Accumsan non nam faucibus praesent urna imperdiet interdum. Id duis porta dui placerat nisl erat. Cursus neque a nisi consectetur morbi hac. Dolor posuere magna posuere venenatis consequat nisl massa. Nascetur nascetur pulvinar nibh primis condimentum dolor tempor. Consequat curabitur vestibulum habitasse penatibus penatibus. Consequat dictum facilisi per phasellus felis enim torquent hac. Egestas cras donec bibendum molestie eleifend. Facilisi aenean habitant dui nec scelerisque vitae fermentum arcu.
+<div class="plane-grid-container">
+<a href="/world-war-ii/mikoyan-gurevich-mig-3/" class="plane-box">
+    <div class="plane-image-section">
+      <img src="../world-war-ii/images/mikoyan_gurevich_mig-3.jpg" alt="Mikoyan-Gurevich MiG-3" class="plane-image" />
+    </div>
+    <div class="plane-caption">
+      <strong>Mikoyan-Gurevich MiG-3 &rarr;</strong>
+    </div>
+  </a>
+  <a href="/world-war-ii/lavochkin-la-5/" class="plane-box">
+    <div class="plane-image-section">
+      <img src="../world-war-ii/images/lavochkin_la-5.jpg" alt="Lavochkin La-5" class="plane-image" />
+    </div>
+    <div class="plane-caption">
+      <strong>Lavochkin La-5 &rarr;</strong>
+    </div>
+  </a>
+  <a href="/world-war-ii/yakovlev-yak-3/" class="plane-box">
+    <div class="plane-image-section">
+      <img src="../world-war-ii/images/yakovlev_yak-3.jpg" alt="Yakovlev Yak-3" class="plane-image" />
+    </div>
+    <div class="plane-caption">
+      <strong>Yakovlev Yak-3 &rarr;</strong>
+    </div>
+  </a>
+</div>
+
+<br>
+
+<h4 class="center-header">Bombers</h4>
+
+<div class="plane-grid-container">
+<a href="/world-war-ii/ilyushin-il-2/" class="plane-box">
+    <div class="plane-image-section">
+      <img src="../world-war-ii/images/ilyushin_il-2.jpg" alt="Ilyushin Il-2" class="plane-image" />
+    </div>
+    <div class="plane-caption">
+      <strong>Ilyushin Il-2 &rarr;</strong>
+    </div>
+  </a>
+  <a href="/world-war-ii/petlyakov-pe-2/" class="plane-box">
+    <div class="plane-image-section">
+      <img src="../world-war-ii/images/petlyakov_pe-2.jpg" alt="Petlyakov Pe-2" class="plane-image" />
+    </div>
+    <div class="plane-caption">
+      <strong>Petlyakov Pe-2 &rarr;</strong>
+    </div>
+  </a>
+  <a href="/world-war-ii/ilyushin-il-4/" class="plane-box">
+    <div class="plane-image-section">
+      <img src="../world-war-ii/images/ilyushin_il-4.jpg" alt="Junkers Ju 87" class="plane-image" />
+    </div>
+    <div class="plane-caption">
+      <strong>Ilyushin Il-4 &rarr;</strong>
+    </div>
+  </a>
+</div>
 
 <br>
 
