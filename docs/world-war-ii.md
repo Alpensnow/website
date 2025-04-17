@@ -11,7 +11,8 @@ After the First World War, the potential of aircraft in warfare was fully realiz
 <br>
 
 # United States
- Before the start of the war the U.S. Army Air Corps had only a few hundred air planes. By the end of the war it was the largest Air Force ever assembled with nearly 80,000 airplanes.
+
+American planes in the Second World War were built for range and power. U.S. aircraft often emphasized long-distance capability, heavy armament, and durability — fitting for a nation fighting a two-ocean war. Fighters like the P-51 Mustang combined speed and range, escorting bombers such as the B-17 Flying Fortress and B-29 Superfortress which could absorb punishment and still bring crews home. Naval aviation also flourished, with rugged carrier-based planes like the F6F Hellcat dominating the Pacific. U.S. designs reflected industrial might and a doctrine of overwhelming air superiority.
 
 <br>
 
@@ -128,6 +129,8 @@ After the First World War, the potential of aircraft in warfare was fully realiz
 
 # United Kingdom
 
+British aircraft reflected a balance of agility, adaptability, and specialized roles. The Spitfire stood out for its sleek elliptical wings and dogfighting finesse, while the Hurricane — though more conventional — was sturdy and easy to repair. The RAF emphasized night combat, with British bombers conducting night raids into Germany throughout the war. Britain’s aircraft were often elegant yet practical, tailored to an island nation defending its skies and hitting back hard.
+
 <br>
 
 <h4 class="center-header">Fighters</h4>
@@ -195,6 +198,8 @@ After the First World War, the potential of aircraft in warfare was fully realiz
 <br>
 
 # Germany
+
+German aircraft design combined engineering precision with aggressive tactics, aiming for fast strikes and tight coordination with ground forces. The Bf 109 was a nimble, high-performance fighter, while the infamous Ju 87 Stuka was a terrifying dive bomber. German bombers like the He 111 and Do 17 were built for Blitzkrieg support—quick, coordinated attacks rather than sustained strategic bombing. Later-war designs included cutting-edge jets like the Me 262, showcasing German innovation despite production struggles. Efficiency and effectiveness in tactical roles defined the Luftwaffe’s style.
 
 <br>
 
@@ -271,6 +276,9 @@ After the First World War, the potential of aircraft in warfare was fully realiz
 <br>
 
 # Soviet Union
+
+Soviet planes were built to be rugged and fast to produce. The USSR prioritized simplicity, survivability, and mass production, leading to fighters like the Yak-3 and La-5, which were nimble, aggressive, and excelled at low altitudes—perfect for the Eastern Front. Bombers like the Pe-2 were versatile, and aircraft often doubled roles out of necessity. Soviet aviation emphasized function over form: if a plane could fly from a rough field and take a beating, it was good enough.
+
 <br>
 
 <h4 class="center-header">Fighters</h4>
@@ -338,11 +346,39 @@ After the First World War, the potential of aircraft in warfare was fully realiz
 <br>
 
 # Japan
-Lorem ipsum odor amet, consectetuer adipiscing elit. Tempus hendrerit platea sed dignissim rutrum. Gravida feugiat tempus justo sit velit penatibus. Finibus taciti risus duis fames cras quam velit netus bibendum. Rutrum risus nunc sociosqu adipiscing consequat. In quis aenean libero justo et. Nascetur odio convallis purus phasellus urna ante. Ex condimentum primis bibendum lobortis penatibus senectus litora phasellus.
 
-Proin fames lobortis dolor lacus et hac porta laoreet? Ante habitant lorem mattis; ridiculus bibendum odio habitasse id facilisis. Consectetur felis odio ultricies tellus facilisis netus faucibus massa. Id elementum turpis cursus; ante tellus aenean. Risus vehicula tincidunt, adipiscing nostra auctor et mauris. Hendrerit quisque torquent accumsan ex dictum. Tempus auctor porta ipsum ultricies sapien platea mattis elementum porttitor.
+Japanese aircraft reflected a philosophy of lightness, maneuverability, and long range, often at the cost of armor and self-sealing fuel tanks. The A6M Zero epitomized this: incredibly agile and deadly in the early war, but increasingly vulnerable as Allied planes got tougher. Japanese design favored offensive reach and pilot skill over protection, which worked well early but proved costly later. Their aircraft were elegant and deadly, but often too lightly built for sustained combat.
 
-Accumsan non nam faucibus praesent urna imperdiet interdum. Id duis porta dui placerat nisl erat. Cursus neque a nisi consectetur morbi hac. Dolor posuere magna posuere venenatis consequat nisl massa. Nascetur nascetur pulvinar nibh primis condimentum dolor tempor. Consequat curabitur vestibulum habitasse penatibus penatibus. Consequat dictum facilisi per phasellus felis enim torquent hac. Egestas cras donec bibendum molestie eleifend. Facilisi aenean habitant dui nec scelerisque vitae fermentum arcu.
+<br>
+
+<h4 class="center-header">Fighters</h4>
+
+<div class="plane-grid-container">
+<a href="/world-war-ii/mitsubishi-a5m/" class="plane-box">
+    <div class="plane-image-section">
+      <img src="../world-war-ii/images/mitsubishi_a5m.jpg" alt="Mitsubishi A5M" class="plane-image" />
+    </div>
+    <div class="plane-caption">
+      <strong>Mitsubishi A5M &rarr;</strong>
+    </div>
+  </a>
+  <a href="/world-war-ii/mitsubishi-a6m/" class="plane-box">
+    <div class="plane-image-section">
+      <img src="../world-war-ii/images/mitsubishi_a6m.jpg" alt="Mitsubishi A6M" class="plane-image" />
+    </div>
+    <div class="plane-caption">
+      <strong>Mitsubishi A6M &rarr;</strong>
+    </div>
+  </a>
+  <a href="/world-war-ii/kawanishi-n1k/" class="plane-box">
+    <div class="plane-image-section">
+      <img src="../world-war-ii/images/kawanishi_n1k.jpg" alt="Kawanishi N1K" class="plane-image" />
+    </div>
+    <div class="plane-caption">
+      <strong>Kawanishi N1K &rarr;</strong>
+    </div>
+  </a>
+</div>
 
 <br>
 
