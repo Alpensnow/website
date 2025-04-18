@@ -347,7 +347,7 @@ Soviet planes were built to be rugged and fast to produce. The USSR prioritized 
 
 # Japan
 
-Japanese aircraft reflected a philosophy of lightness, maneuverability, and long range, often at the cost of armor and self-sealing fuel tanks. The A6M Zero epitomized this: incredibly agile and deadly in the early war, but increasingly vulnerable as Allied planes got tougher. Japanese design favored offensive reach and pilot skill over protection, which worked well early but proved costly later. Their aircraft were elegant and deadly, but often too lightly built for sustained combat.
+Japanese aircraft reflected a philosophy of lightness, maneuverability, and long range, often at the cost of armor and self-sealing fuel tanks. The Mitsubishi A6M epitomized this: incredibly agile and deadly in the early war, but increasingly vulnerable as Allied planes got tougher. Japanese design favored offensive reach and pilot skill over protection, which worked well early but proved costly later. Their aircraft were elegant and deadly, but often too lightly built for sustained combat.
 
 <br>
 
