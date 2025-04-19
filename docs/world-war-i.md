@@ -5,7 +5,7 @@ World War I marked the dawn of aerial warfare, a pivotal moment in history that 
 <br>
 
 <p align="center">
-  <img src="../world-war-i/images/royal_flying_corps_pilots.jpg" alt="Royal Flying Corps Pilots" width="80%">
+  <img src="../world-war-i/images/royal_flying_corps_pilots.jpg" alt="Royal Flying Corps pilots" width="80%">
 </p>
 
 <br>

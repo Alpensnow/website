@@ -5,7 +5,7 @@ After the First World War, the potential of aircraft in warfare was fully realiz
 <br>
 
 <p align="center">
-  <img src="https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTExL2xyL3drNTkwNzUxNy1pbWFnZS5qcGc.jpg" width="80%">
+  <img src="../world-war-ii/images/american_bombers.jpg" alt="American bombers conducting a bombing run" width="80%">
 </p>
 
 <br>

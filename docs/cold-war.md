@@ -5,7 +5,7 @@ The Cold War was a revolutionary era for aviation, driven by the rivalry between
 <br>
 
 <p align="center">
-  <img src="https://cdn10.picryl.com/photo/1968/12/09/an-f-4-phantom-ii-aircraft-approaches-for-a-landing-aboard-the-attack-aircraft-b4d173-1024.jpg" width="80%">
+  <img src="../cold-war/images/phantom_landing.jpg" alt="F-4 Phantom II landing on an aircraft carrier" width="80%">
 </p>
 
 <br>
@@ -43,9 +43,9 @@ Placeholder
       <strong>Lockheed F-104 Starfighter &rarr;</strong>
     </div>
   </a>
-  <a href="/cold-war/republic-f-104-thunderchief/" class="plane-box">
+  <a href="/cold-war/republic-f-105-thunderchief/" class="plane-box">
     <div class="plane-image-section">
-      <img src="../cold-war/images/republic_f-104_thunderchief.jpg" alt="Republic F-105 Thunderchief" class="plane-image" />
+      <img src="../cold-war/images/republic_f-105_thunderchief.jpg" alt="Republic F-105 Thunderchief" class="plane-image" />
     </div>
     <div class="plane-caption">
       <strong>Republic F-105 Thunderchief &rarr;</strong>
@@ -106,49 +106,49 @@ Placeholder
 <h4 class="center-header">Bombers</h4>
 
 <div class="plane-grid-container">
-<a href="/cold-war/lockheed-p-38-lightning/" class="plane-box">
+<a href="/cold-war/convair-b-36-peacemaker/" class="plane-box">
     <div class="plane-image-section">
-      <img src="../cold-war/images/lockheed_p-38_lightning.jpg" alt="Lockheed P-38 Lightning" class="plane-image" />
+      <img src="../cold-war/images/convair_b-36_peacemaker.jpg" alt="Convair B-36 Peacemaker" class="plane-image" />
     </div>
     <div class="plane-caption">
       <strong>Convair B-36 Peacemaker &rarr;</strong>
     </div>
   </a>
-  <a href="/cold-war/north-american-p-51-mustang/" class="plane-box">
+  <a href="/cold-war/boeing-b-50-superfortress/" class="plane-box">
     <div class="plane-image-section">
-      <img src="../cold-war/images/north_american_p-51_mustang.jpg" alt="North American P-51 Mustang" class="plane-image" />
+      <img src="../cold-war/images/boeing_b-50_superfortress.jpg" alt="Boeing B-50 Superfortress" class="plane-image" />
     </div>
     <div class="plane-caption">
       <strong>Boeing B-50 Superfortress &rarr;</strong>
     </div>
   </a>
-  <a href="/cold-war/republic-p-47-thunderbolt/" class="plane-box">
+  <a href="/cold-war/boeing-b-47-stratojet/" class="plane-box">
     <div class="plane-image-section">
-      <img src="../cold-war/images/republic_p-47_thunderbolt.jpg" alt="Republic P-47 Thunderbolt" class="plane-image" />
+      <img src="../cold-war/images/boeing_b-47_stratojet.jpg" alt="Boeing B-47 Stratojet" class="plane-image" />
     </div>
     <div class="plane-caption">
       <strong>Boeing B-47 Stratojet &rarr;</strong>
     </div>
   </a>
-  <a href="/cold-war/northrop-p-61-black-widow/" class="plane-box">
+  <a href="/cold-war/boeing-b-52-stratofortress/" class="plane-box">
     <div class="plane-image-section">
-      <img src="../cold-war/images/northrop_p-61_black_widow.jpg" alt="Northrop P-61 Black Widow" class="plane-image" />
+      <img src="../cold-war/images/boeing_b-52_stratofortress.jpg" alt="Boeing B-52 Stratofortress" class="plane-image" />
     </div>
     <div class="plane-caption">
       <strong>Boeing B-52 Stratofortress &rarr;</strong>
     </div>
   </a>
-  <a href="/cold-war/northrop-p-61-black-widow/" class="plane-box">
+  <a href="/cold-war/convair-b-58-hustler/" class="plane-box">
     <div class="plane-image-section">
-      <img src="../cold-war/images/northrop_p-61_black_widow.jpg" alt="Northrop P-61 Black Widow" class="plane-image" />
+      <img src="../cold-war/images/convair_b-58_hustler.jpg" alt="Convair B-58 Hustler" class="plane-image" />
     </div>
     <div class="plane-caption">
       <strong>Convair B-58 Hustler &rarr;</strong>
     </div>
   </a>
-  <a href="/cold-war/northrop-p-61-black-widow/" class="plane-box">
+  <a href="/cold-war/northrop-grumman-b-2-spirit/" class="plane-box">
     <div class="plane-image-section">
-      <img src="../cold-war/images/northrop_p-61_black_widow.jpg" alt="Northrop P-61 Black Widow" class="plane-image" />
+      <img src="../cold-war/images/northrop_grumman_b-2_spirit.jpg" alt="Northrop Grumman B-2 Spirit" class="plane-image" />
     </div>
     <div class="plane-caption">
       <strong>Northrop Grumman B-2 Spirit &rarr;</strong>
@@ -161,33 +161,33 @@ Placeholder
 <h4 class="center-header">Reconnaissance / Surveillance</h4>
 
 <div class="plane-grid-container">
-<a href="/cold-war/lockheed-p-38-lightning/" class="plane-box">
+<a href="/cold-war/lockheed-u-2/" class="plane-box">
     <div class="plane-image-section">
-      <img src="../cold-war/images/lockheed_p-38_lightning.jpg" alt="Lockheed P-38 Lightning" class="plane-image" />
+      <img src="../cold-war/images/lockheed_u-2.jpg" alt="Lockheed U-2" class="plane-image" />
     </div>
     <div class="plane-caption">
       <strong>Lockheed U-2 &rarr;</strong>
     </div>
   </a>
-  <a href="/cold-war/north-american-p-51-mustang/" class="plane-box">
+  <a href="/cold-war/lockheed-sr-71-blackbird/" class="plane-box">
     <div class="plane-image-section">
-      <img src="../cold-war/images/north_american_p-51_mustang.jpg" alt="North American P-51 Mustang" class="plane-image" />
+      <img src="../cold-war/images/lockheed_sr-71_blackbird.jpg" alt="Lockheed SR-71 Blackbird" class="plane-image" />
     </div>
     <div class="plane-caption">
       <strong>Lockheed SR-71 Blackbird &rarr;</strong>
     </div>
   </a>
-  <a href="/cold-war/republic-p-47-thunderbolt/" class="plane-box">
+  <a href="/cold-war/lockheed-ec-121-warning-star/" class="plane-box">
     <div class="plane-image-section">
-      <img src="../cold-war/images/republic_p-47_thunderbolt.jpg" alt="Republic P-47 Thunderbolt" class="plane-image" />
+      <img src="../cold-war/images/lockheed_ec-121_warning_star.jpg" alt="Lockheed EC-121 Warning Star" class="plane-image" />
     </div>
     <div class="plane-caption">
       <strong>Lockheed EC-121 Warning Star &rarr;</strong>
     </div>
   </a>
-  <a href="/cold-war/northrop-p-61-black-widow/" class="plane-box">
+  <a href="/cold-war/boeing-e-3-sentry/" class="plane-box">
     <div class="plane-image-section">
-      <img src="../cold-war/images/northrop_p-61_black_widow.jpg" alt="Northrop P-61 Black Widow" class="plane-image" />
+      <img src="../cold-war/images/boeing_e-3_sentry.jpg" alt="Boeing E-3 Sentry" class="plane-image" />
     </div>
     <div class="plane-caption">
       <strong>Boeing E-3 Sentry &rarr;</strong>
@@ -200,25 +200,25 @@ Placeholder
 <h4 class="center-header">Transport</h4>
 
 <div class="plane-grid-container">
-<a href="/cold-war/lockheed-p-38-lightning/" class="plane-box">
+<a href="/cold-war/lockheed-c-130-hercules/" class="plane-box">
     <div class="plane-image-section">
-      <img src="../cold-war/images/lockheed_p-38_lightning.jpg" alt="Lockheed P-38 Lightning" class="plane-image" />
+      <img src="../cold-war/images/lockheed_c-hercules.jpg" alt="Lockheed C-130 Hercules" class="plane-image" />
     </div>
     <div class="plane-caption">
       <strong>Lockheed C-130 Hercules &rarr;</strong>
     </div>
   </a>
-  <a href="/cold-war/north-american-p-51-mustang/" class="plane-box">
+  <a href="/cold-war/lockheed-c-141-starlifter/" class="plane-box">
     <div class="plane-image-section">
-      <img src="../cold-war/images/north_american_p-51_mustang.jpg" alt="North American P-51 Mustang" class="plane-image" />
+      <img src="../cold-war/images/lockheed_c-141_starlifter.jpg" alt="Lockheed C-141 Starlifter" class="plane-image" />
     </div>
     <div class="plane-caption">
       <strong>Lockheed C-141 Starlifter &rarr;</strong>
     </div>
   </a>
-  <a href="/cold-war/republic-p-47-thunderbolt/" class="plane-box">
+  <a href="/cold-war/lockheed-c-5-galaxy/" class="plane-box">
     <div class="plane-image-section">
-      <img src="../cold-war/images/republic_p-47_thunderbolt.jpg" alt="Republic P-47 Thunderbolt" class="plane-image" />
+      <img src="../cold-war/images/lockheed_c-5_galaxy.jpg" alt="Lockheed C-5 Galaxy" class="plane-image" />
     </div>
     <div class="plane-caption">
       <strong>Lockheed C-5 Galaxy &rarr;</strong>
