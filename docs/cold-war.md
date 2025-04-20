@@ -16,7 +16,7 @@ Placeholder
 
 <br>
 
-<h4 class="center-header">Fighters</h4>
+<h3 class="center-header">Fighter</h3>
 
 <div class="plane-grid-container">
 <a href="/cold-war/north-american-f-86-sabre/" class="plane-box">
@@ -103,7 +103,7 @@ Placeholder
 
 <br>
 
-<h4 class="center-header">Bombers</h4>
+<h3 class="center-header">Bomber</h3>
 
 <div class="plane-grid-container">
 <a href="/cold-war/convair-b-36-peacemaker/" class="plane-box">
@@ -146,19 +146,19 @@ Placeholder
       <strong>Convair B-58 Hustler &rarr;</strong>
     </div>
   </a>
-  <a href="/cold-war/northrop-grumman-b-2-spirit/" class="plane-box">
+  <a href="/cold-war/northrop-b-2-spirit/" class="plane-box">
     <div class="plane-image-section">
-      <img src="../cold-war/images/northrop_grumman_b-2_spirit.jpg" alt="Northrop Grumman B-2 Spirit" class="plane-image" />
+      <img src="../cold-war/images/northrop_b-2_spirit.jpg" alt="Northrop B-2 Spirit" class="plane-image" />
     </div>
     <div class="plane-caption">
-      <strong>Northrop Grumman B-2 Spirit &rarr;</strong>
+      <strong>Northrop B-2 Spirit &rarr;</strong>
     </div>
   </a>
 </div>
 
 <br>
 
-<h4 class="center-header">Reconnaissance / Surveillance</h4>
+<h3 class="center-header">Reconnaissance / Surveillance</h3>
 
 <div class="plane-grid-container">
 <a href="/cold-war/lockheed-u-2/" class="plane-box">
@@ -197,12 +197,12 @@ Placeholder
 
 <br>
 
-<h4 class="center-header">Transport</h4>
+<h3 class="center-header">Transport</h3>
 
 <div class="plane-grid-container">
 <a href="/cold-war/lockheed-c-130-hercules/" class="plane-box">
     <div class="plane-image-section">
-      <img src="../cold-war/images/lockheed_c-hercules.jpg" alt="Lockheed C-130 Hercules" class="plane-image" />
+      <img src="../cold-war/images/lockheed_c-130_hercules.jpg" alt="Lockheed C-130 Hercules" class="plane-image" />
     </div>
     <div class="plane-caption">
       <strong>Lockheed C-130 Hercules &rarr;</strong>
@@ -228,9 +228,266 @@ Placeholder
 
 <br>
 
+<h3 class="center-header">Rotorcraft</h3>
+
+<div class="plane-grid-container">
+<a href="/cold-war/bell-uh-1-iroquois/" class="plane-box">
+    <div class="plane-image-section">
+      <img src="../cold-war/images/bell_uh-1_iroquois.jpg" alt="Bell UH-1 Iroquois" class="plane-image" />
+    </div>
+    <div class="plane-caption">
+      <strong>Bell UH-1 Iroquois &rarr;</strong>
+    </div>
+  </a>
+  <a href="/cold-war/boeing-ch-47-chinook/" class="plane-box">
+    <div class="plane-image-section">
+      <img src="../cold-war/images/boeing_ch-47_chinook.jpg" alt="Boeing CH-47 Chinook" class="plane-image" />
+    </div>
+    <div class="plane-caption">
+      <strong>Boeing CH-47 Chinook &rarr;</strong>
+    </div>
+  </a>
+  <a href="/cold-war/bell-ah-1-cobra/" class="plane-box">
+    <div class="plane-image-section">
+      <img src="../cold-war/images/bell_ah-1_cobra.jpg" alt="Bell AH-1 Cobra" class="plane-image" />
+    </div>
+    <div class="plane-caption">
+      <strong>Bell AH-1 Cobra &rarr;</strong>
+    </div>
+  </a>
+  <a href="/cold-war/sikorsky-uh-60-black-hawk/" class="plane-box">
+    <div class="plane-image-section">
+      <img src="../cold-war/images/sikorsky_uh-60_black_hawk.jpg" alt="Sikorsky UH-60 Black Hawk" class="plane-image" />
+    </div>
+    <div class="plane-caption">
+      <strong>Sikorsky UH-60 Black Hawk &rarr;</strong>
+    </div>
+  </a>
+  <a href="/cold-war/boeing-ah-64-apache/" class="plane-box">
+    <div class="plane-image-section">
+      <img src="../cold-war/images/boeing_ah-64_apache.jpg" alt="Boeing AH-64 Apache" class="plane-image" />
+    </div>
+    <div class="plane-caption">
+      <strong>Boeing AH-64 Apache &rarr;</strong>
+    </div>
+  </a>
+</div>
+
+<br>
+
 <br>
 
 # Soviet Union
+
+Placeholder
+
+<br>
+
+<h3 class="center-header">Fighter</h3>
+
+<div class="plane-grid-container">
+<a href="/cold-war/mikoyan-gurevich-mig-15/" class="plane-box">
+    <div class="plane-image-section">
+      <img src="../cold-war/images/mikoyan-gurevich_mig-15.jpg" alt="Mikoyan-Gurevich MiG-15" class="plane-image" />
+    </div>
+    <div class="plane-caption">
+      <strong>Mikoyan-Gurevich MiG-15 &rarr;</strong>
+    </div>
+  </a>
+  <a href="/cold-war/mikoyan-gurevich-mig-17/" class="plane-box">
+    <div class="plane-image-section">
+      <img src="../cold-war/images/mikoyan-gurevich_mig-17.jpg" alt="Mikoyan-Gurevich MiG-17" class="plane-image" />
+    </div>
+    <div class="plane-caption">
+      <strong>Mikoyan-Gurevich MiG-17 &rarr;</strong>
+    </div>
+  </a>
+  <a href="/cold-war/mikoyan-gurevich-mig-19/" class="plane-box">
+    <div class="plane-image-section">
+      <img src="../cold-war/images/mikoyan-gurevich_mig-29.jpg" alt="Mikoyan-Gurevich MiG-19" class="plane-image" />
+    </div>
+    <div class="plane-caption">
+      <strong>Mikoyan-Gurevich MiG-19 &rarr;</strong>
+    </div>
+  </a>
+  <a href="/cold-war/mikoyan-gurevich-mig-21/" class="plane-box">
+    <div class="plane-image-section">
+      <img src="../cold-war/images/mikoyan-gurevich_mig-21.jpg" alt="Mikoyan-Gurevich MiG-21" class="plane-image" />
+    </div>
+    <div class="plane-caption">
+      <strong>Mikoyan-Gurevich MiG-21 &rarr;</strong>
+    </div>
+  </a>
+  <a href="/cold-war/sukhoi-su-15/" class="plane-box">
+    <div class="plane-image-section">
+      <img src="../cold-war/images/sukhoi_su-15.jpg" alt="Sukhoi Su-15" class="plane-image" />
+    </div>
+    <div class="plane-caption">
+      <strong>Sukhoi Su-15 &rarr;</strong>
+    </div>
+  </a>
+  <a href="/cold-war/mikoyan-gurevich-mig-23/" class="plane-box">
+    <div class="plane-image-section">
+      <img src="../cold-war/images/mikoyan-gurevich_mig-23.jpg" alt="Mikoyan-Gurevich MiG-23" class="plane-image" />
+    </div>
+    <div class="plane-caption">
+      <strong>Mikoyan-Gurevich MiG-23 &rarr;</strong>
+    </div>
+  </a>
+  <a href="/cold-war/sukhoi-su-27/" class="plane-box">
+    <div class="plane-image-section">
+      <img src="../cold-war/images/sukhoi_su-27.jpg" alt="Sukhoi Su-27" class="plane-image" />
+    </div>
+    <div class="plane-caption">
+      <strong>Sukhoi Su-27 &rarr;</strong>
+    </div>
+  </a>
+  <a href="/cold-war/mikoyan-mig-29/" class="plane-box">
+    <div class="plane-image-section">
+      <img src="../cold-war/images/mikoyan_mig-29.jpg" alt="Mikoyan MiG-29" class="plane-image" />
+    </div>
+    <div class="plane-caption">
+      <strong>Mikoyan MiG-29 &rarr;</strong>
+    </div>
+  </a>
+  <a href="/cold-war/mikoyan-mig-31/" class="plane-box">
+    <div class="plane-image-section">
+      <img src="../cold-war/images/mikoyan_mig-31.jpg" alt="Mikoyan MiG-31" class="plane-image" />
+    </div>
+    <div class="plane-caption">
+      <strong>Mikoyan MiG-31 &rarr;</strong>
+    </div>
+  </a>
+</div>
+
+<br>
+
+<h3 class="center-header">Bomber</h3>
+
+<div class="plane-grid-container">
+<a href="/cold-war/tupolev-tu-4/" class="plane-box">
+    <div class="plane-image-section">
+      <img src="../cold-war/images/tupolev_tu-4.jpg" alt="Tupolev Tu-4" class="plane-image" />
+    </div>
+    <div class="plane-caption">
+      <strong>Tupolev Tu-4 &rarr;</strong>
+    </div>
+  </a>
+  <a href="/cold-war/tupolev-tu-16/" class="plane-box">
+    <div class="plane-image-section">
+      <img src="../cold-war/images/tupolev_tu-16.jpg" alt="Tupolev Tu-16" class="plane-image" />
+    </div>
+    <div class="plane-caption">
+      <strong>Tupolev Tu-16 &rarr;</strong>
+    </div>
+  </a>
+  <a href="/cold-war/myasishchev-m-4/" class="plane-box">
+    <div class="plane-image-section">
+      <img src="../cold-war/images/myasishchev_m-4.jpg" alt="Myasishchev M-4" class="plane-image" />
+    </div>
+    <div class="plane-caption">
+      <strong>Myasishchev M-4 &rarr;</strong>
+    </div>
+  </a>
+  <a href="/cold-war/tupolev-tu-95/" class="plane-box">
+    <div class="plane-image-section">
+      <img src="../cold-war/images/tupolev_tu-95.jpg" alt="Tupolev Tu-95" class="plane-image" />
+    </div>
+    <div class="plane-caption">
+      <strong>Tupolev Tu-95 &rarr;</strong>
+    </div>
+  </a>
+  <a href="/cold-war/tupolev-tu-22/" class="plane-box">
+    <div class="plane-image-section">
+      <img src="../cold-war/images/tupolev_tu-22.jpg" alt="Tupolev Tu-22" class="plane-image" />
+    </div>
+    <div class="plane-caption">
+      <strong>Tupolev Tu-22 &rarr;</strong>
+    </div>
+  </a>
+  <a href="/cold-war/tupolev-tu-160/" class="plane-box">
+    <div class="plane-image-section">
+      <img src="../cold-war/images/tupolev_tu-160.jpg" alt="Tupolev Tu-160" class="plane-image" />
+    </div>
+    <div class="plane-caption">
+      <strong>Tupolev Tu-160 &rarr;</strong>
+    </div>
+  </a>
+</div>
+
+<br>
+
+<h3 class="center-header">Transport</h3>
+
+<div class="plane-grid-container">
+<a href="/cold-war/antonov-an-12/" class="plane-box">
+    <div class="plane-image-section">
+      <img src="../cold-war/images/antonov_an-12.jpg" alt="Antonov An-12" class="plane-image" />
+    </div>
+    <div class="plane-caption">
+      <strong>Antonov An-12 &rarr;</strong>
+    </div>
+  </a>
+  <a href="/cold-war/antonov-an-22/" class="plane-box">
+    <div class="plane-image-section">
+      <img src="../cold-war/images/antonov_an-22.jpg" alt="Antonov An-22" class="plane-image" />
+    </div>
+    <div class="plane-caption">
+      <strong>Antonov An-22 &rarr;</strong>
+    </div>
+  </a>
+  <a href="/cold-war/ilyushin-il-76/" class="plane-box">
+    <div class="plane-image-section">
+      <img src="../cold-war/images/ilyushin_il-76.jpg" alt="Ilyushin Il-76" class="plane-image" />
+    </div>
+    <div class="plane-caption">
+      <strong>Ilyushin Il-76 &rarr;</strong>
+    </div>
+  </a>
+  <a href="/cold-war/antonov-an-124-ruslan/" class="plane-box">
+    <div class="plane-image-section">
+      <img src="../cold-war/images/anotonov_an-124_ruslan.jpg" alt="Antonov An-124 Ruslan" class="plane-image" />
+    </div>
+    <div class="plane-caption">
+      <strong>Antonov An-124 Ruslan &rarr;</strong>
+    </div>
+  </a>
+</div>
+
+<br>
+
+<h3 class="center-header">Rotorcraft</h3>
+
+<div class="plane-grid-container">
+<a href="/cold-war/mil-mi-8/" class="plane-box">
+    <div class="plane-image-section">
+      <img src="../cold-war/images/mil_mi-8.jpg" alt="Mil Mi-8" class="plane-image" />
+    </div>
+    <div class="plane-caption">
+      <strong>Mil Mi-8 &rarr;</strong>
+    </div>
+  </a>
+  <a href="/cold-war/mil-mi-24/" class="plane-box">
+    <div class="plane-image-section">
+      <img src="../cold-war/images/mil_mi-24.jpg" alt="Mil Mi-24" class="plane-image" />
+    </div>
+    <div class="plane-caption">
+      <strong>Mil Mi-24 &rarr;</strong>
+    </div>
+  </a>
+  <a href="/cold-war/mil-mi-26/" class="plane-box">
+    <div class="plane-image-section">
+      <img src="../cold-war/images/mil_mi-26.jpg" alt="Mil Mi-26" class="plane-image" />
+    </div>
+    <div class="plane-caption">
+      <strong>Mil Mi-26 &rarr;</strong>
+    </div>
+  </a>
+</div>
+
+<br>
+
+<br>
 
 # United Kingdom
 

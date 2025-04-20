@@ -16,7 +16,7 @@ American planes in the Second World War were built for range and power. U.S. air
 
 <br>
 
-<h4 class="center-header">Fighters</h4>
+<h3 class="center-header">Fighter</h3>
 
 <div class="plane-grid-container">
 <a href="/world-war-ii/lockheed-p-38-lightning/" class="plane-box">
@@ -55,7 +55,7 @@ American planes in the Second World War were built for range and power. U.S. air
 
 <br>
 
-<h4 class="center-header">Carrier Fighters</h4>
+<h3 class="center-header">Carrier Fighter</h3>
 
 <div class="plane-grid-container">
   <a href="/world-war-ii/grumman-f4f-wildcat/" class="plane-box">
@@ -86,7 +86,7 @@ American planes in the Second World War were built for range and power. U.S. air
 
 <br>
 
-<h4 class="center-header">Bombers</h4>
+<h3 class="center-header">Bomber</h3>
 
 <div class="plane-grid-container">
   <a href="/world-war-ii/boeing-b-17-flying-fortress/" class="plane-box">
@@ -133,7 +133,7 @@ British aircraft reflected a balance of agility, adaptability, and specialized r
 
 <br>
 
-<h4 class="center-header">Fighters</h4>
+<h3 class="center-header">Fighter</h3>
 
 <div class="plane-grid-container">
 <a href="/world-war-ii/gloster-gladiator/" class="plane-box">
@@ -164,7 +164,7 @@ British aircraft reflected a balance of agility, adaptability, and specialized r
 
 <br>
 
-<h4 class="center-header">Bombers</h4>
+<h3 class="center-header">Bomber</h3>
 
 <div class="plane-grid-container">
 <a href="/world-war-ii/short-stirling/" class="plane-box">
@@ -203,7 +203,7 @@ German aircraft design combined engineering precision with aggressive tactics, a
 
 <br>
 
-<h4 class="center-header">Fighters</h4>
+<h3 class="center-header">Fighter</h3>
 
 <div class="plane-grid-container">
 <a href="/world-war-ii/messerschmitt-bf-109/" class="plane-box">
@@ -234,7 +234,7 @@ German aircraft design combined engineering precision with aggressive tactics, a
 
 <br>
 
-<h4 class="center-header">Bombers</h4>
+<h3 class="center-header">Bomber</h3>
 
 <div class="plane-grid-container">
 <a href="/world-war-ii/heinkel-he-111/" class="plane-box">
@@ -281,7 +281,7 @@ Soviet planes were built to be rugged and fast to produce. The USSR prioritized 
 
 <br>
 
-<h4 class="center-header">Fighters</h4>
+<h3 class="center-header">Fighter</h3>
 
 <div class="plane-grid-container">
 <a href="/world-war-ii/mikoyan-gurevich-mig-3/" class="plane-box">
@@ -312,7 +312,7 @@ Soviet planes were built to be rugged and fast to produce. The USSR prioritized 
 
 <br>
 
-<h4 class="center-header">Bombers</h4>
+<h3 class="center-header">Bomber</h3>
 
 <div class="plane-grid-container">
 <a href="/world-war-ii/ilyushin-il-2/" class="plane-box">
@@ -351,7 +351,7 @@ Japanese aircraft reflected a philosophy of lightness, maneuverability, and long
 
 <br>
 
-<h4 class="center-header">Fighters</h4>
+<h3 class="center-header">Fighter</h3>
 
 <div class="plane-grid-container">
 <a href="/world-war-ii/mitsubishi-a5m/" class="plane-box">
