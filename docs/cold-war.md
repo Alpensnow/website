@@ -304,7 +304,7 @@ Placeholder
   </a>
   <a href="/cold-war/mikoyan-gurevich-mig-19/" class="plane-box">
     <div class="plane-image-section">
-      <img src="../cold-war/images/mikoyan-gurevich_mig-29.jpg" alt="Mikoyan-Gurevich MiG-19" class="plane-image" />
+      <img src="../cold-war/images/mikoyan-gurevich_mig-19.jpg" alt="Mikoyan-Gurevich MiG-19" class="plane-image" />
     </div>
     <div class="plane-caption">
       <strong>Mikoyan-Gurevich MiG-19 &rarr;</strong>
@@ -379,14 +379,6 @@ Placeholder
     </div>
     <div class="plane-caption">
       <strong>Tupolev Tu-16 &rarr;</strong>
-    </div>
-  </a>
-  <a href="/cold-war/myasishchev-m-4/" class="plane-box">
-    <div class="plane-image-section">
-      <img src="../cold-war/images/myasishchev_m-4.jpg" alt="Myasishchev M-4" class="plane-image" />
-    </div>
-    <div class="plane-caption">
-      <strong>Myasishchev M-4 &rarr;</strong>
     </div>
   </a>
   <a href="/cold-war/tupolev-tu-95/" class="plane-box">
