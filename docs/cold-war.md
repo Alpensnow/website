@@ -103,6 +103,37 @@ Placeholder
 
 <br>
 
+<h3 class="center-header">Interceptor</h3>
+
+<div class="plane-grid-container">
+  <a href="/cold-war/convair-f-102-delta-dagger/" class="plane-box">
+    <div class="plane-image-section">
+      <img src="../cold-war/images/convair_f-102_delta_dagger.jpg" alt="Convair F-102 Delta Dagger" class="plane-image" />
+    </div>
+    <div class="plane-caption">
+      <strong>Convair F-102 Delta Dagger &rarr;</strong>
+    </div>
+  </a>
+  <a href="/cold-war/mil-mi-24/" class="plane-box">
+    <div class="plane-image-section">
+      <img src="../cold-war/images/mcdonnel_f-101_voodoo.jpg" alt="McDonnell F-101 Voodoo" class="plane-image" />
+    </div>
+    <div class="plane-caption">
+      <strong>McDonnell F-101 Voodoo &rarr;</strong>
+    </div>
+  </a>
+  <a href="/cold-war/convair-f-106-delta-dart/" class="plane-box">
+    <div class="plane-image-section">
+      <img src="../cold-war/images/convair_f-106_delta_dart.jpg" alt="Convair F-106 Delta Dart" class="plane-image" />
+    </div>
+    <div class="plane-caption">
+      <strong>Convair F-106 Delta Dart &rarr;</strong>
+    </div>
+  </a>
+</div>
+
+<br>
+
 <h3 class="center-header">Bomber</h3>
 
 <div class="plane-grid-container">
@@ -318,14 +349,6 @@ Placeholder
       <strong>Mikoyan-Gurevich MiG-21 &rarr;</strong>
     </div>
   </a>
-  <a href="/cold-war/sukhoi-su-15/" class="plane-box">
-    <div class="plane-image-section">
-      <img src="../cold-war/images/sukhoi_su-15.jpg" alt="Sukhoi Su-15" class="plane-image" />
-    </div>
-    <div class="plane-caption">
-      <strong>Sukhoi Su-15 &rarr;</strong>
-    </div>
-  </a>
   <a href="/cold-war/mikoyan-gurevich-mig-23/" class="plane-box">
     <div class="plane-image-section">
       <img src="../cold-war/images/mikoyan-gurevich_mig-23.jpg" alt="Mikoyan-Gurevich MiG-23" class="plane-image" />
@@ -348,6 +371,29 @@ Placeholder
     </div>
     <div class="plane-caption">
       <strong>Mikoyan MiG-29 &rarr;</strong>
+    </div>
+  </a>
+</div>
+
+<br>
+
+<h3 class="center-header">Interceptor</h3>
+
+<div class="plane-grid-container">
+  <a href="/cold-war/sukhoi-su-15/" class="plane-box">
+    <div class="plane-image-section">
+      <img src="../cold-war/images/sukhoi_su-15.jpg" alt="Sukhoi Su-15" class="plane-image" />
+    </div>
+    <div class="plane-caption">
+      <strong>Sukhoi Su-15 &rarr;</strong>
+    </div>
+  </a>
+  <a href="/cold-war/mikoyan-gurevich-mig-25/" class="plane-box">
+    <div class="plane-image-section">
+      <img src="../cold-war/images/mikoyan_gurevich_mig-25.jpg" alt="Mikoyan-Gurevich MiG-25" class="plane-image" />
+    </div>
+    <div class="plane-caption">
+      <strong>Mikoyan-Gurevich MiG-25 &rarr;</strong>
     </div>
   </a>
   <a href="/cold-war/mikoyan-mig-31/" class="plane-box">
@@ -482,5 +528,73 @@ Placeholder
 <br>
 
 # United Kingdom
+
+Placeholder
+
+<br>
+
+<h3 class="center-header">Fighter</h3>
+
+<div class="plane-grid-container">
+<a href="/cold-war/mil-mi-8/" class="plane-box">
+    <div class="plane-image-section">
+      <img src="../cold-war/images/mil_mi-8.jpg" alt="Mil Mi-8" class="plane-image" />
+    </div>
+    <div class="plane-caption">
+      <strong>Gloster Meteor &rarr;</strong>
+    </div>
+  </a>
+  <a href="/cold-war/mil-mi-24/" class="plane-box">
+    <div class="plane-image-section">
+      <img src="../cold-war/images/mil_mi-24.jpg" alt="Mil Mi-24" class="plane-image" />
+    </div>
+    <div class="plane-caption">
+      <strong>Hawker Hunter &rarr;</strong>
+    </div>
+  </a>
+  <a href="/cold-war/mil-mi-26/" class="plane-box">
+    <div class="plane-image-section">
+      <img src="../cold-war/images/mil_mi-26.jpg" alt="Mil Mi-26" class="plane-image" />
+    </div>
+    <div class="plane-caption">
+      <strong>English Electric Lightning &rarr;</strong>
+    </div>
+  </a>
+</div>
+
+<br>
+
+<h3 class="center-header">Bomber</h3>
+
+<div class="plane-grid-container">
+<a href="/cold-war/mil-mi-8/" class="plane-box">
+    <div class="plane-image-section">
+      <img src="../cold-war/images/mil_mi-8.jpg" alt="Mil Mi-8" class="plane-image" />
+    </div>
+    <div class="plane-caption">
+      <strong>Vickers Valiant &rarr;</strong>
+    </div>
+  </a>
+  <a href="/cold-war/mil-mi-24/" class="plane-box">
+    <div class="plane-image-section">
+      <img src="../cold-war/images/mil_mi-24.jpg" alt="Mil Mi-24" class="plane-image" />
+    </div>
+    <div class="plane-caption">
+      <strong>Avro Vulcan &rarr;</strong>
+    </div>
+  </a>
+  <a href="/cold-war/mil-mi-26/" class="plane-box">
+    <div class="plane-image-section">
+      <img src="../cold-war/images/mil_mi-26.jpg" alt="Mil Mi-26" class="plane-image" />
+    </div>
+    <div class="plane-caption">
+      <strong>Handley Page Victor &rarr;</strong>
+    </div>
+  </a>
+</div>
+
+<br>
+
+<br>
 
 # France
