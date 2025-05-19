@@ -536,25 +536,25 @@ Placeholder
 <h3 class="center-header">Fighter</h3>
 
 <div class="plane-grid-container">
-<a href="/cold-war/mil-mi-8/" class="plane-box">
+<a href="/cold-war/gloster-meteor/" class="plane-box">
     <div class="plane-image-section">
-      <img src="../cold-war/images/mil_mi-8.jpg" alt="Mil Mi-8" class="plane-image" />
+      <img src="../cold-war/images/gloster_meteor.jpg" alt="Gloster Meteor" class="plane-image" />
     </div>
     <div class="plane-caption">
       <strong>Gloster Meteor &rarr;</strong>
     </div>
   </a>
-  <a href="/cold-war/mil-mi-24/" class="plane-box">
+  <a href="/cold-war/hawker-hunter/" class="plane-box">
     <div class="plane-image-section">
-      <img src="../cold-war/images/mil_mi-24.jpg" alt="Mil Mi-24" class="plane-image" />
+      <img src="../cold-war/images/hawker_hunter.jpg" alt="Hawker Hunter" class="plane-image" />
     </div>
     <div class="plane-caption">
       <strong>Hawker Hunter &rarr;</strong>
     </div>
   </a>
-  <a href="/cold-war/mil-mi-26/" class="plane-box">
+  <a href="/cold-war/english-electric-lightning/" class="plane-box">
     <div class="plane-image-section">
-      <img src="../cold-war/images/mil_mi-26.jpg" alt="Mil Mi-26" class="plane-image" />
+      <img src="../cold-war/images/english_electric_lightning.jpg" alt="English Electric Lightning" class="plane-image" />
     </div>
     <div class="plane-caption">
       <strong>English Electric Lightning &rarr;</strong>
@@ -567,25 +567,25 @@ Placeholder
 <h3 class="center-header">Bomber</h3>
 
 <div class="plane-grid-container">
-<a href="/cold-war/mil-mi-8/" class="plane-box">
+<a href="/cold-war/vickers-valiant/" class="plane-box">
     <div class="plane-image-section">
-      <img src="../cold-war/images/mil_mi-8.jpg" alt="Mil Mi-8" class="plane-image" />
+      <img src="../cold-war/images/vickers_valiant.jpg" alt="Vickers Valiant" class="plane-image" />
     </div>
     <div class="plane-caption">
       <strong>Vickers Valiant &rarr;</strong>
     </div>
   </a>
-  <a href="/cold-war/mil-mi-24/" class="plane-box">
+  <a href="/cold-war/avro-vulcan/" class="plane-box">
     <div class="plane-image-section">
-      <img src="../cold-war/images/mil_mi-24.jpg" alt="Mil Mi-24" class="plane-image" />
+      <img src="../cold-war/images/avro_vulcan.jpg" alt="Avro Vulcan" class="plane-image" />
     </div>
     <div class="plane-caption">
       <strong>Avro Vulcan &rarr;</strong>
     </div>
   </a>
-  <a href="/cold-war/mil-mi-26/" class="plane-box">
+  <a href="/cold-war/handley-page-victor/" class="plane-box">
     <div class="plane-image-section">
-      <img src="../cold-war/images/mil_mi-26.jpg" alt="Mil Mi-26" class="plane-image" />
+      <img src="../cold-war/images/handley_page_victor.jpg" alt="Handley Page Victor" class="plane-image" />
     </div>
     <div class="plane-caption">
       <strong>Handley Page Victor &rarr;</strong>
