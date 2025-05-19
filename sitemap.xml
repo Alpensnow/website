@@ -2,218 +2,330 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://www.aircraftguide.net/</loc>
-         <lastmod>2025-04-18</lastmod>
+         <lastmod>2025-05-19</lastmod>
     </url>
     <url>
          <loc>https://www.aircraftguide.net/cold-war/</loc>
-         <lastmod>2025-04-18</lastmod>
+         <lastmod>2025-05-19</lastmod>
     </url>
     <url>
          <loc>https://www.aircraftguide.net/modern-day/</loc>
-         <lastmod>2025-04-18</lastmod>
+         <lastmod>2025-05-19</lastmod>
     </url>
     <url>
          <loc>https://www.aircraftguide.net/world-war-i/</loc>
-         <lastmod>2025-04-18</lastmod>
+         <lastmod>2025-05-19</lastmod>
     </url>
     <url>
          <loc>https://www.aircraftguide.net/world-war-ii/</loc>
-         <lastmod>2025-04-18</lastmod>
+         <lastmod>2025-05-19</lastmod>
+    </url>
+    <url>
+         <loc>https://www.aircraftguide.net/cold-war/bell_ah-1_cobra/</loc>
+         <lastmod>2025-05-19</lastmod>
+    </url>
+    <url>
+         <loc>https://www.aircraftguide.net/cold-war/bell_uh-1_iroquois/</loc>
+         <lastmod>2025-05-19</lastmod>
+    </url>
+    <url>
+         <loc>https://www.aircraftguide.net/cold-war/boeing-b-47-stratojet/</loc>
+         <lastmod>2025-05-19</lastmod>
+    </url>
+    <url>
+         <loc>https://www.aircraftguide.net/cold-war/boeing-b-50-superfortress/</loc>
+         <lastmod>2025-05-19</lastmod>
+    </url>
+    <url>
+         <loc>https://www.aircraftguide.net/cold-war/boeing-b-52-stratofortress/</loc>
+         <lastmod>2025-05-19</lastmod>
+    </url>
+    <url>
+         <loc>https://www.aircraftguide.net/cold-war/boeing_ah-64_apache/</loc>
+         <lastmod>2025-05-19</lastmod>
+    </url>
+    <url>
+         <loc>https://www.aircraftguide.net/cold-war/boeing_ch-47_chinook/</loc>
+         <lastmod>2025-05-19</lastmod>
+    </url>
+    <url>
+         <loc>https://www.aircraftguide.net/cold-war/boeing_e-3_sentry/</loc>
+         <lastmod>2025-05-19</lastmod>
+    </url>
+    <url>
+         <loc>https://www.aircraftguide.net/cold-war/convair-b-36-peacemaker/</loc>
+         <lastmod>2025-05-19</lastmod>
+    </url>
+    <url>
+         <loc>https://www.aircraftguide.net/cold-war/convair-b-58-hustler/</loc>
+         <lastmod>2025-05-19</lastmod>
+    </url>
+    <url>
+         <loc>https://www.aircraftguide.net/cold-war/general-dynamics-f-111-aardvark/</loc>
+         <lastmod>2025-05-19</lastmod>
+    </url>
+    <url>
+         <loc>https://www.aircraftguide.net/cold-war/general-dynamics-f-16-fighting-falcon/</loc>
+         <lastmod>2025-05-19</lastmod>
+    </url>
+    <url>
+         <loc>https://www.aircraftguide.net/cold-war/grumman-f-14-tomcat/</loc>
+         <lastmod>2025-05-19</lastmod>
+    </url>
+    <url>
+         <loc>https://www.aircraftguide.net/cold-war/lockheed-f-104-starfighter/</loc>
+         <lastmod>2025-05-19</lastmod>
+    </url>
+    <url>
+         <loc>https://www.aircraftguide.net/cold-war/lockheed-sr-71-blackbird/</loc>
+         <lastmod>2025-05-19</lastmod>
+    </url>
+    <url>
+         <loc>https://www.aircraftguide.net/cold-war/lockheed-u-2/</loc>
+         <lastmod>2025-05-19</lastmod>
+    </url>
+    <url>
+         <loc>https://www.aircraftguide.net/cold-war/lockheed_c-130_hercules/</loc>
+         <lastmod>2025-05-19</lastmod>
+    </url>
+    <url>
+         <loc>https://www.aircraftguide.net/cold-war/lockheed_c-141_starlifter/</loc>
+         <lastmod>2025-05-19</lastmod>
+    </url>
+    <url>
+         <loc>https://www.aircraftguide.net/cold-war/lockheed_c-5_galaxy/</loc>
+         <lastmod>2025-05-19</lastmod>
+    </url>
+    <url>
+         <loc>https://www.aircraftguide.net/cold-war/lockheed_ec-121_warning_star/</loc>
+         <lastmod>2025-05-19</lastmod>
+    </url>
+    <url>
+         <loc>https://www.aircraftguide.net/cold-war/mcdonnel-douglas-f-15-eagle/</loc>
+         <lastmod>2025-05-19</lastmod>
+    </url>
+    <url>
+         <loc>https://www.aircraftguide.net/cold-war/mcdonnel-f-4-phantom/</loc>
+         <lastmod>2025-05-19</lastmod>
+    </url>
+    <url>
+         <loc>https://www.aircraftguide.net/cold-war/mcdonnell-douglas-fa-18-hornet/</loc>
+         <lastmod>2025-05-19</lastmod>
+    </url>
+    <url>
+         <loc>https://www.aircraftguide.net/cold-war/north-american-f-100-super-sabre/</loc>
+         <lastmod>2025-05-19</lastmod>
+    </url>
+    <url>
+         <loc>https://www.aircraftguide.net/cold-war/north-american-f-86-sabre/</loc>
+         <lastmod>2025-05-19</lastmod>
+    </url>
+    <url>
+         <loc>https://www.aircraftguide.net/cold-war/northrop-b-2-spirit/</loc>
+         <lastmod>2025-05-19</lastmod>
+    </url>
+    <url>
+         <loc>https://www.aircraftguide.net/cold-war/republic-f-105-thunderchief/</loc>
+         <lastmod>2025-05-19</lastmod>
+    </url>
+    <url>
+         <loc>https://www.aircraftguide.net/cold-war/sikorsky_uh-60_black_hawk/</loc>
+         <lastmod>2025-05-19</lastmod>
     </url>
     <url>
          <loc>https://www.aircraftguide.net/world-war-i/albatros-di/</loc>
-         <lastmod>2025-04-18</lastmod>
+         <lastmod>2025-05-19</lastmod>
     </url>
     <url>
          <loc>https://www.aircraftguide.net/world-war-i/albatros-dv/</loc>
-         <lastmod>2025-04-18</lastmod>
+         <lastmod>2025-05-19</lastmod>
     </url>
     <url>
          <loc>https://www.aircraftguide.net/world-war-i/armstrong-whitworth-fk8/</loc>
-         <lastmod>2025-04-18</lastmod>
+         <lastmod>2025-05-19</lastmod>
     </url>
     <url>
          <loc>https://www.aircraftguide.net/world-war-i/bristol-f2/</loc>
-         <lastmod>2025-04-18</lastmod>
+         <lastmod>2025-05-19</lastmod>
     </url>
     <url>
          <loc>https://www.aircraftguide.net/world-war-i/fokker-dri/</loc>
-         <lastmod>2025-04-18</lastmod>
+         <lastmod>2025-05-19</lastmod>
     </url>
     <url>
          <loc>https://www.aircraftguide.net/world-war-i/fokker-dvii/</loc>
-         <lastmod>2025-04-18</lastmod>
+         <lastmod>2025-05-19</lastmod>
     </url>
     <url>
          <loc>https://www.aircraftguide.net/world-war-i/fokker-dviii/</loc>
-         <lastmod>2025-04-18</lastmod>
+         <lastmod>2025-05-19</lastmod>
     </url>
     <url>
          <loc>https://www.aircraftguide.net/world-war-i/fokker-eindecker/</loc>
-         <lastmod>2025-04-18</lastmod>
+         <lastmod>2025-05-19</lastmod>
     </url>
     <url>
          <loc>https://www.aircraftguide.net/world-war-i/halberstadt-dii/</loc>
-         <lastmod>2025-04-18</lastmod>
+         <lastmod>2025-05-19</lastmod>
     </url>
     <url>
          <loc>https://www.aircraftguide.net/world-war-i/nieuport-17/</loc>
-         <lastmod>2025-04-18</lastmod>
+         <lastmod>2025-05-19</lastmod>
     </url>
     <url>
          <loc>https://www.aircraftguide.net/world-war-i/royal-aircraft-factory-be2/</loc>
-         <lastmod>2025-04-18</lastmod>
+         <lastmod>2025-05-19</lastmod>
     </url>
     <url>
          <loc>https://www.aircraftguide.net/world-war-i/royal-aircraft-factory-se5/</loc>
-         <lastmod>2025-04-18</lastmod>
+         <lastmod>2025-05-19</lastmod>
     </url>
     <url>
          <loc>https://www.aircraftguide.net/world-war-i/sopwith-camel/</loc>
-         <lastmod>2025-04-18</lastmod>
+         <lastmod>2025-05-19</lastmod>
     </url>
     <url>
          <loc>https://www.aircraftguide.net/world-war-i/spad-svii/</loc>
-         <lastmod>2025-04-18</lastmod>
+         <lastmod>2025-05-19</lastmod>
     </url>
     <url>
          <loc>https://www.aircraftguide.net/world-war-i/spad-sxiii/</loc>
-         <lastmod>2025-04-18</lastmod>
+         <lastmod>2025-05-19</lastmod>
     </url>
     <url>
          <loc>https://www.aircraftguide.net/world-war-i/vickers-fb5/</loc>
-         <lastmod>2025-04-18</lastmod>
+         <lastmod>2025-05-19</lastmod>
     </url>
     <url>
          <loc>https://www.aircraftguide.net/world-war-ii/avro-lancaster/</loc>
-         <lastmod>2025-04-18</lastmod>
+         <lastmod>2025-05-19</lastmod>
     </url>
     <url>
          <loc>https://www.aircraftguide.net/world-war-ii/boeing-b-17-flying-fortress/</loc>
-         <lastmod>2025-04-18</lastmod>
+         <lastmod>2025-05-19</lastmod>
     </url>
     <url>
          <loc>https://www.aircraftguide.net/world-war-ii/boeing-b-29-superfortress/</loc>
-         <lastmod>2025-04-18</lastmod>
+         <lastmod>2025-05-19</lastmod>
     </url>
     <url>
          <loc>https://www.aircraftguide.net/world-war-ii/consolidated-b-24-liberator/</loc>
-         <lastmod>2025-04-18</lastmod>
+         <lastmod>2025-05-19</lastmod>
     </url>
     <url>
          <loc>https://www.aircraftguide.net/world-war-ii/dornier-do-17/</loc>
-         <lastmod>2025-04-18</lastmod>
+         <lastmod>2025-05-19</lastmod>
     </url>
     <url>
          <loc>https://www.aircraftguide.net/world-war-ii/focke-wulf-fw-190/</loc>
-         <lastmod>2025-04-18</lastmod>
+         <lastmod>2025-05-19</lastmod>
     </url>
     <url>
          <loc>https://www.aircraftguide.net/world-war-ii/gloster-gladiator/</loc>
-         <lastmod>2025-04-18</lastmod>
+         <lastmod>2025-05-19</lastmod>
     </url>
     <url>
          <loc>https://www.aircraftguide.net/world-war-ii/grumman-f4f-wildcat/</loc>
-         <lastmod>2025-04-18</lastmod>
+         <lastmod>2025-05-19</lastmod>
     </url>
     <url>
          <loc>https://www.aircraftguide.net/world-war-ii/grumman-f6f-hellcat/</loc>
-         <lastmod>2025-04-18</lastmod>
+         <lastmod>2025-05-19</lastmod>
     </url>
     <url>
          <loc>https://www.aircraftguide.net/world-war-ii/handley-page-halifax/</loc>
-         <lastmod>2025-04-18</lastmod>
+         <lastmod>2025-05-19</lastmod>
     </url>
     <url>
          <loc>https://www.aircraftguide.net/world-war-ii/hawker-hurricane/</loc>
-         <lastmod>2025-04-18</lastmod>
+         <lastmod>2025-05-19</lastmod>
     </url>
     <url>
          <loc>https://www.aircraftguide.net/world-war-ii/heinkel-he-111/</loc>
-         <lastmod>2025-04-18</lastmod>
+         <lastmod>2025-05-19</lastmod>
     </url>
     <url>
          <loc>https://www.aircraftguide.net/world-war-ii/ilyushin-il-2/</loc>
-         <lastmod>2025-04-18</lastmod>
+         <lastmod>2025-05-19</lastmod>
     </url>
     <url>
          <loc>https://www.aircraftguide.net/world-war-ii/ilyushin-il-4/</loc>
-         <lastmod>2025-04-18</lastmod>
+         <lastmod>2025-05-19</lastmod>
     </url>
     <url>
          <loc>https://www.aircraftguide.net/world-war-ii/junkers-ju-87/</loc>
-         <lastmod>2025-04-18</lastmod>
+         <lastmod>2025-05-19</lastmod>
     </url>
     <url>
          <loc>https://www.aircraftguide.net/world-war-ii/junkers-ju-88/</loc>
-         <lastmod>2025-04-18</lastmod>
+         <lastmod>2025-05-19</lastmod>
     </url>
     <url>
          <loc>https://www.aircraftguide.net/world-war-ii/kawanishi-n1k/</loc>
-         <lastmod>2025-04-18</lastmod>
+         <lastmod>2025-05-19</lastmod>
     </url>
     <url>
          <loc>https://www.aircraftguide.net/world-war-ii/lavochkin-la-5/</loc>
-         <lastmod>2025-04-18</lastmod>
+         <lastmod>2025-05-19</lastmod>
     </url>
     <url>
          <loc>https://www.aircraftguide.net/world-war-ii/lockheed-p-38-lightning/</loc>
-         <lastmod>2025-04-18</lastmod>
+         <lastmod>2025-05-19</lastmod>
     </url>
     <url>
          <loc>https://www.aircraftguide.net/world-war-ii/messerschmitt-bf-109/</loc>
-         <lastmod>2025-04-18</lastmod>
+         <lastmod>2025-05-19</lastmod>
     </url>
     <url>
          <loc>https://www.aircraftguide.net/world-war-ii/messerschmitt-me-262/</loc>
-         <lastmod>2025-04-18</lastmod>
+         <lastmod>2025-05-19</lastmod>
     </url>
     <url>
          <loc>https://www.aircraftguide.net/world-war-ii/mikoyan-gurevich-mig-3/</loc>
-         <lastmod>2025-04-18</lastmod>
+         <lastmod>2025-05-19</lastmod>
     </url>
     <url>
          <loc>https://www.aircraftguide.net/world-war-ii/mitsubishi-a5m/</loc>
-         <lastmod>2025-04-18</lastmod>
+         <lastmod>2025-05-19</lastmod>
     </url>
     <url>
          <loc>https://www.aircraftguide.net/world-war-ii/mitsubishi-a6m/</loc>
-         <lastmod>2025-04-18</lastmod>
+         <lastmod>2025-05-19</lastmod>
     </url>
     <url>
          <loc>https://www.aircraftguide.net/world-war-ii/north-american-b-25-mitchell/</loc>
-         <lastmod>2025-04-18</lastmod>
+         <lastmod>2025-05-19</lastmod>
     </url>
     <url>
          <loc>https://www.aircraftguide.net/world-war-ii/north-american-p-51-mustang/</loc>
-         <lastmod>2025-04-18</lastmod>
+         <lastmod>2025-05-19</lastmod>
     </url>
     <url>
          <loc>https://www.aircraftguide.net/world-war-ii/northrop-p-61-black-widow/</loc>
-         <lastmod>2025-04-18</lastmod>
+         <lastmod>2025-05-19</lastmod>
     </url>
     <url>
          <loc>https://www.aircraftguide.net/world-war-ii/petlyakov-pe-2/</loc>
-         <lastmod>2025-04-18</lastmod>
+         <lastmod>2025-05-19</lastmod>
     </url>
     <url>
          <loc>https://www.aircraftguide.net/world-war-ii/republic-p-47-thunderbolt/</loc>
-         <lastmod>2025-04-18</lastmod>
+         <lastmod>2025-05-19</lastmod>
     </url>
     <url>
          <loc>https://www.aircraftguide.net/world-war-ii/short-stirling/</loc>
-         <lastmod>2025-04-18</lastmod>
+         <lastmod>2025-05-19</lastmod>
     </url>
     <url>
          <loc>https://www.aircraftguide.net/world-war-ii/supermarine-spitfire/</loc>
-         <lastmod>2025-04-18</lastmod>
+         <lastmod>2025-05-19</lastmod>
     </url>
     <url>
          <loc>https://www.aircraftguide.net/world-war-ii/vought-f4u-corsair/</loc>
-         <lastmod>2025-04-18</lastmod>
+         <lastmod>2025-05-19</lastmod>
     </url>
     <url>
          <loc>https://www.aircraftguide.net/world-war-ii/yakovlev-yak-3/</loc>
-         <lastmod>2025-04-18</lastmod>
+         <lastmod>2025-05-19</lastmod>
     </url>
 </urlset>
