@@ -135,7 +135,7 @@ a {
 .plane-image {
     width: 100%; /* Image width fills the section */
     height: 100%; /* Image height fills the section */
-    object-fit: cover; /* Ensures the image covers the area without distortion */
+    object-fit: cover; /* Ensure the image covers the area without distortion */
 }
   
 .plane-caption {
@@ -186,4 +186,11 @@ a {
     align-items: center; /* Center vertically */
     height: 100%; /* Match the remaining height of the box */
     text-align: center; /* Center text alignment */
+}
+
+/* Dropdown Button Color */
+.dropdown-toggle {
+  color: black;
+  border-color: black;
+  background-color: white;
 }

@@ -598,3 +598,40 @@ Placeholder
 <br>
 
 # France
+
+Placeholder
+
+<br>
+
+<h3 class="center-header">Fighter</h3>
+
+<div class="plane-grid-container">
+<a href="/cold-war/dassault-mirage-iii/" class="plane-box">
+    <div class="plane-image-section">
+      <img src="../cold-war/images/dassault_mirage_iii.jpg" alt="Dassault Mirage III" class="plane-image" />
+    </div>
+    <div class="plane-caption">
+      <strong>Dassault Mirage III &rarr;</strong>
+    </div>
+  </a>
+  <a href="/cold-war/dassault-mirage-f1/" class="plane-box">
+    <div class="plane-image-section">
+      <img src="../cold-war/images/dassault_mirage_f1.jpg" alt="Dassault Mirage F1" class="plane-image" />
+    </div>
+    <div class="plane-caption">
+      <strong>Dassault Mirage F1 &rarr;</strong>
+    </div>
+  </a>
+  <a href="/cold-war/dassault-mirage-2000/" class="plane-box">
+    <div class="plane-image-section">
+      <img src="../cold-war/images/dassault_mirage_2000.jpg" alt="Dassault Mirage 2000" class="plane-image" />
+    </div>
+    <div class="plane-caption">
+      <strong>Dassault Mirage 2000 &rarr;</strong>
+    </div>
+  </a>
+</div>
+
+<br>
+
+<br>
